@@ -1,828 +1,201 @@
-\t (00:00:10) orcadx 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:10)     Journal start - Fri Dec 27 18:56:25 2024
-\t (00:00:10)         Host=DESKTOP-8178346 User=tubbadu Pid=6620 CPUs=8
-\t (00:00:10) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\unison.exe -layout -orcadx
-\t (00:00:10) 
-\d (00:00:10) Design opened: C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/libraries/footprints/smd_sot23.dra
-\i (00:00:10) trapsize 42
-\i (00:00:11) trapsize 56
-\i (00:00:13) trapsize 57
-\i (00:00:13) QtSignal 3DBoardLevelModelMapper TableModeChooser CurrentIndexChanged 0
-\i (00:00:13) QtSignal 3DBoardLevelModelMapper RotationX CurrentIndexChanged "0.0"
-\i (00:00:13) QtSignal 3DBoardLevelModelMapper RotationY CurrentIndexChanged "0.0"
-\i (00:00:13) QtSignal 3DBoardLevelModelMapper RotationZ CurrentIndexChanged "0.0"
-\i (00:00:14) QtSignal ShapeAddModes ShapeCreatorShapeType CurrentIndexChanged 0
-\i (00:00:14) QtSignal ShapeAddModes_LineWidget ShapeCreatorLineAngleLock CurrentIndexChanged 0
-\i (00:00:14) QtSignal ShapeAddModes_ArcWidget ShapeCreatorArcAngleLock CurrentIndexChanged 0
-\i (00:00:14) QtSignal ShapeAddModes_PolygonWidget ShapeCreatorEdgeType CurrentIndexChanged 0
-\i (00:00:14) QtSignal ShapeAddModes_RectangleWidget ShapeCreatorRectangleType CurrentIndexChanged +
-\i (00:00:14) QtSignal 0
-\i (00:00:14) QtSignal ShapeAddModes_CircleWidget ShapeCreatorCircleType CurrentIndexChanged 0
-\i (00:00:14) QtSignal ShapeCreateDynDimWidget ShapeCreatorShapeType CurrentIndexChanged 0
-\i (00:00:14) QtSignal ShapeCreateDynDimWidget_LineWidget ShapeCreatorLineAngleLock CurrentIndexChanged +
-\i (00:00:14) QtSignal 0
-\i (00:00:14) QtSignal ShapeCreateDynDimWidget_ArcWidget ShapeCreatorArcAngleLock CurrentIndexChanged +
-\i (00:00:14) QtSignal 0
-\i (00:00:14) QtSignal ShapeCreateDynDimWidget_PolygonWidget ShapeCreatorEdgeType CurrentIndexChanged +
-\i (00:00:14) QtSignal 0
-\i (00:00:14) QtSignal ShapeCreateDynDimWidget_RectangleWidget ShapeCreatorRectangleType CurrentIndexChanged +
-\i (00:00:14) QtSignal 0
-\i (00:00:14) QtSignal ShapeCreateDynDimWidget_CircleWidget ShapeCreatorCircleType CurrentIndexChanged +
-\i (00:00:14) QtSignal 0
-\i (00:00:14) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:00:14) QtSignal UCP_Add_Text AddText_TextBlock_SpinBox valueChanged 1
-\i (00:00:14) updateport VisibilityPane
-\i (00:00:14) updateport PropPane
-\i (00:00:14) ucpedit 
-\i (00:00:14) updateport VisibilityPane
-\i (00:00:57) QtSignal Allegro_Command_Toolbar AQCommandToolbarShapeCreateDynDimButton leftClicked
-\i (00:00:57) ucp_shape_create_dyn_dim_mode 
-\i (00:00:57) updateport VisibilityPane
-\i (00:00:57) ucpedit 
-\i (00:00:57) QtSignal UCPShapeAddViaDynDim ClassesDropDownComboBox CurrentIndexChanged Components
-\i (00:00:57) QtSignal UCPShapeAddViaDynDim SubclassesDropDownComboBox CurrentIndexChanged "Place_Bound_Top"
-\i (00:00:57) updateport VisibilityPane
-\i (00:01:00) QtSignal UCPShapeAddViaDynDim SubclassesDropDownComboBox CurrentIndexChanged "Assembly_Top"
-\i (00:01:00) QtSignal UCPShapeAddViaDynDim SubclassesDropDownComboBox activated "Assembly_Top"
-\i (00:01:00) ucp_shape_create_dyn_dim_mode 
-\i (00:01:00) updateport VisibilityPane
-\i (00:01:00) ucpedit 
-\i (00:01:00) updateport VisibilityPane
-\i (00:01:02) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
-\i (00:01:02) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:02) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:02) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:02) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:03) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:03) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:03) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:03) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
-\i (00:01:04) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:04) QtSignal ".025 / .125"
-\i (00:01:04) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:04) QtSignal ".025 / .125"
-\i (00:01:06) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:06) QtSignal ".025 / .125"
-\i (00:01:06) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:06) QtSignal ".025 / .125"
-\i (00:01:06) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:06) QtSignal ".025 / .125"
-\i (00:01:06) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:06) QtSignal ".025 / .125"
-\i (00:01:07) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsWidget_Visibility CurrentIndexChanged +
-\i (00:01:07) QtSignal 0
-\i (00:01:07) updateport VisibilityPane
-\i (00:01:09) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:09) QtSignal ".025 / .125"
-\i (00:01:09) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:09) QtSignal ".025 / .125"
-\i (00:01:10) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:10) QtSignal ".025 / .125"
-\i (00:01:10) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:10) QtSignal ".025 / .125"
-\i (00:01:10) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:10) QtSignal "1.00 / 5.00"
-\i (00:01:12) pick grid 2.980 0.974
-\t (00:01:12) last pick:  2.980 0.974
-\i (00:01:12) ucp_shape_create_dyn_dim 
-\t (00:01:12) last pick:  2.980 0.974
-\i (00:01:13) pick grid 5.576 0.985
-\t (00:01:13) last pick:  5.576 0.985
-\i (00:01:16) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
-\i (00:01:17) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:17) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:17) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:17) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:17) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:01:17) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:17) QtSignal "1.00 / 5.00"
-\i (00:01:17) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:17) QtSignal "1.00 / 5.00"
-\i (00:01:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:18) QtSignal ".125 / .250"
-\i (00:01:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:18) QtSignal ".125 / .250"
-\i (00:01:18) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:18) QtSignal ".125 / .250"
-\i (00:01:20) zoom out 1 
-\i (00:01:20) setwindow pcb
-\i (00:01:20) zoom out 3.982 -0.951
-\i (00:01:20) trapsize 114
-\i (00:01:20) zoom out 1 
-\i (00:01:20) setwindow pcb
-\i (00:01:20) zoom out 3.890 -0.950
-\i (00:01:20) trapsize 228
-\i (00:01:21) zoom in 1 
-\i (00:01:21) setwindow pcb
-\i (00:01:21) zoom in 6.531 -0.813
-\i (00:01:21) trapsize 114
-\i (00:01:21) zoom in 1 
-\i (00:01:21) setwindow pcb
-\i (00:01:21) zoom in 6.532 -0.813
-\i (00:01:21) trapsize 57
-\i (00:01:21) zoom in 1 
-\i (00:01:21) setwindow pcb
-\i (00:01:21) zoom in 6.532 -0.812
-\i (00:01:21) trapsize 28
-\i (00:01:27) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:27) QtSignal ".125 / .250"
-\i (00:01:27) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:27) QtSignal ".125 / .250"
-\i (00:01:28) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:28) QtSignal ".125 / .250"
-\i (00:01:28) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:28) QtSignal ".025 / .125"
-\i (00:01:28) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:28) QtSignal ".025 / .125"
-\i (00:01:29) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:29) QtSignal ".025 / .125"
-\i (00:01:29) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:29) QtSignal ".025 / .125"
-\i (00:01:30) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:30) QtSignal ".025 / .125"
-\i (00:01:30) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:30) QtSignal ".250 / 1.25"
-\i (00:01:30) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:30) QtSignal ".250 / 1.25"
-\i (00:01:35) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:35) QtSignal ".250 / 1.25"
-\i (00:01:35) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:35) QtSignal ".250 / 1.25"
-\i (00:01:36) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:36) QtSignal ".250 / 1.25"
-\i (00:01:36) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:36) QtSignal ".125 / .250"
-\i (00:01:37) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:37) QtSignal ".125 / .250"
-\i (00:01:44) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:44) QtSignal ".125 / .250"
-\i (00:01:44) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:44) QtSignal ".125 / .250"
-\i (00:01:44) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:44) QtSignal ".125 / .250"
-\i (00:01:44) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:44) QtSignal ".125 / .250"
-\i (00:01:45) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:45) QtSignal ".125 / .250"
-\i (00:01:45) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:45) QtSignal ".025 / .125"
-\i (00:01:45) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:01:45) QtSignal ".025 / .125"
-\i (00:01:49) pick grid 5.974 -0.402
-\t (00:01:49) last pick:  5.974 -0.402
-\i (00:01:52) pick grid 2.974 -0.345
-\t (00:01:52) last pick:  2.974 -0.345
-\i (00:01:53) pick grid 2.957 0.964
-\t (00:01:53) last pick:  2.957 0.964
-\i (00:01:53) updateport ReportsPane
-\i (00:01:53) updateport SearchPane
-\i (00:01:53) updateport VisibilityPane
-\i (00:01:53) updateport PropPane
-\i (00:01:53) ucpedit 
-\i (00:01:53) updateport VisibilityPane
-\i (00:01:56) save 
-\i (00:01:57) fillin yes 
-\e (00:01:58) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:01:58) updateport ReportsPane
-\i (00:01:58) updateport SearchPane
-\i (00:01:58) updateport PropPane
-\i (00:01:58) ucpedit 
-\i (00:01:58) updateport VisibilityPane
-\i (00:01:59) setwindow text
-\i (00:01:59) close
-\i (00:02:00) setwindow pcb
-\i (00:02:00) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
-\i (00:02:00) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:02:00) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:02:00) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:02:00) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:02:00) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:02:01) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:02:01) QtSignal ".025 / .125"
-\i (00:02:01) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:02:01) QtSignal ".025 / .125"
-\i (00:02:01) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:02:01) QtSignal ".025 / .125"
-\i (00:02:01) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:02:01) QtSignal ".025 / .125"
-\i (00:02:01) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:02:01) QtSignal ".025 / .125"
-\i (00:02:02) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:02:02) QtSignal "1.00 / 5.00"
-\i (00:02:02) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
-\i (00:02:02) zoom out 1 
-\i (00:02:02) setwindow pcb
-\i (00:02:02) zoom out 5.222 -0.806
-\i (00:02:02) trapsize 57
-\i (00:02:02) zoom out 1 
-\i (00:02:02) setwindow pcb
-\i (00:02:02) zoom out 5.303 -0.806
-\i (00:02:02) trapsize 114
-\i (00:02:03) zoom in 1 
-\i (00:02:03) setwindow pcb
-\i (00:02:03) zoom in -0.141 -2.172
-\i (00:02:03) trapsize 57
-\i (00:02:40) pick grid 4.687 0.549
-\t (00:02:40) last pick:  4.687 0.549
-\i (00:02:40) ucp_shape_create_dyn_dim 
-\t (00:02:40) last pick:  4.687 0.549
-\i (00:02:41) esc 
-\e (00:02:41) ERROR(SPMHDB-67): The coordinate buffer is incomplete.
-\i (00:02:41) ucpedit 
-\i (00:02:41) updateport VisibilityPane
-\i (00:02:41) esc 
-\i (00:02:41) updateport VisibilityPane
-\i (00:02:42) esc 
-\i (00:02:42) ucp_selection_mode 
-\i (00:02:42) ucpedit 
-\i (00:02:42) updateport VisibilityPane
-\i (00:02:42) esc 
-\i (00:02:42) esc 
-\i (00:02:43) pick grid 4.972 0.503
-\t (00:02:43) last pick:  4.972 0.503
-\i (00:02:43) ucp_shape_edit_mode 
-\i (00:02:43) updateport ReportsPane
-\i (00:02:43) updateport SearchPane
-\i (00:02:43) updateport VisibilityPane
-\i (00:02:43) updateport PropPane
-\i (00:02:43) ucpedit 
-\i (00:02:50) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished 0
-\i (00:02:50) updateport ReportsPane
-\i (00:02:50) updateport SearchPane
-\i (00:02:50) updateport PropPane
-\i (00:02:52) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished 0
-\i (00:02:52) updateport ReportsPane
-\i (00:02:52) updateport SearchPane
-\i (00:02:52) updateport PropPane
-\i (00:03:03) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-14.000"
-\i (00:03:03) updateport ReportsPane
-\i (00:03:03) updateport SearchPane
-\i (00:03:03) updateport PropPane
-\i (00:03:09) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-1.000"
-\i (00:03:09) updateport ReportsPane
-\i (00:03:09) updateport SearchPane
-\i (00:03:09) updateport PropPane
-\i (00:03:14) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-1.400"
-\i (00:03:14) updateport ReportsPane
-\i (00:03:14) updateport SearchPane
-\i (00:03:14) updateport PropPane
-\i (00:03:19) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-0.700"
-\i (00:03:19) updateport ReportsPane
-\i (00:03:19) updateport SearchPane
-\i (00:03:19) updateport PropPane
-\i (00:03:39) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-1.150"
-\i (00:03:39) updateport ReportsPane
-\i (00:03:39) updateport SearchPane
-\i (00:03:39) updateport PropPane
-\i (00:03:41) zoom in 1 
-\i (00:03:41) setwindow pcb
-\i (00:03:41) zoom in 0.189 -0.350
-\i (00:03:41) trapsize 28
-\i (00:03:41) zoom in 1 
-\i (00:03:41) setwindow pcb
-\i (00:03:41) zoom in 0.207 -0.395
-\i (00:03:41) trapsize 14
-\i (00:03:43) zoom out 1 
-\i (00:03:43) setwindow pcb
-\i (00:03:43) zoom out 1.334 -0.409
-\i (00:03:43) trapsize 28
-\i (00:03:43) zoom out 1 
-\i (00:03:43) setwindow pcb
-\i (00:03:43) zoom out 1.356 -0.369
-\i (00:03:43) trapsize 57
-\i (00:03:43) zoom out 1 
-\i (00:03:43) setwindow pcb
-\i (00:03:43) zoom out 1.356 -0.369
-\i (00:03:43) trapsize 114
-\i (00:03:43) zoom in 1 
-\i (00:03:43) setwindow pcb
-\i (00:03:43) zoom in 5.021 -0.689
-\i (00:03:43) trapsize 57
-\i (00:04:44) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Snapping mouseReleased
-\i (00:04:45) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Snapping mouseReleased
-\i (00:04:45) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
-\i (00:04:45) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:04:45) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:04:45) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:04:45) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:04:45) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
-\i (00:04:46) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:46) QtSignal "1.00 / 5.00"
-\i (00:04:46) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:46) QtSignal "1.00 / 5.00"
-\i (00:04:46) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:46) QtSignal "1.00 / 5.00"
-\i (00:04:46) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:46) QtSignal "1.00 / 5.00"
-\i (00:04:46) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:46) QtSignal "1.00 / 5.00"
-\i (00:04:46) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:46) QtSignal "1.00 / 5.00"
-\i (00:04:47) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:47) QtSignal "1.00 / 5.00"
-\i (00:04:47) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:47) QtSignal "1.00 / 5.00"
-\i (00:04:47) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:47) QtSignal "1.00 / 5.00"
-\i (00:04:48) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:48) QtSignal "1.00 / 5.00"
-\i (00:04:52) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:52) QtSignal "1.00 / 5.00"
-\i (00:04:52) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:52) QtSignal ".250 / 1.25"
-\i (00:04:53) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:53) QtSignal ".250 / 1.25"
-\i (00:04:53) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
-\i (00:04:53) QtSignal ".250 / 1.25"
-\i (00:04:54) drag_start grid -0.716 -1.121
-\i (00:04:54) drag_stop 2.688 -1.258
-\i (00:04:54) updateport ReportsPane
-\i (00:04:54) updateport SearchPane
-\i (00:04:54) updateport VisibilityPane
-\i (00:04:54) updateport PropPane
-\i (00:04:55) pick grid 0.878 -1.201
-\t (00:04:55) last pick:  0.878 -1.201
-\i (00:04:55) ucp_shape_edit_mode 
-\i (00:04:55) updateport ReportsPane
-\i (00:04:55) updateport SearchPane
-\i (00:04:55) updateport VisibilityPane
-\i (00:04:55) updateport PropPane
-\i (00:04:55) ucpedit 
-\i (00:04:55) drag_start grid 0.365 -1.030
-\i (00:04:56) drag_stop 1.561 -1.292
-\i (00:04:56) pick grid 2.961 -1.258
-\t (00:04:56) last pick:  2.961 -1.258
-\i (00:04:56) updateport ReportsPane
-\i (00:04:56) updateport SearchPane
-\i (00:04:56) updateport VisibilityPane
-\i (00:04:56) updateport PropPane
-\i (00:04:57) pick grid 0.297 -1.235
-\t (00:04:57) last pick:  0.297 -1.235
-\i (00:04:57) ucp_shape_edit_mode 
-\i (00:04:57) updateport ReportsPane
-\i (00:04:57) updateport SearchPane
-\i (00:04:57) updateport VisibilityPane
-\i (00:04:57) updateport PropPane
-\i (00:04:57) ucpedit 
-\i (00:04:58) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton leftClicked
-\i (00:04:58) ucp_move_mode 
-\i (00:04:58) ucpedit 
-\i (00:04:59) QtSignal UCPMove XSpacingComboBox CurrentIndexChanged Default
-\i (00:04:59) QtSignal UCPMove YSpacingComboBox CurrentIndexChanged Default
-\i (00:04:59) QtSignal UCPMove UCPMoveEtchMode CurrentIndexChanged 1
-\i (00:04:59) QtSignal UCPMove UCPMoveDisplayMode CurrentIndexChanged 0
-\i (00:04:59) updateport ReportsPane
-\i (00:04:59) updateport SearchPane
-\i (00:04:59) updateport VisibilityPane
-\i (00:04:59) updateport PropPane
-\i (00:05:00) pick grid 0.536 -1.087
-\t (00:05:00) last pick:  0.536 -1.087
-\i (00:05:00) ucp_move 
-\t (00:05:00) last pick:  0.536 -1.087
-\t (00:05:00) Pick new location for the element(s).
-\i (00:05:08) esc 
-\i (00:05:08) updateport ReportsPane
-\i (00:05:08) updateport SearchPane
-\i (00:05:08) updateport PropPane
-\i (00:05:08) ucpedit 
-\i (00:05:08) updateport VisibilityPane
-\i (00:05:08) esc 
-\i (00:05:08) updateport VisibilityPane
-\i (00:05:08) esc 
-\i (00:05:08) ucp_selection_mode 
-\i (00:05:08) ucpedit 
-\i (00:05:08) updateport VisibilityPane
-\i (00:05:09) pick grid -0.113 -1.201
-\t (00:05:09) last pick:  -0.113 -1.201
-\i (00:05:09) ucp_shape_edit_mode 
-\i (00:05:09) updateport ReportsPane
-\i (00:05:09) updateport SearchPane
-\i (00:05:09) updateport VisibilityPane
-\i (00:05:09) updateport PropPane
-\i (00:05:09) ucpedit 
-\i (00:05:10) drag_start grid 1.401 -0.916
-\i (00:05:11) drag_stop 2.984 -0.916
-\i (00:05:11) updateport ReportsPane
-\i (00:05:11) updateport SearchPane
-\i (00:05:11) updateport VisibilityPane
-\i (00:05:11) updateport PropPane
-\i (00:05:12) pick grid 1.208 -0.871
-\t (00:05:12) last pick:  1.208 -0.871
-\i (00:05:12) ucp_shape_edit_mode 
-\i (00:05:12) updateport ReportsPane
-\i (00:05:12) updateport SearchPane
-\i (00:05:12) updateport VisibilityPane
-\i (00:05:12) updateport PropPane
-\i (00:05:12) ucpedit 
-\i (00:05:13) esc 
-\i (00:05:13) ucp_selection_mode 
-\i (00:05:14) esc 
-\e (00:05:14) No command active
-\i (00:05:14) ucpedit 
-\i (00:05:14) updateport ReportsPane
-\i (00:05:14) updateport SearchPane
-\i (00:05:14) updateport VisibilityPane
-\i (00:05:14) updateport PropPane
-\i (00:05:14) esc 
-\i (00:05:14) esc 
-\i (00:05:14) esc 
-\i (00:05:14) esc 
-\i (00:05:14) esc 
-\i (00:05:15) pick grid 0.764 -1.076
-\t (00:05:15) last pick:  0.764 -1.076
-\i (00:05:15) ucp_shape_edit_mode 
-\i (00:05:15) updateport ReportsPane
-\i (00:05:15) updateport SearchPane
-\i (00:05:15) updateport VisibilityPane
-\i (00:05:15) updateport PropPane
-\i (00:05:15) ucpedit 
-\i (00:05:16) drag_start grid 1.288 -1.042
-\i (00:05:16) drag_stop 2.642 -0.973
-\i (00:05:16) updateport ReportsPane
-\i (00:05:16) updateport SearchPane
-\i (00:05:16) updateport VisibilityPane
-\i (00:05:16) updateport PropPane
-\i (00:05:16) pick grid 0.992 -1.042
-\t (00:05:16) last pick:  0.992 -1.042
-\i (00:05:16) ucp_shape_edit_mode 
-\i (00:05:17) updateport ReportsPane
-\i (00:05:17) updateport SearchPane
-\i (00:05:17) updateport VisibilityPane
-\i (00:05:17) updateport PropPane
-\i (00:05:17) ucpedit 
-\i (00:05:18) zoom in 1 
-\i (00:05:18) setwindow pcb
-\i (00:05:18) zoom in 1.493 -1.133
-\i (00:05:18) trapsize 28
-\i (00:05:18) zoom in 1 
-\i (00:05:18) setwindow pcb
-\i (00:05:18) zoom in 1.493 -1.156
-\i (00:05:18) trapsize 14
-\i (00:05:19) drag_start grid 1.484 -1.155
-\i (00:05:20) drag_stop 2.216 -1.178
-\i (00:05:20) updateport ReportsPane
-\i (00:05:20) updateport SearchPane
-\i (00:05:20) updateport VisibilityPane
-\i (00:05:20) updateport PropPane
-\i (00:05:20) pick grid 1.499 -1.178
-\t (00:05:20) last pick:  1.499 -1.178
-\i (00:05:20) ucp_shape_edit_mode 
-\i (00:05:20) updateport ReportsPane
-\i (00:05:20) updateport SearchPane
-\i (00:05:20) updateport VisibilityPane
-\i (00:05:20) updateport PropPane
-\i (00:05:20) ucpedit 
-\i (00:05:21) pick grid 1.456 -1.141
-\t (00:05:21) last pick:  1.456 -1.141
-\i (00:05:21) ucp_shape_edit_mode 
-\i (00:05:21) updateport ReportsPane
-\i (00:05:21) updateport SearchPane
-\i (00:05:21) updateport VisibilityPane
-\i (00:05:21) updateport PropPane
-\i (00:05:21) ucpedit 
-\i (00:05:22) drag_start grid 1.507 -1.147
-\i (00:05:22) drag shape main 
-\t (00:05:22) last pick:  1.500 -1.147
-\i (00:05:22) updateport ReportsPane
-\i (00:05:22) updateport SearchPane
-\i (00:05:22) updateport PropPane
-\i (00:05:26) updateport VisibilityPane
-\i (00:05:27) drag_stop grid 2.145 -1.375
-\i (00:05:27) updateport ReportsPane
-\i (00:05:27) updateport SearchPane
-\i (00:05:27) updateport VisibilityPane
-\i (00:05:27) updateport PropPane
-\i (00:05:27) ucpedit 
-\i (00:05:28) esc 
-\i (00:05:28) ucp_selection_mode 
-\i (00:05:28) ucpedit 
-\i (00:05:28) updateport ReportsPane
-\i (00:05:28) updateport SearchPane
-\i (00:05:28) updateport VisibilityPane
-\i (00:05:28) updateport PropPane
-\i (00:05:29) zoom out 1 
-\i (00:05:29) setwindow pcb
-\i (00:05:29) zoom out 2.919 -1.363
-\i (00:05:29) trapsize 28
-\i (00:05:29) zoom out 1 
-\i (00:05:29) setwindow pcb
-\i (00:05:29) zoom out 2.919 -1.363
-\i (00:05:29) trapsize 57
-\i (00:05:30) undo 
-\i (00:05:30) trapsize 14
-\i (00:05:30) updateport ReportsPane
-\i (00:05:30) updateport SearchPane
-\i (00:05:30) updateport VisibilityPane
-\i (00:05:30) updateport PropPane
-\i (00:05:30) ucpedit 
-\i (00:05:30) updateport ReportsPane
-\i (00:05:30) updateport SearchPane
-\i (00:05:30) updateport VisibilityPane
-\i (00:05:30) updateport PropPane
-\i (00:05:32) zoom out 1 
-\i (00:05:32) setwindow pcb
-\i (00:05:32) zoom out 2.614 -1.130
-\i (00:05:32) trapsize 28
-\i (00:05:34) undo 
-\i (00:05:34) trapsize 57
-\i (00:05:34) updateport ReportsPane
-\i (00:05:34) updateport SearchPane
-\i (00:05:34) updateport VisibilityPane
-\i (00:05:34) updateport PropPane
-\i (00:05:34) ucpedit 
-\i (00:05:34) updateport VisibilityPane
-\i (00:05:35) zoom in 1 
-\i (00:05:35) setwindow pcb
-\i (00:05:35) zoom in -0.762 -1.645
-\i (00:05:35) trapsize 28
-\i (00:05:49) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-0.7"
-\i (00:05:49) updateport ReportsPane
-\i (00:05:49) updateport SearchPane
-\i (00:05:49) updateport PropPane
-\i (00:05:49) ucp_shape_edit_mode 
-\i (00:05:49) updateport ReportsPane
-\i (00:05:49) updateport SearchPane
-\i (00:05:49) updateport VisibilityPane
-\i (00:05:49) updateport PropPane
-\i (00:05:49) ucpedit 
-\i (00:05:52) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-0.900"
-\i (00:05:52) updateport ReportsPane
-\i (00:05:52) updateport SearchPane
-\i (00:05:52) updateport PropPane
-\i (00:05:56) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-100"
-\i (00:05:56) updateport ReportsPane
-\i (00:05:56) updateport SearchPane
-\i (00:05:56) updateport PropPane
-\i (00:05:59) QtSignal PropertyLocationWidget PropertyLocationYInput editingFinished "-1.000"
-\i (00:05:59) updateport ReportsPane
-\i (00:05:59) updateport SearchPane
-\i (00:06:00) updateport PropPane
-\i (00:06:02) pick grid 3.268 -0.803
-\t (00:06:02) last pick:  3.268 -0.803
-\i (00:06:02) updateport ReportsPane
-\i (00:06:02) updateport SearchPane
-\i (00:06:02) updateport VisibilityPane
-\i (00:06:02) updateport PropPane
-\i (00:06:20) QtSignal Allegro_Command_Toolbar AQCommandToolbarShapeCreateDynDimButton leftClicked
-\i (00:06:20) ucp_shape_create_dyn_dim_mode 
-\i (00:06:20) updateport VisibilityPane
-\i (00:06:20) ucpedit 
-\i (00:06:20) updateport VisibilityPane
-\i (00:06:22) QtSignal Allegro_Command_Toolbar AQCommandToolbarShapeCreateDynDimButton rightClicked
-\i (00:06:24) QtSignal CreateShapeDynDimPopUpMenu Create_Shape_using_dynamic_dimensioning clicked
-\i (00:06:24) ucp_shape_create_dyn_dim_mode 
-\i (00:06:24) updateport VisibilityPane
-\i (00:06:24) ucpedit 
-\i (00:06:24) updateport VisibilityPane
-\i (00:07:34) save 
-\i (00:07:36) fillin yes 
-\e (00:07:36) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:07:36) updateport ReportsPane
-\i (00:07:36) updateport SearchPane
-\i (00:07:36) updateport PropPane
-\i (00:07:36) ucpedit 
-\i (00:07:36) updateport VisibilityPane
-\i (00:07:39) setwindow text
-\i (00:07:39) close
-\i (00:17:07) setwindow pcb
-\i (00:17:07) save 
-\i (00:17:08) fillin yes 
-\e (00:17:08) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:17:08) updateport ReportsPane
-\i (00:17:08) updateport SearchPane
-\i (00:17:08) updateport PropPane
-\i (00:17:08) ucpedit 
-\i (00:17:08) updateport VisibilityPane
-\i (00:17:09) setwindow text
-\i (00:17:09) close
-\i (00:17:24) setwindow pcb
-\i (00:17:24) pick grid -2.629 0.034
-\t (00:17:24) last pick:  -2.629 0.034
-\i (00:17:24) ucp_shape_create_dyn_dim 
-\t (00:17:24) last pick:  -2.629 0.034
-\i (00:17:26) esc 
-\e (00:17:26) ERROR(SPMHDB-67): The coordinate buffer is incomplete.
-\i (00:17:26) ucpedit 
-\i (00:17:26) updateport VisibilityPane
-\i (00:17:26) esc 
-\i (00:17:26) ucp_selection_mode 
-\i (00:17:26) ucpedit 
-\i (00:17:26) updateport VisibilityPane
-\i (00:17:26) esc 
-\i (00:17:26) esc 
-\i (00:17:26) esc 
-\i (00:17:53) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddRefdesButton leftClicked
-\i (00:17:53) ucp_add_refdes_mode 
-\i (00:17:53) ucpedit 
-\i (00:17:53) QtSignal UCP_Refdes_add textBlock CurrentIndexChanged " 1 (0.406, 0.635)"
-\i (00:17:53) updateport VisibilityPane
-\i (00:17:55) zoom out 1 
-\i (00:17:55) setwindow pcb
-\i (00:17:55) zoom out 0.900 -0.729
-\i (00:17:55) trapsize 57
-\i (00:17:55) zoom out 1 
-\i (00:17:55) setwindow pcb
-\i (00:17:55) zoom out 0.900 -0.728
-\i (00:17:55) trapsize 114
-\i (00:17:56) zoom out 1 
-\i (00:17:56) setwindow pcb
-\i (00:17:56) zoom out 0.899 -0.728
-\i (00:17:56) trapsize 228
-\i (00:17:56) zoom out 1 
-\i (00:17:56) setwindow pcb
-\i (00:17:56) zoom out -0.375 -3.233
-\i (00:17:56) trapsize 455
-\i (00:17:56) zoom out 1 
-\i (00:17:56) setwindow pcb
-\i (00:17:56) zoom out -0.558 -3.689
-\i (00:17:56) trapsize 911
-\i (00:17:57) zoom in 1 
-\i (00:17:57) setwindow pcb
-\i (00:17:57) zoom in 9.461 -4.781
-\i (00:17:57) trapsize 455
-\i (00:17:57) zoom in 1 
-\i (00:17:57) setwindow pcb
-\i (00:17:57) zoom in 9.461 -4.781
-\i (00:17:57) trapsize 228
-\i (00:17:57) zoom in 1 
-\i (00:17:57) setwindow pcb
-\i (00:17:57) zoom in 9.461 -4.781
-\i (00:17:57) trapsize 114
-\i (00:17:58) pick grid 5.295 -1.935
-\t (00:17:58) last pick:  5.295 -1.935
-\i (00:18:00) zoom out 1 
-\i (00:18:00) setwindow pcb
-\i (00:18:00) zoom out 4.680 -7.377
-\i (00:18:00) trapsize 228
-\i (00:18:01) zoom in 1 
-\i (00:18:01) setwindow pcb
-\i (00:18:01) zoom in 0.126 -4.007
-\i (00:18:01) trapsize 114
-\i (00:18:02) QtSignal UCP_Refdes_add addRefdesButton clicked
-\i (00:18:12) QtSignal UCP_Refdes_add refDes editingFinished U
-\i (00:18:22) backspace 
-\i (00:18:28) QtSignal UCP_Refdes_add refDes editingFinished M
-\i (00:18:49) QtSignal UCP_Refdes_add textBlock CurrentIndexChanged " 3 (0.965, 1.270)"
-\i (00:18:52) QtSignal UCP_Refdes_add addRefdesButton clicked
-\i (00:18:52) ucp_add_refdes 
-\i (00:18:52) pick 0.000 10.160
-\i (00:18:52) setwindow pcb
-\i (00:18:52) ucp_add_refdes 
-\i (00:18:52) pick 0.000 0.000
-\i (00:18:52) setwindow pcb
-\i (00:18:52) setwindow pcb
-\i (00:18:52) ucp_selection_mode 
-\i (00:18:52) updateport ReportsPane
-\i (00:18:52) updateport SearchPane
-\i (00:18:52) updateport VisibilityPane
-\i (00:18:52) updateport PropPane
-\i (00:18:52) ucpedit 
-\i (00:18:52) updateport VisibilityPane
-\i (00:18:55) zoom out 1 
-\i (00:18:55) setwindow pcb
-\i (00:18:55) zoom out 8.209 -1.047
-\i (00:18:55) trapsize 228
-\i (00:18:55) zoom out 1 
-\i (00:18:55) setwindow pcb
-\i (00:18:55) zoom out 8.346 -1.092
-\i (00:18:55) trapsize 455
-\i (00:18:56) drag_start grid -3.585 15.028
-\i (00:18:56) drag_stop 6.706 7.286
-\i (00:18:56) updateport VisibilityPane
-\i (00:18:58) ucp_delete 
-\i (00:18:58) updateport ReportsPane
-\i (00:18:58) updateport SearchPane
-\i (00:18:58) updateport PropPane
-\i (00:18:58) ucpedit 
-\i (00:18:58) updateport VisibilityPane
-\i (00:18:59) zoom in 1 
-\i (00:18:59) setwindow pcb
-\i (00:18:59) zoom in 1.333 -0.091
-\i (00:18:59) trapsize 228
-\i (00:18:59) zoom in 1 
-\i (00:18:59) setwindow pcb
-\i (00:18:59) zoom in 1.333 -0.090
-\i (00:18:59) trapsize 114
-\i (00:18:59) zoom in 1 
-\i (00:18:59) setwindow pcb
-\i (00:18:59) zoom in 1.265 -0.090
-\i (00:18:59) trapsize 57
-\i (00:19:00) pick grid 0.320 0.707
-\t (00:19:00) last pick:  0.320 0.707
-\i (00:19:00) updateport VisibilityPane
-\i (00:19:01) drag_start grid 0.457 0.718
-\i (00:19:01) ucp_move 
-\t (00:19:01) last pick:  0.457 0.718
-\t (00:19:01) Pick new location for the element(s).
-\i (00:19:01) updateport VisibilityPane
-\i (00:19:07) drag_stop grid 1.937 0.456
-\i (00:19:07) updateport ReportsPane
-\i (00:19:07) updateport SearchPane
-\i (00:19:07) updateport PropPane
-\i (00:19:07) ucpedit 
-\i (00:19:07) updateport VisibilityPane
-\i (00:19:15) pick grid 1.606 0.297
-\t (00:19:15) last pick:  1.606 0.297
-\i (00:19:15) updateport VisibilityPane
-\i (00:19:15) pick grid dbl 1.606 0.297
-\t (00:19:15) last pick:  1.606 0.297
-\i (00:19:15) updateport VisibilityPane
-\i (00:19:16) pick grid 1.584 0.183
-\t (00:19:16) last pick:  1.584 0.183
-\i (00:19:16) updateport VisibilityPane
-\i (00:19:16) pick grid dbl 1.584 0.183
-\t (00:19:16) last pick:  1.584 0.183
-\i (00:19:16) updateport VisibilityPane
-\i (00:19:16) prepopup 1.584 0.183
-\i (00:19:17) pick grid -3.482 -1.456
-\t (00:19:17) last pick:  -3.482 -1.456
-\i (00:19:17) updateport VisibilityPane
-\i (00:19:18) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddRefdesButton leftClicked
-\i (00:19:18) ucp_add_refdes_mode 
-\i (00:19:18) ucpedit 
-\i (00:19:18) updateport VisibilityPane
-\i (00:19:21) QtSignal UCP_Refdes_add refDes editingFinished "M*"
-\i (00:19:21) QtSignal UCP_Refdes_add addRefdesButton clicked
-\i (00:19:21) ucp_add_refdes 
-\i (00:19:21) pick 0.000 10.160
-\i (00:19:21) setwindow pcb
-\i (00:19:21) setwindow pcb
-\i (00:19:21) ucp_selection_mode 
-\i (00:19:21) updateport ReportsPane
-\i (00:19:21) updateport SearchPane
-\i (00:19:21) updateport VisibilityPane
-\i (00:19:21) updateport PropPane
-\i (00:19:21) ucpedit 
-\i (00:19:22) updateport VisibilityPane
-\i (00:19:23) esc 
-\i (00:19:23) esc 
-\i (00:19:24) ucp_trace_slide_mode 
-\i (00:19:24) ucpedit 
-\i (00:19:24) updateport VisibilityPane
-\i (00:19:25) drag_start grid 2.107 0.126
-\i (00:19:25) drag_stop 2.825 0.195
-\i (00:19:26) drag_start grid 2.335 0.183
-\i (00:19:26) drag_stop 2.973 -0.022
-\i (00:19:26) pick grid 2.392 0.183
-\t (00:19:26) last pick:  2.392 0.183
-\i (00:19:26) ucp_trace_slide_pick 
-\t (00:19:26) Selected item not valid for current operation, ignored: Text "M*"
-\t (00:19:26) No valid items selected for the current operation, exiting.
-\i (00:19:26) ucpedit 
-\i (00:19:27) updateport VisibilityPane
-\i (00:19:28) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton leftClicked
-\i (00:19:28) ucp_move_mode 
-\i (00:19:28) ucpedit 
-\i (00:19:28) updateport VisibilityPane
-\i (00:19:29) pick grid 2.574 0.183
-\t (00:19:29) last pick:  2.574 0.183
-\i (00:19:29) ucp_move 
-\t (00:19:29) last pick:  2.574 0.183
-\t (00:19:29) Pick new location for the element(s).
-\i (00:19:30) pick grid 2.904 0.138
-\t (00:19:30) last pick:  2.904 0.138
-\i (00:19:30) updateport ReportsPane
-\i (00:19:30) updateport SearchPane
-\i (00:19:30) updateport PropPane
-\i (00:19:30) ucpedit 
-\i (00:19:30) updateport VisibilityPane
-\i (00:19:31) esc 
-\i (00:19:31) updateport VisibilityPane
-\i (00:19:31) esc 
-\i (00:19:31) ucp_selection_mode 
-\i (00:19:31) ucpedit 
-\i (00:19:31) updateport VisibilityPane
-\i (00:19:31) esc 
-\i (00:19:32) save 
-\i (00:19:34) fillin yes 
-\t (00:19:34) Symbol 'smd_sot23.psm' created.
-\i (00:19:34) updateport ReportsPane
-\i (00:19:34) updateport SearchPane
-\i (00:19:34) updateport PropPane
-\i (00:19:34) ucpedit 
-\i (00:19:34) updateport VisibilityPane
-\i (00:20:24) zoom in 1 
-\i (00:20:24) setwindow pcb
-\i (00:20:24) zoom in 1.231 0.365
-\i (00:20:24) trapsize 28
-\i (00:20:24) zoom in 1 
-\i (00:20:24) setwindow pcb
-\i (00:20:24) zoom in 1.231 0.365
-\i (00:20:24) trapsize 14
-\i (00:20:24) zoom out 1 
-\i (00:20:24) setwindow pcb
-\i (00:20:24) zoom out 1.319 0.266
-\i (00:20:24) trapsize 28
-\i (00:20:28) zoom out 1 
-\i (00:20:28) setwindow pcb
-\i (00:20:28) zoom out 3.192 -0.109
-\i (00:20:28) trapsize 57
-\i (00:20:53) xname_flush 
-\i (00:20:56) xname_flush '!' 
-\i (00:20:56) xname_flush 
-\i (00:20:56) xname_flush '!' 
-\i (00:48:22) QtSignal MainCanvas ImpGrpSel closed
-\i (00:48:22) QtSignal MainCanvas CplGrpSel closed
-\i (00:48:22) QtSignal MainCanvas ImpPrefDialog closed
-\i (00:48:22) QtSignal MainCanvas CplPrefDialog closed
-\t (00:48:27)     Journal end - Fri Dec 27 19:44:42 2024
+\t (00:02:28) orcadx 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:02:28)     Journal start - Fri Dec 27 19:53:08 2024
+\t (00:02:28)         Host=DESKTOP-34KUJJQ User=zrnq3 Pid=19140 CPUs=8
+\t (00:02:28) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\unison.exe -layout -orcadx
+\t (00:02:28) 
+\d (00:02:28) Design opened: C:/Users/zrnq3/Documents/ESE_project/workspace/libraries/footprints/smt_S0D123.dra
+\i (00:02:28) trapsize 378
+\i (00:02:30) trapsize 498
+\i (00:02:32) trapsize 497
+\i (00:02:32) trapsize 508
+\i (00:02:33) QtSignal 3DBoardLevelModelMapper TableModeChooser CurrentIndexChanged 0
+\i (00:02:33) QtSignal 3DBoardLevelModelMapper RotationX CurrentIndexChanged "0.0"
+\i (00:02:33) QtSignal 3DBoardLevelModelMapper RotationY CurrentIndexChanged "0.0"
+\i (00:02:33) QtSignal 3DBoardLevelModelMapper RotationZ CurrentIndexChanged "0.0"
+\i (00:02:34) QtSignal ShapeAddModes ShapeCreatorShapeType CurrentIndexChanged 0
+\i (00:02:34) QtSignal ShapeAddModes_LineWidget ShapeCreatorLineAngleLock CurrentIndexChanged 0
+\i (00:02:34) QtSignal ShapeAddModes_ArcWidget ShapeCreatorArcAngleLock CurrentIndexChanged 0
+\i (00:02:34) QtSignal ShapeAddModes_PolygonWidget ShapeCreatorEdgeType CurrentIndexChanged 0
+\i (00:02:34) QtSignal ShapeAddModes_RectangleWidget ShapeCreatorRectangleType CurrentIndexChanged +
+\i (00:02:34) QtSignal 0
+\i (00:02:34) QtSignal ShapeAddModes_CircleWidget ShapeCreatorCircleType CurrentIndexChanged 0
+\i (00:02:34) QtSignal ShapeCreateDynDimWidget ShapeCreatorShapeType CurrentIndexChanged 0
+\i (00:02:34) QtSignal ShapeCreateDynDimWidget_LineWidget ShapeCreatorLineAngleLock CurrentIndexChanged +
+\i (00:02:34) QtSignal 0
+\i (00:02:34) QtSignal ShapeCreateDynDimWidget_ArcWidget ShapeCreatorArcAngleLock CurrentIndexChanged +
+\i (00:02:34) QtSignal 0
+\i (00:02:34) QtSignal ShapeCreateDynDimWidget_PolygonWidget ShapeCreatorEdgeType CurrentIndexChanged +
+\i (00:02:34) QtSignal 0
+\i (00:02:34) QtSignal ShapeCreateDynDimWidget_RectangleWidget ShapeCreatorRectangleType CurrentIndexChanged +
+\i (00:02:34) QtSignal 0
+\i (00:02:34) QtSignal ShapeCreateDynDimWidget_CircleWidget ShapeCreatorCircleType CurrentIndexChanged +
+\i (00:02:34) QtSignal 0
+\i (00:02:34) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:02:34) QtSignal UCP_Add_Text AddText_TextBlock_SpinBox valueChanged 1
+\i (00:02:34) updateport VisibilityPane
+\i (00:02:34) updateport PropPane
+\i (00:02:34) ucpedit 
+\i (00:02:34) updateport VisibilityPane
+\i (00:02:36) pick grid 0.2711 0.0316
+\t (00:02:36) last pick:  0.2711 0.0316
+\i (00:02:36) ucp_shape_edit_mode 
+\i (00:02:36) updateport ReportsPane
+\i (00:02:36) updateport SearchPane
+\i (00:02:36) updateport VisibilityPane
+\i (00:02:36) updateport PropPane
+\i (00:02:36) ucpedit 
+\i (00:03:10) QtSignal Allegro_Command_Toolbar AQCommandToolbarShapeCreateDynDimButton leftClicked
+\i (00:03:10) ucp_shape_create_dyn_dim_mode 
+\i (00:03:10) updateport ReportsPane
+\i (00:03:10) updateport SearchPane
+\i (00:03:10) updateport VisibilityPane
+\i (00:03:10) updateport PropPane
+\i (00:03:10) ucpedit 
+\i (00:03:10) QtSignal UCPShapeAddViaDynDim ClassesDropDownComboBox CurrentIndexChanged Components
+\i (00:03:10) QtSignal UCPShapeAddViaDynDim SubclassesDropDownComboBox CurrentIndexChanged "Place_Bound_Top"
+\i (00:03:10) updateport VisibilityPane
+\i (00:03:17) pick grid 4.1912 3.5048
+\t (00:03:17) last pick:  4.1912 3.5048
+\i (00:03:17) ucp_shape_create_dyn_dim 
+\t (00:03:17) last pick:  4.1912 3.5048
+\i (00:03:20) esc 
+\e (00:03:20) ERROR(SPMHDB-67): The coordinate buffer is incomplete.
+\i (00:03:20) ucpedit 
+\i (00:03:20) updateport VisibilityPane
+\i (00:03:21) esc 
+\i (00:03:21) ucp_selection_mode 
+\i (00:03:21) ucpedit 
+\i (00:03:21) updateport VisibilityPane
+\i (00:05:50) QtSignal Allegro_Command_Toolbar AQCommandToolbarShapeCreateDynDimButton leftClicked
+\i (00:05:50) ucp_shape_create_dyn_dim_mode 
+\i (00:05:50) updateport VisibilityPane
+\i (00:05:50) ucpedit 
+\i (00:05:50) updateport VisibilityPane
+\i (00:05:53) QtSignal UCPShapeAddViaDynDim SubclassesDropDownComboBox CurrentIndexChanged "Assembly_Top"
+\i (00:05:53) QtSignal UCPShapeAddViaDynDim SubclassesDropDownComboBox activated "Assembly_Top"
+\i (00:05:53) ucp_shape_create_dyn_dim_mode 
+\i (00:05:53) updateport VisibilityPane
+\i (00:05:53) ucpedit 
+\i (00:05:53) updateport VisibilityPane
+\i (00:05:55) drag_start grid 4.2419 1.0167
+\i (00:05:56) drag_stop 6.1106 0.0620
+\i (00:06:06) pick grid 3.3482 1.9713
+\t (00:06:06) last pick:  3.3482 1.9713
+\i (00:06:06) ucp_shape_create_dyn_dim 
+\t (00:06:06) last pick:  3.3482 1.9713
+\i (00:06:07) pick grid 3.5412 0.9761
+\t (00:06:07) last pick:  3.5412 0.9761
+\i (00:06:08) pick grid 4.5568 0.9557
+\t (00:06:08) last pick:  4.5568 0.9557
+\i (00:06:09) pick grid 4.5669 1.9408
+\t (00:06:09) last pick:  4.5669 1.9408
+\i (00:06:10) pick grid 3.3482 1.9713
+\t (00:06:10) last pick:  3.3482 1.9713
+\i (00:06:10) updateport ReportsPane
+\i (00:06:10) updateport SearchPane
+\i (00:06:10) updateport PropPane
+\i (00:06:10) ucpedit 
+\i (00:06:10) updateport VisibilityPane
+\i (00:06:12) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 0
+\i (00:06:12) pick grid 4.7497 4.2665
+\t (00:06:12) last pick:  4.7497 4.2665
+\i (00:06:12) ucp_shape_create_dyn_dim 
+\t (00:06:12) last pick:  4.7497 4.2665
+\i (00:06:13) pick grid 4.8107 3.6572
+\t (00:06:13) last pick:  4.8107 3.6572
+\i (00:06:14) pick grid 5.6637 3.6978
+\t (00:06:14) last pick:  5.6637 3.6978
+\i (00:06:14) pick grid 5.6739 4.1446
+\t (00:06:14) last pick:  5.6739 4.1446
+\i (00:06:15) pick grid 4.8107 4.2157
+\t (00:06:15) last pick:  4.8107 4.2157
+\i (00:06:15) updateport ReportsPane
+\i (00:06:15) updateport SearchPane
+\i (00:06:15) updateport PropPane
+\i (00:06:15) ucpedit 
+\i (00:06:15) updateport VisibilityPane
+\i (00:07:55) pick grid 0.4437 -0.1512
+\t (00:07:55) last pick:  0.4437 -0.1512
+\i (00:07:55) ucp_shape_create_dyn_dim 
+\t (00:07:55) last pick:  0.4437 -0.1512
+\i (00:07:58) esc 
+\e (00:07:58) ERROR(SPMHDB-67): The coordinate buffer is incomplete.
+\i (00:07:58) ucpedit 
+\i (00:07:58) updateport VisibilityPane
+\i (00:08:01) esc 
+\i (00:08:01) updateport VisibilityPane
+\i (00:08:02) pick grid 0.7992 -0.2629
+\t (00:08:02) last pick:  0.7992 -0.2629
+\i (00:08:02) ucp_shape_create_dyn_dim 
+\t (00:08:02) last pick:  0.7992 -0.2629
+\i (00:08:05) esc 
+\e (00:08:05) ERROR(SPMHDB-67): The coordinate buffer is incomplete.
+\i (00:08:05) ucpedit 
+\i (00:08:05) updateport VisibilityPane
+\i (00:08:08) esc 
+\i (00:08:08) updateport VisibilityPane
+\i (00:08:08) esc 
+\i (00:08:08) ucp_selection_mode 
+\i (00:08:08) ucpedit 
+\i (00:08:08) updateport VisibilityPane
+\i (00:08:09) pick grid 0.1898 0.1027
+\t (00:08:09) last pick:  0.1898 0.1027
+\i (00:08:09) ucp_shape_edit_mode 
+\i (00:08:09) updateport ReportsPane
+\i (00:08:09) updateport SearchPane
+\i (00:08:09) updateport VisibilityPane
+\i (00:08:09) updateport PropPane
+\i (00:08:09) ucpedit 
+\i (00:08:12) prepopup 0.3320 -0.0395
+\i (00:08:17) pick grid 9.1877 0.2855
+\t (00:08:17) last pick:  9.1877 0.2855
+\i (00:08:17) updateport ReportsPane
+\i (00:08:17) updateport SearchPane
+\i (00:08:17) updateport VisibilityPane
+\i (00:08:17) updateport PropPane
+\i (00:08:21) pick grid -0.7953 -0.1614
+\t (00:08:21) last pick:  -0.7953 -0.1614
+\i (00:08:21) ucp_shape_edit_mode 
+\i (00:08:22) updateport ReportsPane
+\i (00:08:22) updateport SearchPane
+\i (00:08:22) updateport VisibilityPane
+\i (00:08:22) updateport PropPane
+\i (00:08:22) ucpedit 
+\i (00:08:33) pick grid 4.3435 1.4635
+\t (00:08:33) last pick:  4.3435 1.4635
+\i (00:08:33) ucp_selection_mode 
+\i (00:08:33) ucp_shape_edit_mode 
+\i (00:08:33) updateport ReportsPane
+\i (00:08:33) updateport SearchPane
+\i (00:08:33) updateport VisibilityPane
+\i (00:08:33) updateport PropPane
+\i (00:08:33) ucpedit 
+\i (00:08:34) backspace 
+\i (00:08:35) ucp_delete 
+\i (00:08:35) updateport ReportsPane
+\i (00:08:35) updateport SearchPane
+\i (00:08:35) updateport VisibilityPane
+\i (00:08:35) updateport PropPane
+\i (00:08:35) ucpedit 
+\i (00:08:36) pick grid 5.5114 4.1548
+\t (00:08:36) last pick:  5.5114 4.1548
+\i (00:08:36) updateport VisibilityPane
+\i (00:08:37) pick grid 5.5723 4.2259
+\t (00:08:37) last pick:  5.5723 4.2259
+\i (00:08:37) ucp_shape_edit_mode 
+\i (00:08:37) updateport ReportsPane
+\i (00:08:37) updateport SearchPane
+\i (00:08:37) updateport VisibilityPane
+\i (00:08:37) updateport PropPane
+\i (00:08:37) ucpedit 
+\i (00:08:39) ucp_delete 
+\i (00:08:39) updateport ReportsPane
+\i (00:08:39) updateport SearchPane
+\i (00:08:39) updateport VisibilityPane
+\i (00:08:39) updateport PropPane
+\i (00:08:39) ucpedit 
+\i (00:08:47) QtSignal MainCanvas CplPrefDialog closed
+\i (00:08:47) QtSignal MainCanvas ImpGrpSel closed
+\i (00:08:47) QtSignal MainCanvas ImpPrefDialog closed
+\i (00:08:47) QtSignal MainCanvas CplGrpSel closed
+\t (00:08:52)     Journal end - Fri Dec 27 19:59:32 2024
