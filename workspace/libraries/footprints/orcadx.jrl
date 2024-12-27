@@ -588,3 +588,241 @@
 \i (00:17:07) save 
 \i (00:17:08) fillin yes 
 \e (00:17:08) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:17:08) updateport ReportsPane
+\i (00:17:08) updateport SearchPane
+\i (00:17:08) updateport PropPane
+\i (00:17:08) ucpedit 
+\i (00:17:08) updateport VisibilityPane
+\i (00:17:09) setwindow text
+\i (00:17:09) close
+\i (00:17:24) setwindow pcb
+\i (00:17:24) pick grid -2.629 0.034
+\t (00:17:24) last pick:  -2.629 0.034
+\i (00:17:24) ucp_shape_create_dyn_dim 
+\t (00:17:24) last pick:  -2.629 0.034
+\i (00:17:26) esc 
+\e (00:17:26) ERROR(SPMHDB-67): The coordinate buffer is incomplete.
+\i (00:17:26) ucpedit 
+\i (00:17:26) updateport VisibilityPane
+\i (00:17:26) esc 
+\i (00:17:26) ucp_selection_mode 
+\i (00:17:26) ucpedit 
+\i (00:17:26) updateport VisibilityPane
+\i (00:17:26) esc 
+\i (00:17:26) esc 
+\i (00:17:26) esc 
+\i (00:17:53) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddRefdesButton leftClicked
+\i (00:17:53) ucp_add_refdes_mode 
+\i (00:17:53) ucpedit 
+\i (00:17:53) QtSignal UCP_Refdes_add textBlock CurrentIndexChanged " 1 (0.406, 0.635)"
+\i (00:17:53) updateport VisibilityPane
+\i (00:17:55) zoom out 1 
+\i (00:17:55) setwindow pcb
+\i (00:17:55) zoom out 0.900 -0.729
+\i (00:17:55) trapsize 57
+\i (00:17:55) zoom out 1 
+\i (00:17:55) setwindow pcb
+\i (00:17:55) zoom out 0.900 -0.728
+\i (00:17:55) trapsize 114
+\i (00:17:56) zoom out 1 
+\i (00:17:56) setwindow pcb
+\i (00:17:56) zoom out 0.899 -0.728
+\i (00:17:56) trapsize 228
+\i (00:17:56) zoom out 1 
+\i (00:17:56) setwindow pcb
+\i (00:17:56) zoom out -0.375 -3.233
+\i (00:17:56) trapsize 455
+\i (00:17:56) zoom out 1 
+\i (00:17:56) setwindow pcb
+\i (00:17:56) zoom out -0.558 -3.689
+\i (00:17:56) trapsize 911
+\i (00:17:57) zoom in 1 
+\i (00:17:57) setwindow pcb
+\i (00:17:57) zoom in 9.461 -4.781
+\i (00:17:57) trapsize 455
+\i (00:17:57) zoom in 1 
+\i (00:17:57) setwindow pcb
+\i (00:17:57) zoom in 9.461 -4.781
+\i (00:17:57) trapsize 228
+\i (00:17:57) zoom in 1 
+\i (00:17:57) setwindow pcb
+\i (00:17:57) zoom in 9.461 -4.781
+\i (00:17:57) trapsize 114
+\i (00:17:58) pick grid 5.295 -1.935
+\t (00:17:58) last pick:  5.295 -1.935
+\i (00:18:00) zoom out 1 
+\i (00:18:00) setwindow pcb
+\i (00:18:00) zoom out 4.680 -7.377
+\i (00:18:00) trapsize 228
+\i (00:18:01) zoom in 1 
+\i (00:18:01) setwindow pcb
+\i (00:18:01) zoom in 0.126 -4.007
+\i (00:18:01) trapsize 114
+\i (00:18:02) QtSignal UCP_Refdes_add addRefdesButton clicked
+\i (00:18:12) QtSignal UCP_Refdes_add refDes editingFinished U
+\i (00:18:22) backspace 
+\i (00:18:28) QtSignal UCP_Refdes_add refDes editingFinished M
+\i (00:18:49) QtSignal UCP_Refdes_add textBlock CurrentIndexChanged " 3 (0.965, 1.270)"
+\i (00:18:52) QtSignal UCP_Refdes_add addRefdesButton clicked
+\i (00:18:52) ucp_add_refdes 
+\i (00:18:52) pick 0.000 10.160
+\i (00:18:52) setwindow pcb
+\i (00:18:52) ucp_add_refdes 
+\i (00:18:52) pick 0.000 0.000
+\i (00:18:52) setwindow pcb
+\i (00:18:52) setwindow pcb
+\i (00:18:52) ucp_selection_mode 
+\i (00:18:52) updateport ReportsPane
+\i (00:18:52) updateport SearchPane
+\i (00:18:52) updateport VisibilityPane
+\i (00:18:52) updateport PropPane
+\i (00:18:52) ucpedit 
+\i (00:18:52) updateport VisibilityPane
+\i (00:18:55) zoom out 1 
+\i (00:18:55) setwindow pcb
+\i (00:18:55) zoom out 8.209 -1.047
+\i (00:18:55) trapsize 228
+\i (00:18:55) zoom out 1 
+\i (00:18:55) setwindow pcb
+\i (00:18:55) zoom out 8.346 -1.092
+\i (00:18:55) trapsize 455
+\i (00:18:56) drag_start grid -3.585 15.028
+\i (00:18:56) drag_stop 6.706 7.286
+\i (00:18:56) updateport VisibilityPane
+\i (00:18:58) ucp_delete 
+\i (00:18:58) updateport ReportsPane
+\i (00:18:58) updateport SearchPane
+\i (00:18:58) updateport PropPane
+\i (00:18:58) ucpedit 
+\i (00:18:58) updateport VisibilityPane
+\i (00:18:59) zoom in 1 
+\i (00:18:59) setwindow pcb
+\i (00:18:59) zoom in 1.333 -0.091
+\i (00:18:59) trapsize 228
+\i (00:18:59) zoom in 1 
+\i (00:18:59) setwindow pcb
+\i (00:18:59) zoom in 1.333 -0.090
+\i (00:18:59) trapsize 114
+\i (00:18:59) zoom in 1 
+\i (00:18:59) setwindow pcb
+\i (00:18:59) zoom in 1.265 -0.090
+\i (00:18:59) trapsize 57
+\i (00:19:00) pick grid 0.320 0.707
+\t (00:19:00) last pick:  0.320 0.707
+\i (00:19:00) updateport VisibilityPane
+\i (00:19:01) drag_start grid 0.457 0.718
+\i (00:19:01) ucp_move 
+\t (00:19:01) last pick:  0.457 0.718
+\t (00:19:01) Pick new location for the element(s).
+\i (00:19:01) updateport VisibilityPane
+\i (00:19:07) drag_stop grid 1.937 0.456
+\i (00:19:07) updateport ReportsPane
+\i (00:19:07) updateport SearchPane
+\i (00:19:07) updateport PropPane
+\i (00:19:07) ucpedit 
+\i (00:19:07) updateport VisibilityPane
+\i (00:19:15) pick grid 1.606 0.297
+\t (00:19:15) last pick:  1.606 0.297
+\i (00:19:15) updateport VisibilityPane
+\i (00:19:15) pick grid dbl 1.606 0.297
+\t (00:19:15) last pick:  1.606 0.297
+\i (00:19:15) updateport VisibilityPane
+\i (00:19:16) pick grid 1.584 0.183
+\t (00:19:16) last pick:  1.584 0.183
+\i (00:19:16) updateport VisibilityPane
+\i (00:19:16) pick grid dbl 1.584 0.183
+\t (00:19:16) last pick:  1.584 0.183
+\i (00:19:16) updateport VisibilityPane
+\i (00:19:16) prepopup 1.584 0.183
+\i (00:19:17) pick grid -3.482 -1.456
+\t (00:19:17) last pick:  -3.482 -1.456
+\i (00:19:17) updateport VisibilityPane
+\i (00:19:18) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddRefdesButton leftClicked
+\i (00:19:18) ucp_add_refdes_mode 
+\i (00:19:18) ucpedit 
+\i (00:19:18) updateport VisibilityPane
+\i (00:19:21) QtSignal UCP_Refdes_add refDes editingFinished "M*"
+\i (00:19:21) QtSignal UCP_Refdes_add addRefdesButton clicked
+\i (00:19:21) ucp_add_refdes 
+\i (00:19:21) pick 0.000 10.160
+\i (00:19:21) setwindow pcb
+\i (00:19:21) setwindow pcb
+\i (00:19:21) ucp_selection_mode 
+\i (00:19:21) updateport ReportsPane
+\i (00:19:21) updateport SearchPane
+\i (00:19:21) updateport VisibilityPane
+\i (00:19:21) updateport PropPane
+\i (00:19:21) ucpedit 
+\i (00:19:22) updateport VisibilityPane
+\i (00:19:23) esc 
+\i (00:19:23) esc 
+\i (00:19:24) ucp_trace_slide_mode 
+\i (00:19:24) ucpedit 
+\i (00:19:24) updateport VisibilityPane
+\i (00:19:25) drag_start grid 2.107 0.126
+\i (00:19:25) drag_stop 2.825 0.195
+\i (00:19:26) drag_start grid 2.335 0.183
+\i (00:19:26) drag_stop 2.973 -0.022
+\i (00:19:26) pick grid 2.392 0.183
+\t (00:19:26) last pick:  2.392 0.183
+\i (00:19:26) ucp_trace_slide_pick 
+\t (00:19:26) Selected item not valid for current operation, ignored: Text "M*"
+\t (00:19:26) No valid items selected for the current operation, exiting.
+\i (00:19:26) ucpedit 
+\i (00:19:27) updateport VisibilityPane
+\i (00:19:28) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton leftClicked
+\i (00:19:28) ucp_move_mode 
+\i (00:19:28) ucpedit 
+\i (00:19:28) updateport VisibilityPane
+\i (00:19:29) pick grid 2.574 0.183
+\t (00:19:29) last pick:  2.574 0.183
+\i (00:19:29) ucp_move 
+\t (00:19:29) last pick:  2.574 0.183
+\t (00:19:29) Pick new location for the element(s).
+\i (00:19:30) pick grid 2.904 0.138
+\t (00:19:30) last pick:  2.904 0.138
+\i (00:19:30) updateport ReportsPane
+\i (00:19:30) updateport SearchPane
+\i (00:19:30) updateport PropPane
+\i (00:19:30) ucpedit 
+\i (00:19:30) updateport VisibilityPane
+\i (00:19:31) esc 
+\i (00:19:31) updateport VisibilityPane
+\i (00:19:31) esc 
+\i (00:19:31) ucp_selection_mode 
+\i (00:19:31) ucpedit 
+\i (00:19:31) updateport VisibilityPane
+\i (00:19:31) esc 
+\i (00:19:32) save 
+\i (00:19:34) fillin yes 
+\t (00:19:34) Symbol 'smd_sot23.psm' created.
+\i (00:19:34) updateport ReportsPane
+\i (00:19:34) updateport SearchPane
+\i (00:19:34) updateport PropPane
+\i (00:19:34) ucpedit 
+\i (00:19:34) updateport VisibilityPane
+\i (00:20:24) zoom in 1 
+\i (00:20:24) setwindow pcb
+\i (00:20:24) zoom in 1.231 0.365
+\i (00:20:24) trapsize 28
+\i (00:20:24) zoom in 1 
+\i (00:20:24) setwindow pcb
+\i (00:20:24) zoom in 1.231 0.365
+\i (00:20:24) trapsize 14
+\i (00:20:24) zoom out 1 
+\i (00:20:24) setwindow pcb
+\i (00:20:24) zoom out 1.319 0.266
+\i (00:20:24) trapsize 28
+\i (00:20:28) zoom out 1 
+\i (00:20:28) setwindow pcb
+\i (00:20:28) zoom out 3.192 -0.109
+\i (00:20:28) trapsize 57
+\i (00:20:53) xname_flush 
+\i (00:20:56) xname_flush '!' 
+\i (00:20:56) xname_flush 
+\i (00:20:56) xname_flush '!' 
+\i (00:48:22) QtSignal MainCanvas ImpGrpSel closed
+\i (00:48:22) QtSignal MainCanvas CplGrpSel closed
+\i (00:48:22) QtSignal MainCanvas ImpPrefDialog closed
+\i (00:48:22) QtSignal MainCanvas CplPrefDialog closed
+\t (00:48:27)     Journal end - Fri Dec 27 19:44:42 2024

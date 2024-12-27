@@ -89,6 +89,11 @@
       (LogFile
          "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\project2\allegro\eco.txt")))
   (PartMRUSelector
+    (2N7002EQ
+      (FullPartName "2N7002EQ.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\LIBRARIES\SYMBOLS\PROJECT_LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (RESISTOR_0_5W
       (FullPartName "RESISTOR_0_5W.Normal")
       (LibraryName
@@ -102,9 +107,7 @@
          "C:\Users\tubbadu\Documents\OrCAD\ORCAD_LABORATORIES\workspace\libraries\symbols\PROJECT_LIBRARY1.OLB")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources" "Library"
-         "C:\Users\tubbadu\Documents\OrCAD\ORCAD_LABORATORIES\workspace\libraries\symbols\PROJECT_LIBRARY1.OLB"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -114,8 +117,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1180 24 511")
-        (Scroll "-86 0")
+        (Placement "44 0 1 -1 -1 5 24 5 899 24 511")
+        (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -125,7 +128,7 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1180 24 511"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 899 24 511"))
       (Path
          "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\LIBRARIES\SYMBOLS\PROJECT_LIBRARY1.OLB")
       (Package "RESISTOR_0_5W")
@@ -133,7 +136,7 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1180 24 511"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 899 24 511"))
       (Path
          "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\LIBRARIES\SYMBOLS\PROJECT_LIBRARY1.OLB")
       (Package "2N7002EQ")
