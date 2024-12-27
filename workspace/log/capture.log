@@ -1,0 +1,725 @@
+[17:57:07.381712] Periodic Lic check successful
+[17:57:07.906000] Feature usage summary:
+[17:57:07.906000] OrCAD_X_Professional_Plus
+
+PATH VARIABLE
+
+C:\Cadence\OrCADX_24.1\share\orApps\OrCaptureApp\..\..\..\tools\bin
+C:\Cadence\OrCADX_24.1/tools/jre/bin/client
+C:\Cadence\OrCADX_24.1\tools\bin\
+C:\Windows\system32
+C:\Windows
+C:\Windows\System32\Wbem
+C:\Windows\System32\WindowsPowerShell\v1.0\
+C:\Windows\System32\OpenSSH\
+C:\Users\tubbadu\AppData\Local\Microsoft\WindowsApps
+
+SESSION LOG
+
+INFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpicis64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiica64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPIC64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPspice64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orApConCtl64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orgenlibcom64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\ortruereuse64.ocxINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\PspiceExplorerSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\simmgr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\SimSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\mrksrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\stmed.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\modeled.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspiceaa.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspice.exeSync utility runningINI File Location:C:\Users\tubbadu\AppData\Roaming\SPB_Data/cdssetup/OrCAD_Capture/24.1.0/Capture.ini
+COMMAND WINDOW
+
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPFMConnectorAppInit.tcl
+Ignored explicit loading of orDB_Dll package
+Ignored explicit loading of orDB_Dll package
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedAnnotationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedSaveInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAnnotateHBlockPageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAppLaunchMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAssociatePSpiceModel.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoAddOnModels.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDemoBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignDifference.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignView.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoFileOperationUtil.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoISCFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoLiveBOM.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoNewPcbEditorBoard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrCloudSync.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrcadxSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPDFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBJT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlCounter.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlIGBT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlJFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlMOSFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlPassives.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlRegister.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPartSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEco.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEcoSetup.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbReportMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPulseLoad.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoSymbolExtractor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXMLImportExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXProbeEvents.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorEventTracker.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorTISoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorUnifiedCIS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutopspSimSetting.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCISBOMGenerationOnSave.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCMConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCadenceLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCheckPackageOnPartWindowClose.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloseAllChildWindows.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloudMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCommunicationServerInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomPageCreationUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizeNetONLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizePageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDevicePinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDiffAndMergeInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFileManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindAndReplaceInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWindowExtension.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWndConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFootprintViewer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHangingWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHybridTestInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capInvalidPinNumberInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capLibraryCorrectionInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capMorePreferences.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capNewComponent.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capObjectAlignmentInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOpenLibDesignListInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOrCADStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOverlapWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpPartPick.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppA.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppCapacitor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppInductor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerMosfet.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppSwitch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTVS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTransformer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppVCO.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpicePWLExtractorApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClient.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceSourceApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPWLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPartReferencePrefixMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPhysicalShortedPackShortInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPortPinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProcessDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProjectManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPspiceModelingAppFrameworkInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capReplacePathCacheUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSharedWorkspace.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capShortedDiscretePartInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSymbolEditorConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTCLMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTI_URLDownload.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capULLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capUnifiedSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWebPageActions.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceDashboard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/caplearningresources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/cappspicemodelappled.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orDumpPageImage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orEagleImportInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orFlowInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orPrmAutomationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orSyncUtilHttp.tcl
+
+
+
+[18:02:03.229000] Periodic Lic check successful
+[18:02:03.229000] Feature usage summary:
+[18:02:03.229000] OrCAD_X_Professional_Plus
+
+SESSION LOG
+
+INFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpicis64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiica64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPIC64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPspice64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orApConCtl64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orgenlibcom64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\ortruereuse64.ocxINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\PspiceExplorerSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\simmgr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\SimSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\mrksrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\stmed.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\modeled.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspiceaa.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspice.exeSync utility runningINI File Location:C:\Users\tubbadu\AppData\Roaming\SPB_Data/cdssetup/OrCAD_Capture/24.1.0/Capture.ini
+COMMAND WINDOW
+
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPFMConnectorAppInit.tcl
+Ignored explicit loading of orDB_Dll package
+Ignored explicit loading of orDB_Dll package
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedAnnotationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedSaveInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAnnotateHBlockPageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAppLaunchMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAssociatePSpiceModel.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoAddOnModels.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDemoBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignDifference.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignView.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoFileOperationUtil.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoISCFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoLiveBOM.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoNewPcbEditorBoard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrCloudSync.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrcadxSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPDFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBJT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlCounter.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlIGBT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlJFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlMOSFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlPassives.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlRegister.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPartSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEco.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEcoSetup.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbReportMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPulseLoad.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoSymbolExtractor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXMLImportExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXProbeEvents.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorEventTracker.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorTISoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorUnifiedCIS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutopspSimSetting.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCISBOMGenerationOnSave.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCMConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCadenceLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCheckPackageOnPartWindowClose.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloseAllChildWindows.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloudMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCommunicationServerInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomPageCreationUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizeNetONLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizePageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDevicePinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDiffAndMergeInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFileManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindAndReplaceInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWindowExtension.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWndConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFootprintViewer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHangingWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHybridTestInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capInvalidPinNumberInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capLibraryCorrectionInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capMorePreferences.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capNewComponent.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capObjectAlignmentInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOpenLibDesignListInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOrCADStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOverlapWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpPartPick.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppA.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppCapacitor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppInductor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerMosfet.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppSwitch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTVS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTransformer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppVCO.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpicePWLExtractorApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClient.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceSourceApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPWLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPartReferencePrefixMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPhysicalShortedPackShortInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPortPinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProcessDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProjectManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPspiceModelingAppFrameworkInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capReplacePathCacheUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSharedWorkspace.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capShortedDiscretePartInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSymbolEditorConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTCLMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTI_URLDownload.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capULLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capUnifiedSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWebPageActions.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceDashboard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/caplearningresources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/cappspicemodelappled.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orDumpPageImage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orEagleImportInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orFlowInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orPrmAutomationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orSyncUtilHttp.tcl
+orPrmAspBase::setAspClientSessionToUserSession hostedClientId_2 guest partpreview
+In Component - {"apisourcejson":{"Source_Id":"Pspice"}}
+Activate Recent schematic frame to place part if editing enabled
+
+
+[18:11:53.438000] Periodic Lic check successful
+[18:11:53.438000] Feature usage summary:
+[18:11:53.438000] OrCAD_X_Professional_Plus
+
+SESSION LOG
+
+INFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpicis64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiica64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPIC64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPspice64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orApConCtl64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orgenlibcom64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\ortruereuse64.ocxINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\PspiceExplorerSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\simmgr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\SimSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\mrksrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\stmed.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\modeled.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspiceaa.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspice.exeSync utility runningINI File Location:C:\Users\tubbadu\AppData\Roaming\SPB_Data/cdssetup/OrCAD_Capture/24.1.0/Capture.ini--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.50, 0.30)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.60, 3.30)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.60, 4.20)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(7.80, 0.90)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(8.60, 2.60)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(3.20, 6.60)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(3.20, 6.50)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(2.70, 6.10)
+COMMAND WINDOW
+
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPFMConnectorAppInit.tcl
+Ignored explicit loading of orDB_Dll package
+Ignored explicit loading of orDB_Dll package
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedAnnotationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedSaveInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAnnotateHBlockPageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAppLaunchMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAssociatePSpiceModel.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoAddOnModels.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDemoBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignDifference.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignView.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoFileOperationUtil.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoISCFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoLiveBOM.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoNewPcbEditorBoard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrCloudSync.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrcadxSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPDFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBJT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlCounter.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlIGBT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlJFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlMOSFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlPassives.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlRegister.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPartSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEco.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEcoSetup.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbReportMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPulseLoad.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoSymbolExtractor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXMLImportExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXProbeEvents.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorEventTracker.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorTISoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorUnifiedCIS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutopspSimSetting.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCISBOMGenerationOnSave.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCMConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCadenceLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCheckPackageOnPartWindowClose.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloseAllChildWindows.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloudMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCommunicationServerInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomPageCreationUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizeNetONLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizePageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDevicePinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDiffAndMergeInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFileManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindAndReplaceInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWindowExtension.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWndConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFootprintViewer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHangingWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHybridTestInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capInvalidPinNumberInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capLibraryCorrectionInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capMorePreferences.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capNewComponent.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capObjectAlignmentInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOpenLibDesignListInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOrCADStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOverlapWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpPartPick.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppA.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppCapacitor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppInductor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerMosfet.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppSwitch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTVS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTransformer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppVCO.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpicePWLExtractorApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClient.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceSourceApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPWLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPartReferencePrefixMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPhysicalShortedPackShortInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPortPinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProcessDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProjectManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPspiceModelingAppFrameworkInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capReplacePathCacheUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSharedWorkspace.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capShortedDiscretePartInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSymbolEditorConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTCLMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTI_URLDownload.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capULLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capUnifiedSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWebPageActions.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceDashboard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/caplearningresources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/cappspicemodelappled.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orDumpPageImage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orEagleImportInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orFlowInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orPrmAutomationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orSyncUtilHttp.tcl
+orPrmAspBase::setAspClientSessionToUserSession hostedClientId_2 guest partpreview
+In Component - {"apisourcejson":{"Source_Id":"Pspice"}}
+Activate Recent schematic frame to place part if editing enabled
+
+
+[18:20:50.432712] Periodic Lic check successful
+[18:20:50.957000] Feature usage summary:
+[18:20:50.957000] OrCAD_X_Professional_Plus
+
+SESSION LOG
+
+INFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpicis64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiica64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPIC64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPspice64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orApConCtl64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orgenlibcom64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\ortruereuse64.ocxINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\PspiceExplorerSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\simmgr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\SimSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\mrksrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\stmed.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\modeled.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspiceaa.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspice.exeSync utility runningINI File Location:C:\Users\tubbadu\AppData\Roaming\SPB_Data/cdssetup/OrCAD_Capture/24.1.0/Capture.ini--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.50, 0.30)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.60, 3.30)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.60, 4.20)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(7.80, 0.90)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(8.60, 2.60)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(3.20, 6.60)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(3.20, 6.50)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(2.70, 6.10)
+COMMAND WINDOW
+
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPFMConnectorAppInit.tcl
+Ignored explicit loading of orDB_Dll package
+Ignored explicit loading of orDB_Dll package
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedAnnotationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedSaveInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAnnotateHBlockPageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAppLaunchMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAssociatePSpiceModel.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoAddOnModels.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDemoBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignDifference.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignView.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoFileOperationUtil.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoISCFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoLiveBOM.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoNewPcbEditorBoard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrCloudSync.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrcadxSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPDFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBJT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlCounter.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlIGBT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlJFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlMOSFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlPassives.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlRegister.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPartSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEco.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEcoSetup.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbReportMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPulseLoad.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoSymbolExtractor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXMLImportExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXProbeEvents.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorEventTracker.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorTISoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorUnifiedCIS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutopspSimSetting.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCISBOMGenerationOnSave.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCMConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCadenceLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCheckPackageOnPartWindowClose.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloseAllChildWindows.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloudMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCommunicationServerInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomPageCreationUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizeNetONLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizePageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDevicePinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDiffAndMergeInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFileManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindAndReplaceInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWindowExtension.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWndConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFootprintViewer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHangingWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHybridTestInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capInvalidPinNumberInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capLibraryCorrectionInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capMorePreferences.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capNewComponent.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capObjectAlignmentInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOpenLibDesignListInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOrCADStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOverlapWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpPartPick.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppA.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppCapacitor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppInductor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerMosfet.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppSwitch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTVS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTransformer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppVCO.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpicePWLExtractorApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClient.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceSourceApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPWLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPartReferencePrefixMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPhysicalShortedPackShortInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPortPinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProcessDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProjectManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPspiceModelingAppFrameworkInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capReplacePathCacheUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSharedWorkspace.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capShortedDiscretePartInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSymbolEditorConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTCLMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTI_URLDownload.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capULLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capUnifiedSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWebPageActions.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceDashboard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/caplearningresources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/cappspicemodelappled.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orDumpPageImage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orEagleImportInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orFlowInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orPrmAutomationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orSyncUtilHttp.tcl
+orPrmAspBase::setAspClientSessionToUserSession hostedClientId_2 guest partpreview
+In Component - {"apisourcejson":{"Source_Id":"Pspice"}}
+Activate Recent schematic frame to place part if editing enabled
+
+
+Lic Summary:
+[18:21:02.424000] Cdslmd servers:C:\Users\tubbadu\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[18:21:02.424000] Feature usage summary:
+[18:21:02.424000] OrCAD_X_Professional_Plus
+
+SESSION LOG
+
+INFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpicis64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiica64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPIC64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orpiPspice64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orApConCtl64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\orgenlibcom64.dllINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\ortruereuse64.ocxINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\PspiceExplorerSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\simmgr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\SimSrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\mrksrvr.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\stmed.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\modeled.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspiceaa.exeINFO(ORCOMMN-11077): Registration successful in user mode for C:\Cadence\OrCADX_24.1\tools\bin\pspice.exeSync utility runningINI File Location:C:\Users\tubbadu\AppData\Roaming\SPB_Data/cdssetup/OrCAD_Capture/24.1.0/Capture.ini--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.50, 0.30)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.60, 3.30)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(1.60, 4.20)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(7.80, 0.90)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(8.60, 2.60)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(3.20, 6.60)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(3.20, 6.50)--------------------------------------------------------------------------------------------------------------------------------------INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation--------------------------------------------------------------------------------------------------------------------------------------(2.70, 6.10)
+COMMAND WINDOW
+
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPFMConnectorAppInit.tcl
+Ignored explicit loading of orDB_Dll package
+Ignored explicit loading of orDB_Dll package
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/OrPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedAnnotationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAdvancedSaveInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAnnotateHBlockPageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAppLaunchMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAssociatePSpiceModel.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoAddOnModels.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDemoBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignDifference.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoDesignView.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoFileOperationUtil.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoISCFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoLiveBOM.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoNewPcbEditorBoard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrCloudSync.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoOrcadxSoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPDFExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlAND.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppMdlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBJT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlBUF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlConstant.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlCounter.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDigitalSources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlIGBT.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlJFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlMOSFET.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlPassives.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlRegister.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlTFF.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlXOR.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPSpiceModelAppPwlZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPartSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEco.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbEcoSetup.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPcbReportMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoPulseLoad.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoSymbolExtractor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoTISupport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXMLImportExport.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoXProbeEvents.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorEventTracker.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorTISoftwareUpdateUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutoorUnifiedCIS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capAutopspSimSetting.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCEFInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCISBOMGenerationOnSave.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCMConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCadenceLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCheckPackageOnPartWindowClose.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloseAllChildWindows.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCloudMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCommunicationServerInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomPageCreationUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizeNetONLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capCustomizePageInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDRCConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDevicePinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capDiffAndMergeInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFileManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindAndReplaceInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWindowExtension.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFindWndConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capFootprintViewer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHangingWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capHybridTestInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capInvalidPinNumberInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capLibraryCorrectionInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capMorePreferences.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capNewComponent.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capObjectAlignmentInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOpenLibDesignListInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOrCADStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capOverlapWiresInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpPartPick.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppA.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppCapacitor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppInductor.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerDiode.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppPowerMosfet.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppSwitch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTVS.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppTransformer.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppVCO.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelAppZener.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceModelBrowser.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpicePWLExtractorApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClient.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceServerClientOperation.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPSpiceSourceApp.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPWLInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPartReferencePrefixMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPhysicalShortedPackShortInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPortPinMismatchInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProcessDRCInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capProjectManager.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capPspiceModelingAppFrameworkInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capReplacePathCacheUtilInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSharedWorkspace.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capShortedDiscretePartInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capStartPage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capSymbolEditorConfigInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTCLMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capTI_URLDownload.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capULLoginUI.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capUnifiedSearch.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWebPageActions.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceDashboard.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/capWorkspaceMenu.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/caplearningresources.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/cappspicemodelappled.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orDumpPageImage.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orEagleImportInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orFlowInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orPrmAutomationInit.tcl
+Loading C:/Cadence/OrCADX_24.1/tools/capture/tclscripts/capAutoLoad/orSyncUtilHttp.tcl
+orPrmAspBase::setAspClientSessionToUserSession hostedClientId_2 guest partpreview
+In Component - {"apisourcejson":{"Source_Id":"Pspice"}}
+Activate Recent schematic frame to place part if editing enabled
+

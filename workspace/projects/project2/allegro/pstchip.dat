@@ -1,0 +1,18 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 24.1.0 d001Dec-27-2024 at 16:00:51}
+primitive 'RESISTOR_0_5W_SMD_1206_RESISTOR_RESISTOR_0_5W';
+  pin
+    'PIN1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'PIN2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR_0_5W';
+    JEDEC_TYPE='smd_1206_resistor';
+    VALUE='RESISTOR_0_5W';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,8 @@
+[INFO][2024:12:26-15:22:10:399] - Number of files added:8
+[INFO][2024:12:26-15:22:10:401] - Number of files deleted:0
+[INFO][2024:12:26-15:22:10:413] - Folder Path:C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace
+[INFO][2024:12:26-15:22:10:478] - Home:C:\Users\tubbadu\AppData\Roaming\SPB_Data
+[INFO][2024:12:26-15:22:10:479] - UserName:s332997@studenti.polito.it
+[INFO][2024:12:26-15:22:10:488] - Server is running @ http://0.0.0.0:64445 at time : Thu Dec 26 2024 15:22:10 GMT+0100 (Central European Standard Time) Tool:Capture
+[INFO][2024:12:26-15:22:10:494] - Port:64445 Cloud Server - https://pcb.cadence.com
+[INFO][2024:12:26-15:22:10:502] - Logging State: OFF

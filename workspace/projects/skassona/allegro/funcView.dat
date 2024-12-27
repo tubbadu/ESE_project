@@ -1,0 +1,16 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!FUNC_CDS_FSP_INSTANCE_ID!FUNC_CDS_FSP_IS_FPGA!FUNC_CDS_FSP_UID!
+J!C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/projects/skassona/PCB/skassona.brd!Fri Oct 18 16:32:30 2024!-266.7000!-215.9000!266.7000!232.9892!0.0001!millimeters!SKASSONA!10.400000 mil!2!OUT OF DATE!
+S!@skassona.schematic1(sch_1):\555-part\@skassona.\555-part\(sch_1):ins1162@discrete.\capacitor.normal\(chips)!CAPACITOR_THT_CAPACITOR_47 UF!C1!.\pstchip.dat!!!!!!F13!!!!!!!
+S!@skassona.schematic1(sch_1):\counter-part\@skassona.\counter-part\(sch_1):ins511@discrete.\cap np.normal\(chips)!CAP NP_THT_CAPACITOR_CAP SMALL!C2!.\pstchip.dat!!!!!!F12!!!!!!!
+S!@skassona.schematic1(sch_1):ins1750@discrete.\led.normal\(chips)!LED_THT_CAPACITOR_BACK-LIGHTS!D1!.\pstchip.dat!!!!!!F11!!!!!!!
+S!@skassona.schematic1(sch_1):ins1844@discrete.\led.normal\(chips)!LED_THT_CAPACITOR_FRONT-LIGHTS!D2!.\pstchip.dat!!!!!!F10!!!!!!!
+S!@skassona.schematic1(sch_1):\counter-part\@skassona.\counter-part\(sch_1):ins54@cd4017be.\cd4017be.normal\(chips)!CD4017BE_DIP794W53P254L1930H508Q16N_CD4017BE!IC1!.\pstchip.dat!!!!!!F9!!!!!!!
+S!@skassona.schematic1(sch_1):\555-part\@skassona.\555-part\(sch_1):ins1102@ne555p.\ne555p.normal\(chips)!NE555P_DIP794W53P254L959H508Q8N_NE555P!IC3!.\pstchip.dat!!!!!!F8!!!!!!!
+S!@skassona.schematic1(sch_1):ins2568@irf.\irf510.normal\(chips)!IRF510_TO220AB_IRF510!NMOS1!.\pstchip.dat!!!!!!F7!!!!!!!
+S!@skassona.schematic1(sch_1):ins2499@irf.\irf9510.normal\(chips)!IRF9510_TO220AB_IRF9510!PMOS1!.\pstchip.dat!!!!!!F6!!!!!!!
+S!@skassona.schematic1(sch_1):ins2711@irf.\irf9510.normal\(chips)!IRF9510_TO220AB_IRF9510!PMOS2!.\pstchip.dat!!!!!!F5!!!!!!!
+S!@skassona.schematic1(sch_1):\555-part\@skassona.\555-part\(sch_1):ins1078@discrete.\resistor.normal\(chips)!RESISTOR_THT_RESISTOR_2.2 KOHM!R1!.\pstchip.dat!!!!!!F4!!!!!!!
+S!@skassona.schematic1(sch_1):\555-part\@skassona.\555-part\(sch_1):ins1222@discrete.\resistor.normal\(chips)!RESISTOR_THT_RESISTOR_3.3 KOHM!R2!.\pstchip.dat!!!!!!F3!!!!!!!
+S!@skassona.schematic1(sch_1):ins1775@discrete.\resistor.normal\(chips)!RESISTOR_THT_RESISTOR_RESISTOR!R3!.\pstchip.dat!!!!!!F2!!!!!!!
+S!@skassona.schematic1(sch_1):\counter-part\@skassona.\counter-part\(sch_1):ins290@discrete.\resistor.normal\(chips)!RESISTOR_THT_RESISTOR_MANY KOHM!R4!.\pstchip.dat!!!!!!F1!!!!!!!
+S!@skassona.schematic1(sch_1):\counter-part\@skassona.\counter-part\(sch_1):ins914@\1301.9314\.\1301.9314.normal\(chips)!1301.9314_13019319_1301.9314!S1!.\pstchip.dat!!!!!!F0!!!!!!!

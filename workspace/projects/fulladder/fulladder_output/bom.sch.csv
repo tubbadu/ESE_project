@@ -1,0 +1,12 @@
+Item Number,Quantity,Value,Description,Part Number,Part Reference,Manufacturer Name,Manufacturer Part Number,ID,SKU
+1,1,CON2,,,J1,,,113,
+2,1,CON3,,,J2,,,116,
+3,1,CON2,,,J3,,,120,
+4,1,74AC08,,,U1,,,"3,11,17",
+5,1,74AC04,,,U2,,,"23,28",
+6,1,74AC32,,,U3,,,33,
+7,1,74AC08,,,U4,,,75,
+8,1,74AC04,,,U5,,,"53,58",
+9,1,74AC32,,,U6,,,63,
+10,1,74AC08,,,U7,,,"47,69",
+11,1,74AC32,,,U8,,,89,

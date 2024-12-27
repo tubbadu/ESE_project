@@ -1,0 +1,32 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Dec-27-2024 at 16:00:51 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PROJECT2';
+ POST_TIME='Sep  4 2024 20:54:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ R1 'RESISTOR_0_5W_SMD_1206_RESISTOR_RESISTOR_0_5W':;
+
+SECTION_NUMBER 1
+ '@PROJECT2.SCHEMATIC1(SCH_1):INS44@PROJECT_LIBRARY1.RESISTOR_0_5W.NORMAL(CHIPS)':
+ C_PATH='@project2.schematic1(sch_1):ins44@project_library1.\resistor_0_5w.normal\(chips)',
+ P_PATH='@project2.schematic1(sch_1):page1_ins44@project_library1.\resistor_0_5w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,230)',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_0_5W_SMD_1206_RESISTOR_RESISTOR_0_5W':;
+
+SECTION_NUMBER 1
+ '@PROJECT2.SCHEMATIC1(SCH_1):INS68@PROJECT_LIBRARY1.RESISTOR_0_5W.NORMAL(CHIPS)':
+ C_PATH='@project2.schematic1(sch_1):ins68@project_library1.\resistor_0_5w.normal\(chips)',
+ P_PATH='@project2.schematic1(sch_1):page1_ins68@project_library1.\resistor_0_5w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,230)',
+ SECTION='';
+
+END.

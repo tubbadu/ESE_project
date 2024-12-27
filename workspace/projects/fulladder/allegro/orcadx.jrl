@@ -1,0 +1,4082 @@
+\t (00:01:40) orcadx 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:01:40)     Journal start - Tue Oct 29 17:01:18 2024
+\t (00:01:40)         Host=DESKTOP-8178346 User=tubbadu Pid=11700 CPUs=8
+\t (00:01:40) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\unison.exe -layout -orcadx
+\t (00:01:40) 
+\d (00:01:40) Design opened: C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/projects/fulladder/allegro/FULLADDER.brd
+\i (00:01:40) trapsize 6836
+\i (00:01:41) trapsize 9005
+\i (00:01:43) trapsize 8990
+\i (00:01:43) trapsize 9186
+\i (00:01:43) QtSignal 3DBoardLevelModelMapper TableModeChooser CurrentIndexChanged 0
+\i (00:01:43) QtSignal 3DBoardLevelModelMapper RotationX CurrentIndexChanged "0.0"
+\i (00:01:43) QtSignal 3DBoardLevelModelMapper RotationY CurrentIndexChanged "0.0"
+\i (00:01:43) QtSignal 3DBoardLevelModelMapper RotationZ CurrentIndexChanged "0.0"
+\i (00:01:44) QtSignal ShapeAddModes ShapeCreatorShapeType CurrentIndexChanged 0
+\i (00:01:44) QtSignal ShapeAddModes_LineWidget ShapeCreatorLineAngleLock CurrentIndexChanged 0
+\i (00:01:44) QtSignal ShapeAddModes_ArcWidget ShapeCreatorArcAngleLock CurrentIndexChanged 0
+\i (00:01:44) QtSignal ShapeAddModes_PolygonWidget ShapeCreatorEdgeType CurrentIndexChanged 0
+\i (00:01:44) QtSignal ShapeAddModes_RectangleWidget ShapeCreatorRectangleType CurrentIndexChanged +
+\i (00:01:44) QtSignal 0
+\i (00:01:44) QtSignal ShapeAddModes_CircleWidget ShapeCreatorCircleType CurrentIndexChanged 0
+\i (00:01:45) QtSignal UCP_Add_Text AddText_TextBlock_SpinBox valueChanged 1
+\i (00:01:45) updateport VisibilityPane
+\i (00:01:45) updateport PropPane
+\i (00:01:45) ucpedit 
+\i (00:01:45) updateport VisibilityPane
+\i (00:01:50) updateport VisibilityPane
+\i (00:03:03) updateport VisibilityPane
+\i (00:03:05) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton rightClicked
+\i (00:03:07) QtSignal MovePopUpMenu Place clicked
+\i (00:03:07) ucp_place_component_mode 
+\i (00:03:07) ucpedit 
+\i (00:03:07) QtSignal UCPPlaceComponent UCPPlaceMode CurrentIndexChanged 0
+\i (00:03:07) QtSignal UCPPlaceComponent UCPPlaceDirection CurrentIndexChanged 0
+\i (00:03:07) QtSignal UCPPlaceComponent UCPPlaceClusterSize valueChanged 5
+\i (00:03:07) updateport VisibilityPane
+\i (00:03:09) updateport VisibilityPane
+\i (00:03:12) updateport VisibilityPane
+\i (00:03:18) QtSignal UCPPlaceComponent UCPPlaceExpandButton clicked
+\i (00:03:32) QtSignal UCPPlaceComponent UCPPlaceExpandButton clicked
+\i (00:03:34) QtSignal UCPPlaceComponent UCPPlaceExpandButton clicked
+\i (00:03:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:03:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:03:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:03:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:03:41) updateport VisibilityPane
+\i (00:03:53) QtSignal ADTableContainerWidget ComponentsTableHeader sectionPressed 3
+\i (00:03:53) updateport ReportsPane
+\i (00:03:53) updateport SearchPane
+\i (00:03:53) updateport VisibilityPane
+\i (00:03:53) updateport PropPane
+\i (00:03:53) QtSignal ADTableContainerWidget ComponentsTableHeader sectionClicked 3
+\i (00:04:16) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton rightClicked
+\i (00:04:24) QtSignal UCPPlaceComponent UCPPlaceMode CurrentIndexChanged 1
+\i (00:04:37) pick grid 8855.65 8065.62
+\t (00:04:37) last pick:  8855.65 8065.62
+\i (00:04:37) updateport ReportsPane
+\i (00:04:37) updateport SearchPane
+\i (00:04:37) updateport VisibilityPane
+\i (00:04:37) updateport PropPane
+\i (00:04:37) ucpedit 
+\i (00:04:37) updateport VisibilityPane
+\i (00:04:40) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out 9590.55 8230.97
+\i (00:04:41) trapsize 10241
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out 10691.57 9175.90
+\i (00:04:41) trapsize 10241
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out 10691.57 9175.90
+\i (00:04:41) trapsize 10241
+\i (00:04:42) zoom in 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 10691.57 9175.90
+\i (00:04:42) trapsize 5120
+\i (00:04:42) zoom in 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 10691.57 9175.90
+\i (00:04:42) trapsize 2560
+\i (00:04:47) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton rightClicked
+\i (00:04:48) QtSignal MovePopUpMenu Move clicked
+\i (00:04:48) ucp_move_mode 
+\i (00:04:48) ucpedit 
+\i (00:04:48) QtSignal UCPMove XSpacingComboBox CurrentIndexChanged Default
+\i (00:04:48) QtSignal UCPMove YSpacingComboBox CurrentIndexChanged Default
+\i (00:04:48) QtSignal UCPMove UCPMoveEtchMode CurrentIndexChanged 1
+\i (00:04:48) QtSignal UCPMove UCPMoveDisplayMode CurrentIndexChanged 0
+\i (00:04:48) updateport VisibilityPane
+\i (00:04:50) drag_start grid 9452.42 9196.39
+\i (00:04:51) drag_stop 9749.40 9677.71
+\i (00:04:52) drag_start grid 9411.45 9119.58
+\i (00:04:52) drag_stop 9406.33 9565.06
+\i (00:04:54) QtSignal Allegro_Command_Toolbar AQCommandToolbarSelectButton leftClicked
+\i (00:04:54) ucp_selection_mode 
+\i (00:04:54) ucpedit 
+\i (00:04:54) updateport VisibilityPane
+\i (00:04:56) drag_start grid 9508.74 9181.03
+\i (00:04:56) ucp_move 
+\t (00:04:56) last pick:  9504.00 9286.00
+\t (00:04:56) Pick new location for the element(s).
+\i (00:04:56) updateport VisibilityPane
+\i (00:04:56) drag_stop grid 9478.02 9606.03
+\i (00:04:56) updateport ReportsPane
+\i (00:04:56) updateport SearchPane
+\i (00:04:56) updateport PropPane
+\i (00:04:56) ucpedit 
+\i (00:04:56) updateport VisibilityPane
+\i (00:05:01) drag_start grid 10153.92 8320.79
+\i (00:05:01) ucp_move 
+\t (00:05:01) last pick:  10128.00 8454.00
+\t (00:05:01) Pick new location for the element(s).
+\i (00:05:01) updateport VisibilityPane
+\i (00:05:01) drag_stop grid 10230.73 7993.07
+\i (00:05:01) updateport ReportsPane
+\i (00:05:01) updateport SearchPane
+\i (00:05:01) updateport PropPane
+\i (00:05:01) ucpedit 
+\i (00:05:01) updateport VisibilityPane
+\i (00:05:02) drag_start grid 10773.50 8325.91
+\i (00:05:02) ucp_move 
+\t (00:05:02) last pick:  10744.00 8454.00
+\t (00:05:02) Pick new location for the element(s).
+\i (00:05:02) updateport VisibilityPane
+\i (00:05:02) drag_stop grid 11157.54 7972.59
+\i (00:05:02) updateport ReportsPane
+\i (00:05:02) updateport SearchPane
+\i (00:05:02) updateport PropPane
+\i (00:05:02) ucpedit 
+\i (00:05:02) updateport VisibilityPane
+\i (00:05:03) drag_start grid 10025.91 8761.15
+\i (00:05:03) ucp_move 
+\t (00:05:03) last pick:  10020.00 8870.00
+\t (00:05:03) Pick new location for the element(s).
+\i (00:05:03) updateport VisibilityPane
+\i (00:05:04) drag_stop grid 10456.03 9283.44
+\i (00:05:04) updateport ReportsPane
+\i (00:05:04) updateport SearchPane
+\i (00:05:04) updateport PropPane
+\i (00:05:04) ucpedit 
+\i (00:05:04) updateport VisibilityPane
+\i (00:05:06) drag_start grid 9488.26 8812.35
+\i (00:05:06) ucp_move 
+\t (00:05:06) last pick:  9504.00 8870.00
+\t (00:05:06) Pick new location for the element(s).
+\i (00:05:06) updateport VisibilityPane
+\i (00:05:08) drag_stop grid 9211.75 8812.35
+\i (00:05:09) updateport ReportsPane
+\i (00:05:09) updateport SearchPane
+\i (00:05:09) updateport PropPane
+\i (00:05:09) ucpedit 
+\i (00:05:09) updateport VisibilityPane
+\i (00:05:10) drag_start grid 9298.80 9426.81
+\i (00:05:10) ucp_move 
+\t (00:05:10) last pick:  9300.00 9300.00
+\t (00:05:10) Pick new location for the element(s).
+\i (00:05:10) updateport VisibilityPane
+\i (00:05:11) drag_stop grid 9104.22 10071.99
+\i (00:05:11) updateport ReportsPane
+\i (00:05:11) updateport SearchPane
+\i (00:05:11) updateport PropPane
+\i (00:05:11) ucpedit 
+\i (00:05:11) updateport VisibilityPane
+\i (00:05:12) drag_start grid 10430.43 9119.58
+\i (00:05:12) ucp_move 
+\t (00:05:12) last pick:  10400.00 9000.00
+\t (00:05:12) Pick new location for the element(s).
+\i (00:05:12) updateport VisibilityPane
+\i (00:05:13) drag_stop grid 10123.20 10251.21
+\i (00:05:13) updateport ReportsPane
+\i (00:05:13) updateport SearchPane
+\i (00:05:13) updateport PropPane
+\i (00:05:13) ucpedit 
+\i (00:05:13) updateport VisibilityPane
+\i (00:05:14) drag_start grid 11106.33 8868.68
+\i (00:05:14) ucp_move 
+\t (00:05:14) last pick:  11136.00 8870.00
+\t (00:05:14) Pick new location for the element(s).
+\i (00:05:14) updateport VisibilityPane
+\i (00:05:15) drag_stop grid 11643.98 10051.51
+\i (00:05:15) updateport ReportsPane
+\i (00:05:15) updateport SearchPane
+\i (00:05:15) updateport PropPane
+\i (00:05:15) ucpedit 
+\i (00:05:15) updateport VisibilityPane
+\i (00:05:16) drag_start grid 12325.01 8633.14
+\i (00:05:16) ucp_move 
+\t (00:05:16) last pick:  12368.00 8570.00
+\t (00:05:16) Pick new location for the element(s).
+\i (00:05:16) updateport VisibilityPane
+\i (00:05:17) drag_stop grid 12560.55 9478.01
+\i (00:05:17) updateport ReportsPane
+\i (00:05:17) updateport SearchPane
+\i (00:05:17) updateport PropPane
+\i (00:05:17) ucpedit 
+\i (00:05:17) updateport VisibilityPane
+\i (00:05:18) drag_start grid 11925.61 8756.03
+\i (00:05:18) ucp_move 
+\t (00:05:18) last pick:  11952.00 8870.00
+\t (00:05:18) Pick new location for the element(s).
+\i (00:05:18) updateport VisibilityPane
+\i (00:05:18) drag_stop grid 12104.83 8715.06
+\i (00:05:18) updateport ReportsPane
+\i (00:05:18) updateport SearchPane
+\i (00:05:19) updateport PropPane
+\i (00:05:19) ucpedit 
+\i (00:05:19) updateport VisibilityPane
+\i (00:05:27) drag_start grid 9247.60 8203.01
+\i (00:05:28) drag_stop 9206.63 7967.47
+\i (00:05:28) updateport VisibilityPane
+\i (00:05:29) pick grid 9196.39 7481.03
+\t (00:05:29) last pick:  9196.39 7481.03
+\i (00:05:29) updateport VisibilityPane
+\i (00:05:31) drag_start grid 9309.04 8121.09
+\i (00:05:31) ucp_move 
+\t (00:05:31) last pick:  9358.00 8150.00
+\t (00:05:31) Pick new location for the element(s).
+\i (00:05:31) updateport VisibilityPane
+\i (00:05:31) drag_stop grid 9283.44 7849.70
+\i (00:05:31) updateport ReportsPane
+\i (00:05:31) updateport SearchPane
+\i (00:05:31) updateport PropPane
+\i (00:05:31) ucpedit 
+\i (00:05:31) updateport VisibilityPane
+\i (00:05:32) pick grid 9360.25 7639.76
+\t (00:05:32) last pick:  9360.25 7639.76
+\i (00:05:32) updateport VisibilityPane
+\i (00:05:34) drag_start grid 11080.73 11039.76
+\i (00:05:34) drag_stop 11731.03 10599.40
+\i (00:05:48) drag_start grid 10440.67 8868.68
+\i (00:05:48) drag_stop 10717.17 8540.97
+\i (00:05:49) drag_start grid 10691.57 8653.62
+\i (00:05:50) drag_stop 10773.50 8274.70
+\i (00:06:39) drag_start grid 11372.60 9964.46
+\i (00:06:39) ucp_move 
+\t (00:06:39) last pick:  11400.00 10100.00
+\t (00:06:39) Pick new location for the element(s).
+\i (00:06:39) updateport VisibilityPane
+\i (00:06:39) drag_stop grid 11715.67 10512.35
+\i (00:06:39) updateport ReportsPane
+\i (00:06:39) updateport SearchPane
+\i (00:06:39) updateport PropPane
+\i (00:06:39) ucpedit 
+\i (00:06:39) updateport VisibilityPane
+\i (00:06:40) drag_start grid 13036.75 9626.51
+\i (00:06:40) ucp_move 
+\t (00:06:40) last pick:  13000.00 9500.00
+\t (00:06:40) Pick new location for the element(s).
+\i (00:06:40) updateport VisibilityPane
+\i (00:06:42) drag_stop grid 12355.73 9355.12
+\i (00:06:42) updateport ReportsPane
+\i (00:06:42) updateport SearchPane
+\i (00:06:42) updateport PropPane
+\i (00:06:42) ucpedit 
+\i (00:06:42) updateport VisibilityPane
+\i (00:06:43) drag_start grid 11818.08 10266.57
+\i (00:06:43) ucp_move 
+\t (00:06:43) last pick:  11800.00 10200.00
+\t (00:06:43) Pick new location for the element(s).
+\i (00:06:43) updateport VisibilityPane
+\i (00:06:45) drag_stop grid 12278.92 10220.49
+\i (00:06:45) updateport ReportsPane
+\i (00:06:45) updateport SearchPane
+\i (00:06:45) updateport PropPane
+\i (00:06:45) ucpedit 
+\i (00:06:45) updateport VisibilityPane
+\i (00:06:47) drag_start grid 12022.90 8566.57
+\i (00:06:47) ucp_move 
+\t (00:06:47) last pick:  12000.00 8700.00
+\t (00:06:47) Pick new location for the element(s).
+\i (00:06:47) updateport VisibilityPane
+\i (00:06:50) drag_stop grid 12345.49 9129.82
+\i (00:06:50) updateport ReportsPane
+\i (00:06:50) updateport SearchPane
+\i (00:06:50) updateport PropPane
+\i (00:06:50) ucpedit 
+\i (00:06:50) updateport VisibilityPane
+\i (00:06:51) drag_start grid 12355.73 10215.36
+\i (00:06:51) ucp_move 
+\t (00:06:51) last pick:  12400.00 10200.00
+\t (00:06:51) Pick new location for the element(s).
+\i (00:06:51) updateport VisibilityPane
+\i (00:06:52) drag_stop grid 12330.13 10066.87
+\i (00:06:52) updateport ReportsPane
+\i (00:06:52) updateport SearchPane
+\i (00:06:52) updateport PropPane
+\i (00:06:52) ucpedit 
+\i (00:06:52) updateport VisibilityPane
+\i (00:06:53) drag_start grid 11152.42 7890.67
+\i (00:06:53) ucp_move 
+\t (00:06:53) last pick:  11200.00 8000.00
+\t (00:06:53) Pick new location for the element(s).
+\i (00:06:53) updateport VisibilityPane
+\i (00:06:56) drag_stop grid 12074.10 8561.45
+\i (00:06:56) updateport ReportsPane
+\i (00:06:56) updateport SearchPane
+\i (00:06:56) updateport PropPane
+\i (00:06:56) ucpedit 
+\i (00:06:56) updateport VisibilityPane
+\i (00:06:58) drag_start grid 10148.80 7824.10
+\i (00:06:58) ucp_move 
+\t (00:06:58) last pick:  10100.00 7700.00
+\t (00:06:58) Pick new location for the element(s).
+\i (00:06:58) updateport VisibilityPane
+\i (00:07:01) drag_stop grid 11014.16 8643.38
+\i (00:07:01) updateport ReportsPane
+\i (00:07:01) updateport SearchPane
+\i (00:07:01) updateport PropPane
+\i (00:07:01) ucpedit 
+\i (00:07:01) updateport VisibilityPane
+\i (00:07:02) pick grid 11044.89 9063.26
+\t (00:07:02) last pick:  11044.89 9063.26
+\i (00:07:02) updateport VisibilityPane
+\i (00:07:04) drag_start grid 11070.49 8858.44
+\i (00:07:04) ucp_move 
+\t (00:07:04) last pick:  11100.00 8900.00
+\t (00:07:04) Pick new location for the element(s).
+\i (00:07:04) updateport VisibilityPane
+\i (00:07:07) drag_stop grid 10768.38 8377.11
+\i (00:07:07) updateport ReportsPane
+\i (00:07:07) updateport SearchPane
+\i (00:07:07) updateport PropPane
+\i (00:07:07) ucpedit 
+\i (00:07:07) updateport VisibilityPane
+\i (00:07:08) ucp_rotate_cw 
+\i (00:07:08) updateport ReportsPane
+\i (00:07:08) updateport SearchPane
+\i (00:07:08) updateport PropPane
+\i (00:07:08) ucpedit 
+\i (00:07:08) updateport VisibilityPane
+\i (00:07:10) ucp_rotate_cw 
+\i (00:07:10) updateport ReportsPane
+\i (00:07:10) updateport SearchPane
+\i (00:07:10) updateport PropPane
+\i (00:07:10) ucpedit 
+\i (00:07:10) updateport VisibilityPane
+\i (00:07:10) ucp_rotate_cw 
+\i (00:07:11) updateport ReportsPane
+\i (00:07:11) updateport SearchPane
+\i (00:07:11) updateport PropPane
+\i (00:07:11) ucpedit 
+\i (00:07:11) updateport VisibilityPane
+\i (00:07:12) drag_start grid 10415.07 8249.10
+\i (00:07:12) ucp_move 
+\t (00:07:12) last pick:  10400.00 8200.00
+\t (00:07:12) Pick new location for the element(s).
+\i (00:07:12) updateport VisibilityPane
+\i (00:07:16) drag_stop grid 11382.84 8387.35
+\i (00:07:16) updateport ReportsPane
+\i (00:07:16) updateport SearchPane
+\i (00:07:16) updateport PropPane
+\i (00:07:16) ucpedit 
+\i (00:07:16) updateport VisibilityPane
+\i (00:07:18) drag_start grid 9227.11 8581.93
+\i (00:07:18) ucp_move 
+\t (00:07:18) last pick:  9200.00 8500.00
+\t (00:07:18) Pick new location for the element(s).
+\i (00:07:18) updateport VisibilityPane
+\i (00:07:20) drag_stop grid 10614.76 8274.70
+\i (00:07:20) updateport ReportsPane
+\i (00:07:20) updateport SearchPane
+\i (00:07:20) updateport PropPane
+\i (00:07:20) ucpedit 
+\i (00:07:21) updateport VisibilityPane
+\i (00:07:22) drag_start grid 9329.52 7839.46
+\i (00:07:22) ucp_move 
+\t (00:07:22) last pick:  9300.00 7800.00
+\t (00:07:22) Pick new location for the element(s).
+\i (00:07:22) updateport VisibilityPane
+\i (00:07:24) drag_stop grid 9390.97 9227.11
+\i (00:07:24) updateport ReportsPane
+\i (00:07:24) updateport SearchPane
+\i (00:07:24) updateport PropPane
+\i (00:07:24) ucpedit 
+\i (00:07:24) updateport VisibilityPane
+\i (00:07:24) ucp_rotate_cw 
+\i (00:07:24) updateport ReportsPane
+\i (00:07:24) updateport SearchPane
+\i (00:07:24) updateport PropPane
+\i (00:07:24) ucpedit 
+\i (00:07:24) updateport VisibilityPane
+\i (00:07:26) drag_start grid 9186.15 9053.01
+\i (00:07:26) ucp_move 
+\t (00:07:26) last pick:  9200.00 9100.00
+\t (00:07:26) Pick new location for the element(s).
+\i (00:07:26) updateport VisibilityPane
+\i (00:07:31) drag_stop grid 9851.81 7491.27
+\i (00:07:31) updateport ReportsPane
+\i (00:07:31) updateport SearchPane
+\i (00:07:31) updateport PropPane
+\i (00:07:31) ucpedit 
+\i (00:07:31) updateport VisibilityPane
+\i (00:07:33) drag_start grid 10353.62 10374.10
+\i (00:07:33) ucp_move 
+\t (00:07:33) last pick:  10400.00 10300.00
+\t (00:07:33) Pick new location for the element(s).
+\i (00:07:33) updateport VisibilityPane
+\i (00:07:34) drag_stop grid 10614.76 9119.58
+\i (00:07:34) updateport ReportsPane
+\i (00:07:34) updateport SearchPane
+\i (00:07:34) updateport PropPane
+\i (00:07:34) ucpedit 
+\i (00:07:35) updateport VisibilityPane
+\i (00:07:35) ucp_rotate_cw 
+\i (00:07:35) updateport ReportsPane
+\i (00:07:35) updateport SearchPane
+\i (00:07:35) updateport VisibilityPane
+\i (00:07:35) updateport PropPane
+\i (00:07:35) ucpedit 
+\i (00:07:35) updateport VisibilityPane
+\i (00:07:38) drag_start grid 10220.49 8807.23
+\i (00:07:38) ucp_move 
+\t (00:07:38) last pick:  10200.00 8800.00
+\t (00:07:38) Pick new location for the element(s).
+\i (00:07:38) updateport VisibilityPane
+\i (00:07:40) drag_stop grid 11152.42 9478.01
+\i (00:07:40) updateport ReportsPane
+\i (00:07:40) updateport SearchPane
+\i (00:07:40) updateport PropPane
+\i (00:07:40) ucpedit 
+\i (00:07:40) updateport VisibilityPane
+\i (00:07:41) drag_start grid 12166.27 10071.99
+\i (00:07:41) ucp_move 
+\t (00:07:41) last pick:  12200.00 10100.00
+\t (00:07:41) Pick new location for the element(s).
+\i (00:07:41) updateport VisibilityPane
+\i (00:07:42) drag_stop grid 12253.32 9995.18
+\i (00:07:42) updateport ReportsPane
+\i (00:07:42) updateport SearchPane
+\i (00:07:42) updateport PropPane
+\i (00:07:42) ucpedit 
+\i (00:07:42) updateport VisibilityPane
+\i (00:07:44) drag_start grid 12325.01 8387.35
+\i (00:07:44) ucp_move 
+\t (00:07:44) last pick:  12300.00 8300.00
+\t (00:07:44) Pick new location for the element(s).
+\i (00:07:44) updateport VisibilityPane
+\i (00:07:45) drag_stop grid 12325.01 8274.70
+\i (00:07:45) updateport ReportsPane
+\i (00:07:45) updateport SearchPane
+\i (00:07:45) updateport PropPane
+\i (00:07:45) ucpedit 
+\i (00:07:45) updateport VisibilityPane
+\i (00:07:46) drag_start grid 12309.64 9503.62
+\i (00:07:46) ucp_move 
+\t (00:07:46) last pick:  12300.00 9400.00
+\t (00:07:46) Pick new location for the element(s).
+\i (00:07:46) updateport VisibilityPane
+\i (00:07:49) drag_stop grid 12345.49 9334.64
+\i (00:07:49) updateport ReportsPane
+\i (00:07:49) updateport SearchPane
+\i (00:07:49) updateport PropPane
+\i (00:07:49) ucpedit 
+\i (00:07:49) updateport VisibilityPane
+\i (00:07:50) pick grid 12898.50 9913.26
+\t (00:07:50) last pick:  12898.50 9913.26
+\i (00:07:50) updateport VisibilityPane
+\i (00:07:51) drag_start grid 12432.54 10169.28
+\i (00:07:51) ucp_move 
+\t (00:07:51) last pick:  12400.00 10300.00
+\t (00:07:51) Pick new location for the element(s).
+\i (00:07:51) updateport VisibilityPane
+\i (00:07:53) drag_stop grid 12432.54 10071.99
+\i (00:07:53) updateport ReportsPane
+\i (00:07:53) updateport SearchPane
+\i (00:07:53) updateport PropPane
+\i (00:07:53) ucpedit 
+\i (00:07:54) updateport VisibilityPane
+\i (00:07:54) pick grid 12867.78 9846.69
+\t (00:07:54) last pick:  12867.78 9846.69
+\i (00:07:54) pick grid dbl 12867.78 9846.69
+\t (00:07:54) last pick:  12867.78 9846.69
+\i (00:07:54) updateport VisibilityPane
+\i (00:08:18) QtSignal PropertyParameterWidget ParameterUnitOptions CurrentIndexChanged 0
+\w (00:08:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:08:18) WARNING(SPMHIA-901): The result is not valid anymore because user units have changed. Run the analysis again for a valid result.
+\w (00:08:18) WARNING(SPMHIA-901): The result is not valid anymore because user units have changed. Run the analysis again for a valid result.
+\i (00:08:18) trapsize 6503
+\t (00:08:18) Performing DRC...
+\t (00:08:18) Multithreaded DRC update (8 threads).
+\t (00:08:19) No DRC errors detected.
+\i (00:08:19) updateport ReportsPane
+\i (00:08:19) updateport SearchPane
+\i (00:08:19) updateport PropPane
+\i (00:08:19) ucpedit 
+\i (00:08:19) updateport VisibilityPane
+\i (00:08:23) drag_start grid 290.2946 243.4728
+\i (00:08:23) ucp_move 
+\t (00:08:23) last pick:  292.1000 243.8400
+\t (00:08:23) Pick new location for the element(s).
+\i (00:08:23) updateport VisibilityPane
+\i (00:08:24) drag_stop grid 288.8639 243.4728
+\i (00:08:24) updateport ReportsPane
+\i (00:08:24) updateport SearchPane
+\i (00:08:24) updateport PropPane
+\i (00:08:24) ucpedit 
+\i (00:08:24) updateport VisibilityPane
+\i (00:08:25) pick grid 263.6323 244.1231
+\t (00:08:25) last pick:  263.6323 244.1231
+\i (00:08:25) updateport VisibilityPane
+\i (00:08:27) drag_start grid 285.0922 242.3023
+\i (00:08:27) ucp_move 
+\t (00:08:27) last pick:  281.9400 241.3000
+\t (00:08:27) Pick new location for the element(s).
+\i (00:08:27) updateport VisibilityPane
+\i (00:08:30) drag_stop grid 285.2223 247.2445
+\i (00:08:30) updateport ReportsPane
+\i (00:08:30) updateport SearchPane
+\i (00:08:30) updateport PropPane
+\i (00:08:30) ucpedit 
+\i (00:08:30) updateport VisibilityPane
+\i (00:08:32) drag_start grid 288.2136 216.8105
+\i (00:08:32) ucp_trace_slide_pick 
+\t (00:08:32) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:08:32) No valid items selected for the current operation, exiting.
+\i (00:08:32) updateport VisibilityPane
+\i (00:08:32) ucpedit 
+\i (00:08:32) updateport VisibilityPane
+\i (00:08:33) drag_stop grid 291.2050 220.8423
+\i (00:08:34) drag_start grid 289.7744 219.4117
+\i (00:08:34) ucp_move 
+\t (00:08:34) last pick:  289.5600 218.4400
+\t (00:08:34) Pick new location for the element(s).
+\i (00:08:34) updateport VisibilityPane
+\i (00:08:36) drag_stop grid 291.0750 220.0620
+\i (00:08:36) updateport ReportsPane
+\i (00:08:36) updateport SearchPane
+\i (00:08:36) updateport PropPane
+\i (00:08:36) ucpedit 
+\i (00:08:36) updateport VisibilityPane
+\i (00:08:37) pick grid 288.8639 204.3247
+\t (00:08:37) last pick:  288.8639 204.3247
+\i (00:08:37) updateport VisibilityPane
+\i (00:08:40) drag_start grid 263.1120 215.9000
+\i (00:08:40) ucp_move 
+\t (00:08:40) last pick:  264.1600 218.4400
+\t (00:08:40) Pick new location for the element(s).
+\i (00:08:40) updateport VisibilityPane
+\i (00:08:41) drag_stop grid 265.8433 221.2325
+\i (00:08:41) updateport ReportsPane
+\i (00:08:41) updateport SearchPane
+\i (00:08:41) updateport PropPane
+\i (00:08:41) ucpedit 
+\i (00:08:41) updateport VisibilityPane
+\i (00:08:42) ucp_rotate_cw 
+\i (00:08:42) updateport ReportsPane
+\i (00:08:42) updateport SearchPane
+\i (00:08:42) updateport PropPane
+\i (00:08:42) ucpedit 
+\i (00:08:42) updateport VisibilityPane
+\i (00:08:44) drag_start grid 259.0802 204.3247
+\i (00:08:44) ucp_move 
+\t (00:08:44) last pick:  259.0800 203.2000
+\t (00:08:44) Pick new location for the element(s).
+\i (00:08:44) updateport VisibilityPane
+\i (00:08:46) drag_stop grid 268.3144 218.7614
+\i (00:08:46) updateport ReportsPane
+\i (00:08:46) updateport SearchPane
+\i (00:08:46) updateport PropPane
+\i (00:08:46) ucpedit 
+\i (00:08:46) updateport VisibilityPane
+\i (00:08:47) ucp_rotate_cw 
+\i (00:08:47) updateport ReportsPane
+\i (00:08:47) updateport SearchPane
+\i (00:08:47) updateport PropPane
+\i (00:08:47) ucpedit 
+\i (00:08:47) updateport VisibilityPane
+\i (00:08:48) ucp_rotate_cw 
+\i (00:08:48) updateport ReportsPane
+\i (00:08:48) updateport SearchPane
+\i (00:08:48) updateport PropPane
+\i (00:08:48) ucpedit 
+\i (00:08:48) updateport VisibilityPane
+\i (00:08:49) ucp_rotate_cw 
+\i (00:08:49) updateport ReportsPane
+\i (00:08:49) updateport SearchPane
+\i (00:08:49) updateport PropPane
+\i (00:08:49) ucpedit 
+\i (00:08:49) updateport VisibilityPane
+\i (00:08:49) ucp_rotate_cw 
+\i (00:08:49) updateport ReportsPane
+\i (00:08:49) updateport SearchPane
+\i (00:08:49) updateport PropPane
+\i (00:08:49) ucpedit 
+\i (00:08:49) updateport VisibilityPane
+\i (00:08:51) pick grid 235.2791 258.8199
+\t (00:08:51) last pick:  235.2791 258.8199
+\i (00:08:51) updateport VisibilityPane
+\i (00:08:51) ucp_rotate_cw 
+\i (00:08:51) updateport ReportsPane
+\i (00:08:51) updateport SearchPane
+\i (00:08:51) updateport PropPane
+\i (00:08:51) ucpedit 
+\i (00:08:51) updateport VisibilityPane
+\i (00:08:52) ucp_rotate_cw 
+\i (00:08:52) updateport ReportsPane
+\i (00:08:52) updateport SearchPane
+\i (00:08:52) updateport PropPane
+\i (00:08:52) ucpedit 
+\i (00:08:52) updateport VisibilityPane
+\i (00:08:52) ucp_rotate_cw 
+\i (00:08:52) updateport ReportsPane
+\i (00:08:52) updateport SearchPane
+\i (00:08:52) updateport PropPane
+\i (00:08:52) ucpedit 
+\i (00:08:52) updateport VisibilityPane
+\i (00:08:53) drag_start grid 222.2731 260.9009
+\i (00:08:53) ucp_move 
+\t (00:08:53) last pick:  223.5200 261.6200
+\t (00:08:53) Pick new location for the element(s).
+\i (00:08:53) updateport VisibilityPane
+\i (00:08:55) drag_stop grid 276.7683 243.2127
+\i (00:08:55) updateport ReportsPane
+\i (00:08:55) updateport SearchPane
+\i (00:08:55) updateport PropPane
+\i (00:08:55) ucpedit 
+\i (00:08:55) updateport VisibilityPane
+\i (00:08:56) pick grid 242.9527 269.3548
+\t (00:08:56) last pick:  242.9527 269.3548
+\i (00:08:56) updateport VisibilityPane
+\i (00:08:58) drag_start grid 230.0767 207.8363
+\i (00:08:58) ucp_move 
+\t (00:08:58) last pick:  229.8700 207.0100
+\t (00:08:58) Pick new location for the element(s).
+\i (00:08:58) updateport VisibilityPane
+\i (00:08:59) drag_stop grid 255.9587 248.6752
+\i (00:08:59) updateport ReportsPane
+\i (00:08:59) updateport SearchPane
+\i (00:08:59) updateport PropPane
+\i (00:08:59) ucpedit 
+\i (00:08:59) updateport VisibilityPane
+\i (00:09:00) ucp_rotate_cw 
+\i (00:09:00) updateport ReportsPane
+\i (00:09:00) updateport SearchPane
+\i (00:09:00) updateport PropPane
+\i (00:09:00) ucpedit 
+\i (00:09:00) updateport VisibilityPane
+\i (00:09:01) ucp_rotate_cw 
+\i (00:09:01) updateport ReportsPane
+\i (00:09:01) updateport SearchPane
+\i (00:09:01) updateport PropPane
+\i (00:09:01) ucpedit 
+\i (00:09:01) updateport VisibilityPane
+\i (00:09:01) ucp_rotate_cw 
+\i (00:09:01) updateport ReportsPane
+\i (00:09:01) updateport SearchPane
+\i (00:09:01) updateport PropPane
+\i (00:09:01) ucpedit 
+\i (00:09:01) updateport VisibilityPane
+\i (00:09:03) drag_start grid 243.6030 209.3970
+\i (00:09:03) ucp_move 
+\t (00:09:03) last pick:  242.9764 207.0100
+\t (00:09:03) Pick new location for the element(s).
+\i (00:09:03) updateport VisibilityPane
+\i (00:09:04) drag_stop grid 245.5539 221.3626
+\i (00:09:04) updateport ReportsPane
+\i (00:09:04) updateport SearchPane
+\i (00:09:04) updateport PropPane
+\i (00:09:04) ucpedit 
+\i (00:09:04) updateport VisibilityPane
+\i (00:09:05) pick grid 245.5539 212.7786
+\t (00:09:05) last pick:  245.5539 212.7786
+\i (00:09:05) updateport VisibilityPane
+\i (00:09:08) drag_start grid 254.0078 230.3367
+\i (00:09:08) drag_stop 228.3859 197.6916
+\i (00:09:08) updateport VisibilityPane
+\i (00:09:09) pick grid 228.3859 197.6916
+\t (00:09:09) last pick:  228.3859 197.6916
+\i (00:09:09) updateport VisibilityPane
+\i (00:09:10) ucp_rotate_cw 
+\i (00:09:10) updateport ReportsPane
+\i (00:09:10) updateport SearchPane
+\i (00:09:10) updateport PropPane
+\i (00:09:10) ucpedit 
+\i (00:09:10) updateport VisibilityPane
+\i (00:09:11) pick grid 248.2852 190.6683
+\t (00:09:11) last pick:  248.2852 190.6683
+\i (00:09:11) updateport VisibilityPane
+\i (00:09:12) pick grid 250.7563 190.1481
+\t (00:09:12) last pick:  250.7563 190.1481
+\i (00:09:12) updateport VisibilityPane
+\i (00:09:12) ucp_rotate_cw 
+\i (00:09:13) updateport ReportsPane
+\i (00:09:13) updateport SearchPane
+\i (00:09:13) updateport PropPane
+\i (00:09:13) ucpedit 
+\i (00:09:13) updateport VisibilityPane
+\i (00:09:13) ucp_rotate_cw 
+\i (00:09:13) updateport ReportsPane
+\i (00:09:13) updateport SearchPane
+\i (00:09:13) updateport PropPane
+\i (00:09:13) ucpedit 
+\i (00:09:13) updateport VisibilityPane
+\i (00:09:14) drag_start grid 251.4066 194.7002
+\i (00:09:14) ucp_move 
+\t (00:09:14) last pick:  251.4600 195.5800
+\t (00:09:14) Pick new location for the element(s).
+\i (00:09:14) updateport VisibilityPane
+\i (00:09:15) drag_stop grid 256.4790 214.0792
+\i (00:09:15) updateport ReportsPane
+\i (00:09:15) updateport SearchPane
+\i (00:09:15) updateport PropPane
+\i (00:09:15) ucpedit 
+\i (00:09:15) updateport VisibilityPane
+\i (00:09:17) drag_start grid 254.0078 251.0163
+\i (00:09:17) ucp_move 
+\t (00:09:17) last pick:  254.0000 251.4600
+\t (00:09:17) Pick new location for the element(s).
+\i (00:09:17) updateport VisibilityPane
+\i (00:09:18) drag_stop grid 257.3894 226.5650
+\i (00:09:18) updateport ReportsPane
+\i (00:09:18) updateport SearchPane
+\i (00:09:18) updateport PropPane
+\i (00:09:18) ucpedit 
+\i (00:09:18) updateport VisibilityPane
+\i (00:09:19) drag_start grid 246.2042 221.2325
+\i (00:09:19) ucp_move 
+\t (00:09:19) last pick:  246.3800 220.9800
+\t (00:09:19) Pick new location for the element(s).
+\i (00:09:19) updateport VisibilityPane
+\i (00:09:20) drag_stop grid 258.2998 240.0912
+\i (00:09:20) updateport ReportsPane
+\i (00:09:20) updateport SearchPane
+\i (00:09:20) updateport PropPane
+\i (00:09:20) ucpedit 
+\i (00:09:20) updateport VisibilityPane
+\i (00:09:21) ucp_rotate_cw 
+\i (00:09:21) updateport ReportsPane
+\i (00:09:21) updateport SearchPane
+\i (00:09:21) updateport PropPane
+\i (00:09:21) ucpedit 
+\i (00:09:21) updateport VisibilityPane
+\i (00:09:23) drag_start grid 255.8286 237.7501
+\i (00:09:23) ucp_move 
+\t (00:09:23) last pick:  256.5400 238.7600
+\t (00:09:23) Pick new location for the element(s).
+\i (00:09:23) updateport VisibilityPane
+\i (00:09:24) drag_stop grid 255.9587 236.8397
+\i (00:09:24) updateport ReportsPane
+\i (00:09:24) updateport SearchPane
+\i (00:09:24) updateport PropPane
+\i (00:09:24) ucpedit 
+\i (00:09:24) updateport VisibilityPane
+\i (00:09:25) pick grid 244.9036 245.9439
+\t (00:09:25) last pick:  244.9036 245.9439
+\i (00:09:25) updateport VisibilityPane
+\i (00:09:25) pick grid dbl 244.9036 245.9439
+\t (00:09:25) last pick:  244.9036 245.9439
+\i (00:09:25) updateport VisibilityPane
+\i (00:09:43) save 
+\i (00:09:46) fillin yes 
+\t (00:09:46) > Sending response DoneOpenBoard
+\i (00:09:46) updateport ReportsPane
+\i (00:09:46) updateport SearchPane
+\i (00:09:46) updateport PropPane
+\i (00:09:46) ucpedit 
+\i (00:09:46) updateport VisibilityPane
+\i (00:10:30) cmgr 
+\i (00:10:39) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:10:39) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:10:39) updateport ReportsPane
+\i (00:10:39) updateport SearchPane
+\i (00:10:39) updateport PropPane
+\i (00:10:39) ucpedit 
+\i (00:10:39) updateport VisibilityPane
+\i (00:11:09) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:11:11) QtSignal m_domainSelector WS_Properties_0 itemSelectionChanged Net "General Properties"
+\i (00:11:11) QtSignal m_domainSelector WS_Properties_0 itemClicked Net "General Properties"
+\i (00:11:40) updateport ReportsPane
+\i (00:11:40) updateport SearchPane
+\i (00:11:40) updateport VisibilityPane
+\i (00:11:40) updateport PropPane
+\i (00:11:41) updateport ReportsPane
+\i (00:11:41) updateport SearchPane
+\i (00:11:41) updateport VisibilityPane
+\i (00:11:41) updateport PropPane
+\i (00:11:50) updateport VisibilityPane
+\i (00:11:57) updateport VisibilityPane
+\i (00:11:58) drag_start grid 236.9699 235.5391
+\i (00:11:59) drag_stop 234.2387 212.2583
+\i (00:12:00) updateport VisibilityPane
+\i (00:12:04) updateport VisibilityPane
+\i (00:12:04) pick grid 260.6409 202.6339
+\t (00:12:04) last pick:  260.6409 202.6339
+\i (00:12:04) updateport VisibilityPane
+\i (00:12:05) updateport VisibilityPane
+\i (00:12:06) updateport VisibilityPane
+\i (00:12:06) updateport VisibilityPane
+\i (00:12:08) pick grid 260.6409 202.6339
+\t (00:12:08) last pick:  260.6409 202.6339
+\i (00:12:08) updateport VisibilityPane
+\i (00:12:08) updateport VisibilityPane
+\i (00:13:16) updateport VisibilityPane
+\i (00:13:55) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddConnectButton leftClicked
+\i (00:13:55) ucp_add_connect_mode 
+\i (00:13:55) ucpedit 
+\i (00:13:55) updateport ReportsPane
+\i (00:13:55) updateport SearchPane
+\i (00:13:55) updateport VisibilityPane
+\i (00:13:55) updateport PropPane
+\i (00:14:14) pick grid 257.1293 238.6606
+\t (00:14:14) last pick:  257.1293 238.6606
+\i (00:14:14) ucp_add_connect_pick 
+\w (00:14:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:14:14) Pick first element.
+\t (00:14:14) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:14:14) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:14:14) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:14:14) last pick:  256.5400 238.7600
+\i (00:14:15) updateport ReportsPane
+\i (00:14:15) updateport SearchPane
+\i (00:14:15) updateport VisibilityPane
+\i (00:14:15) updateport PropPane
+\i (00:14:15) mouse_pos 258.2998 240.6115
+\i (00:14:15) mouse_pos 260.2507 242.8225
+\i (00:14:16) mouse_pos 263.1120 239.9612
+\i (00:14:16) mouse_pos 260.2507 240.7415
+\i (00:14:19) pick grid 260.2507 240.7415
+\t (00:14:19) last pick:  260.2507 240.7415
+\t (00:14:19) No DRC errors detected.
+\t (00:14:19) last pick:  259.0800 241.3000
+\i (00:14:19) updateport VisibilityPane
+\i (00:14:19) mouse_pos 260.3808 242.5624
+\i (00:14:19) mouse_pos 262.9820 241.9121
+\i (00:14:25) pick grid 265.4531 241.9121
+\t (00:14:25) last pick:  265.4531 241.9121
+\t (00:14:25) No DRC errors detected.
+\t (00:14:25) last pick:  266.7000 241.3000
+\i (00:14:26) mouse_pos 268.0543 238.9207
+\i (00:14:28) pick grid 268.0543 238.9207
+\t (00:14:28) last pick:  268.0543 238.9207
+\t (00:14:28) No DRC errors detected.
+\t (00:14:28) Pick first element.
+\i (00:14:28) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:14:28) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:14:28) updateport ReportsPane
+\i (00:14:28) updateport SearchPane
+\i (00:14:28) updateport PropPane
+\i (00:14:28) ucpedit 
+\i (00:14:28) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:14:28) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:14:28) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:14:28) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:14:28) updateport ReportsPane
+\i (00:14:28) updateport SearchPane
+\i (00:14:28) updateport VisibilityPane
+\i (00:14:28) updateport PropPane
+\i (00:14:46) QtSignal UCP_Add_connect UCPAddConnectModeOptions CurrentIndexChanged 1
+\i (00:14:46) updateport ReportsPane
+\i (00:14:46) updateport SearchPane
+\i (00:14:46) updateport PropPane
+\i (00:14:47) updateport VisibilityPane
+\i (00:14:56) updateport VisibilityPane
+\i (00:14:58) pick grid 255.9587 239.4409
+\t (00:14:58) last pick:  255.9587 239.4409
+\i (00:14:58) ucp_add_connect_pick 
+\t (00:14:58) Selected item not valid for current operation, ignored: Symbol "J3"
+\t (00:14:58) No valid items selected for the current operation, exiting.
+\i (00:14:58) ucpedit 
+\i (00:14:58) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:14:58) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:14:58) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:14:58) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:14:58) updateport ReportsPane
+\i (00:14:58) updateport SearchPane
+\i (00:14:58) updateport VisibilityPane
+\i (00:14:58) updateport PropPane
+\i (00:15:12) pick grid 257.1293 209.5271
+\t (00:15:12) last pick:  257.1293 209.5271
+\i (00:15:12) ucp_add_connect_pick 
+\t (00:15:12) Selected item not valid for current operation, ignored: Symbol "J2"
+\t (00:15:12) No valid items selected for the current operation, exiting.
+\i (00:15:12) ucpedit 
+\i (00:15:12) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:15:12) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:15:12) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:15:12) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:15:12) updateport ReportsPane
+\i (00:15:12) updateport SearchPane
+\i (00:15:12) updateport VisibilityPane
+\i (00:15:12) updateport PropPane
+\i (00:15:16) pick grid 256.4790 210.8277
+\t (00:15:16) last pick:  256.4790 210.8277
+\i (00:15:16) ucp_add_connect_pick 
+\t (00:15:16) Selected item not valid for current operation, ignored: Symbol "J2"
+\t (00:15:16) No valid items selected for the current operation, exiting.
+\i (00:15:16) ucpedit 
+\i (00:15:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:15:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:15:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:15:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:15:16) updateport ReportsPane
+\i (00:15:16) updateport SearchPane
+\i (00:15:16) updateport VisibilityPane
+\i (00:15:16) updateport PropPane
+\i (00:15:19) pick grid 256.6090 223.0533
+\t (00:15:19) last pick:  256.6090 223.0533
+\i (00:15:19) ucp_add_connect_pick 
+\t (00:15:19) Pick first element.
+\t (00:15:19) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:15:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:15:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:15:19) last pick:  256.5400 223.5200
+\i (00:15:19) updateport ReportsPane
+\i (00:15:19) updateport SearchPane
+\i (00:15:19) updateport PropPane
+\i (00:15:19) mouse_pos 257.9096 223.4435
+\i (00:15:19) mouse_pos 260.3808 224.3539
+\i (00:15:21) mouse_pos 262.9820 223.4435
+\i (00:15:22) pick grid 262.8519 223.7036
+\t (00:15:22) last pick:  262.8519 223.7036
+\t (00:15:22) No DRC errors detected.
+\t (00:15:22) last pick:  261.6200 223.5200
+\i (00:15:23) mouse_pos 268.0543 219.1515
+\i (00:15:25) pick grid 269.7451 224.7441
+\t (00:15:25) last pick:  269.7451 224.7441
+\t (00:15:25) No DRC errors detected.
+\t (00:15:25) Pick first element.
+\i (00:15:25) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:15:25) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:15:25) updateport ReportsPane
+\i (00:15:25) updateport SearchPane
+\i (00:15:25) updateport PropPane
+\i (00:15:25) ucpedit 
+\i (00:15:25) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:15:25) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:15:25) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:15:25) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:15:25) updateport ReportsPane
+\i (00:15:25) updateport SearchPane
+\i (00:15:25) updateport VisibilityPane
+\i (00:15:25) updateport PropPane
+\i (00:15:36) updateport VisibilityPane
+\i (00:15:37) updateport VisibilityPane
+\i (00:15:42) updateport VisibilityPane
+\i (00:16:13) updateport VisibilityPane
+\i (00:16:14) updateport VisibilityPane
+\i (00:16:16) updateport VisibilityPane
+\i (00:16:18) updateport ReportsPane
+\i (00:16:18) updateport SearchPane
+\i (00:16:18) updateport PropPane
+\i (00:16:19) QtSignal UCP_Add_connect SmoothingSlider valueChanged 1
+\i (00:16:19) updateport ReportsPane
+\i (00:16:19) updateport SearchPane
+\i (00:16:19) updateport PropPane
+\i (00:16:21) updateport VisibilityPane
+\i (00:16:22) updateport VisibilityPane
+\i (00:16:25) pick grid 255.9587 210.0473
+\t (00:16:25) last pick:  255.9587 210.0473
+\i (00:16:25) ucp_add_connect_pick 
+\t (00:16:25) Pick first element.
+\t (00:16:25) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:16:25) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:16:25) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:16:25) last pick:  256.5400 210.8200
+\i (00:16:25) updateport ReportsPane
+\i (00:16:25) updateport SearchPane
+\i (00:16:25) updateport PropPane
+\i (00:16:25) mouse_pos 257.2593 209.6571
+\i (00:16:25) mouse_pos 260.3808 208.7467
+\i (00:16:27) mouse_pos 269.3549 209.6571
+\i (00:16:30) mouse_pos 342.1886 246.0740
+\i (00:16:30) mouse_pos 313.8355 229.2962
+\i (00:16:30) mouse_pos 304.2111 218.7614
+\i (00:16:30) mouse_pos 301.4798 206.5357
+\i (00:16:39) pick grid 297.3179 212.1283
+\t (00:16:39) last pick:  297.3179 212.1283
+\t (00:16:39) No DRC errors detected.
+\t (00:16:39) last pick:  297.1800 213.3600
+\i (00:16:39) mouse_pos 298.6185 231.6373
+\i (00:16:40) mouse_pos 298.3583 233.4582
+\i (00:16:43) pick grid 298.0982 232.2876
+\t (00:16:43) last pick:  298.0982 232.2876
+\t (00:16:43) No DRC errors detected.
+\t (00:16:43) last pick:  297.1800 231.1400
+\i (00:16:44) mouse_pos 298.2283 232.4177
+\i (00:16:44) mouse_pos 300.5694 235.0189
+\i (00:16:46) pick grid 301.2197 235.6692
+\t (00:16:46) last pick:  301.2197 235.6692
+\t (00:16:46) No DRC errors detected.
+\t (00:16:46) Pick first element.
+\i (00:16:46) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:16:46) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:16:46) updateport ReportsPane
+\i (00:16:46) updateport SearchPane
+\i (00:16:46) updateport PropPane
+\i (00:16:46) ucpedit 
+\i (00:16:46) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:16:46) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:16:46) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:16:46) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:16:46) updateport ReportsPane
+\i (00:16:46) updateport SearchPane
+\i (00:16:46) updateport VisibilityPane
+\i (00:16:46) updateport PropPane
+\i (00:16:48) updateport VisibilityPane
+\i (00:17:25) updateport VisibilityPane
+\i (00:17:29) zoom in 1 
+\i (00:17:29) setwindow pcb
+\i (00:17:29) zoom in 291.0750 209.6571
+\t (00:17:29) Loading consmgr.cxt 
+\t (00:17:29) Loading acns_formula.cxt 
+\i (00:17:29) trapsize 3252
+\i (00:17:30) zoom in 1 
+\i (00:17:30) setwindow pcb
+\i (00:17:30) zoom in 293.8713 217.6559
+\i (00:17:30) trapsize 1626
+\i (00:17:31) zoom in 1 
+\i (00:17:31) setwindow pcb
+\i (00:17:31) zoom in 293.8714 217.6559
+\i (00:17:31) trapsize 813
+\i (00:17:31) zoom out 1 
+\i (00:17:31) setwindow pcb
+\i (00:17:31) zoom out 293.8714 217.6559
+\i (00:17:31) trapsize 1626
+\i (00:17:33) zoom out 1 
+\i (00:17:33) setwindow pcb
+\i (00:17:33) zoom out 293.8714 217.6559
+\i (00:17:33) trapsize 3251
+\i (00:17:33) zoom out 1 
+\i (00:17:33) setwindow pcb
+\i (00:17:33) zoom out 293.8714 217.6558
+\i (00:17:33) trapsize 6503
+\i (00:17:37) pick grid 256.2842 235.6041
+\t (00:17:37) last pick:  256.2842 235.6041
+\i (00:17:37) ucp_add_connect_pick 
+\t (00:17:37) Pick first element.
+\t (00:17:37) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:17:37) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:17:37) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:17:37) last pick:  256.5400 236.2200
+\i (00:17:37) updateport ReportsPane
+\i (00:17:37) updateport SearchPane
+\i (00:17:37) updateport PropPane
+\i (00:17:37) mouse_pos 259.7958 234.9538
+\i (00:17:37) mouse_pos 261.3565 234.8238
+\i (00:17:40) mouse_pos 260.8363 234.9538
+\i (00:17:41) mouse_pos 260.9663 234.8238
+\i (00:17:42) pick grid 260.9663 234.8238
+\t (00:17:42) last pick:  260.9663 234.8238
+\t (00:17:42) No DRC errors detected.
+\t (00:17:42) last pick:  261.6200 233.6800
+\i (00:17:42) mouse_pos 262.9172 234.3035
+\i (00:17:42) mouse_pos 267.9896 234.1735
+\i (00:17:47) pick grid 280.8655 233.5232
+\t (00:17:47) last pick:  280.8655 233.5232
+\t (00:17:47) No DRC errors detected.
+\t (00:17:47) last pick:  281.9400 233.6800
+\i (00:17:48) mouse_pos 282.4262 234.9538
+\i (00:17:48) mouse_pos 283.4667 236.6446
+\i (00:17:52) mouse_pos 284.3771 234.8238
+\i (00:17:55) pick grid 280.4753 234.8238
+\t (00:17:55) last pick:  280.4753 234.8238
+\t (00:17:55) No DRC errors detected.
+\t (00:17:55) last pick:  279.4000 233.6800
+\i (00:17:55) updateport SearchPane
+\i (00:17:56) mouse_pos 280.4753 235.2140
+\i (00:17:56) mouse_pos 283.2066 237.5550
+\i (00:17:57) pick grid 283.4667 237.5550
+\t (00:17:57) last pick:  283.4667 237.5550
+\t (00:17:57) No DRC errors detected.
+\t (00:17:57) Pick first element.
+\i (00:17:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:17:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:17:57) updateport ReportsPane
+\i (00:17:57) updateport SearchPane
+\i (00:17:57) updateport PropPane
+\i (00:17:57) ucpedit 
+\i (00:17:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:17:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:17:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:17:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:17:57) updateport ReportsPane
+\i (00:17:57) updateport SearchPane
+\i (00:17:57) updateport VisibilityPane
+\i (00:17:57) updateport PropPane
+\i (00:18:03) pick grid 268.7699 213.1038
+\t (00:18:03) last pick:  268.7699 213.1038
+\i (00:18:03) ucp_add_connect_pick 
+\t (00:18:03) Pick first element.
+\t (00:18:03) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:18:03) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:18:03) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:18:03) last pick:  269.2400 213.3600
+\i (00:18:03) updateport ReportsPane
+\i (00:18:03) updateport SearchPane
+\i (00:18:03) updateport PropPane
+\i (00:18:03) mouse_pos 267.8595 213.3639
+\i (00:18:04) mouse_pos 265.9086 215.0547
+\i (00:18:04) mouse_pos 263.3074 219.7368
+\i (00:18:04) mouse_pos 263.4375 219.2166
+\i (00:18:06) pick grid 265.6485 214.5344
+\t (00:18:06) last pick:  265.6485 214.5344
+\t (00:18:06) No DRC errors detected.
+\t (00:18:06) last pick:  266.7000 213.3600
+\i (00:18:07) mouse_pos 264.2178 217.2657
+\i (00:18:07) mouse_pos 262.0068 224.9392
+\i (00:18:07) mouse_pos 260.3160 230.1416
+\i (00:18:08) mouse_pos 259.5357 229.7514
+\i (00:18:08) mouse_pos 258.3651 226.8901
+\i (00:18:08) mouse_pos 258.3651 221.9478
+\i (00:18:08) mouse_pos 259.4056 219.6068
+\i (00:18:09) mouse_pos 259.4056 222.5981
+\i (00:18:09) mouse_pos 259.1455 224.9392
+\i (00:18:09) mouse_pos 260.4461 226.3699
+\i (00:18:11) mouse_pos 260.8363 222.3380
+\i (00:18:11) mouse_pos 262.0068 224.9392
+\i (00:18:12) mouse_pos 260.3160 223.6386
+\i (00:18:12) mouse_pos 259.4056 222.2080
+\i (00:18:13) mouse_pos 260.3160 222.3380
+\i (00:18:13) mouse_pos 260.7062 222.3380
+\i (00:18:13) mouse_pos 262.9172 224.4190
+\i (00:18:14) mouse_pos 263.5675 224.9392
+\i (00:18:17) mouse_pos 262.7872 225.7196
+\i (00:18:18) mouse_pos 258.2351 227.5404
+\i (00:18:18) mouse_pos 255.6339 230.1416
+\i (00:18:23) pick grid 258.7553 219.7368
+\t (00:18:23) last pick:  258.7553 219.7368
+\t (00:18:23) No DRC errors detected.
+\t (00:18:23) last pick:  259.0800 220.9800
+\i (00:18:25) pick grid 255.2437 221.0374
+\t (00:18:25) last pick:  255.2437 221.0374
+\t (00:18:25) No DRC errors detected.
+\t (00:18:25) last pick:  254.0000 220.9800
+\i (00:18:25) mouse_pos 253.0327 222.3380
+\i (00:18:26) mouse_pos 253.0327 224.8092
+\i (00:18:29) pick grid 250.3014 223.8987
+\t (00:18:29) last pick:  250.3014 223.8987
+\t (00:18:29) No DRC errors detected.
+\t (00:18:29) last pick:  251.4600 223.5200
+\i (00:18:33) pick grid 252.5124 232.3526
+\t (00:18:33) last pick:  252.5124 232.3526
+\t (00:18:33) No DRC errors detected.
+\t (00:18:33) last pick:  251.4600 231.1400
+\i (00:18:34) mouse_pos 253.1627 221.6877
+\i (00:18:34) mouse_pos 253.5529 219.0865
+\i (00:18:34) mouse_pos 254.8535 209.3320
+\i (00:18:34) mouse_pos 255.2437 219.7368
+\i (00:18:34) mouse_pos 255.2437 225.0693
+\i (00:18:34) mouse_pos 255.6339 228.1907
+\i (00:18:34) mouse_pos 255.7639 234.9538
+\i (00:18:36) pick grid 256.9345 237.4250
+\t (00:18:36) last pick:  256.9345 237.4250
+\t (00:18:36) No DRC errors detected.
+\t (00:18:36) Pick first element.
+\i (00:18:36) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:18:36) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:18:36) updateport ReportsPane
+\i (00:18:36) updateport SearchPane
+\i (00:18:36) updateport PropPane
+\i (00:18:36) ucpedit 
+\i (00:18:36) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:18:36) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:18:36) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:18:36) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:18:36) updateport ReportsPane
+\i (00:18:36) updateport SearchPane
+\i (00:18:36) updateport VisibilityPane
+\i (00:18:36) updateport PropPane
+\i (00:18:50) pick grid 284.7673 238.5955
+\t (00:18:50) last pick:  284.7673 238.5955
+\i (00:18:50) ucp_add_connect_pick 
+\t (00:18:50) Pick first element.
+\t (00:18:50) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:18:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:18:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:18:50) last pick:  284.4800 238.7600
+\i (00:18:50) updateport ReportsPane
+\i (00:18:50) updateport SearchPane
+\i (00:18:50) updateport PropPane
+\i (00:18:50) mouse_pos 281.7759 242.6274
+\i (00:18:50) mouse_pos 281.7759 247.6997
+\i (00:18:50) mouse_pos 280.6054 249.0003
+\i (00:18:51) mouse_pos 279.3048 247.0494
+\i (00:18:51) mouse_pos 281.7759 237.4250
+\i (00:18:51) mouse_pos 282.9465 234.8238
+\i (00:18:52) mouse_pos 284.5072 232.3526
+\i (00:18:52) mouse_pos 288.4090 232.0925
+\i (00:18:55) pick grid 288.2789 233.3931
+\t (00:18:55) last pick:  288.2789 233.3931
+\t (00:18:55) No DRC errors detected.
+\t (00:18:55) last pick:  287.0200 233.6800
+\i (00:18:56) mouse_pos 288.0188 232.3526
+\i (00:18:56) mouse_pos 290.7501 229.7514
+\i (00:18:57) pick grid 290.8801 229.4913
+\t (00:18:57) last pick:  290.8801 229.4913
+\t (00:18:57) No DRC errors detected.
+\t (00:18:57) Pick first element.
+\i (00:18:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:18:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:18:57) updateport ReportsPane
+\i (00:18:57) updateport SearchPane
+\i (00:18:57) updateport PropPane
+\i (00:18:57) ucpedit 
+\i (00:18:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:18:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:18:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:18:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:18:57) updateport ReportsPane
+\i (00:18:57) updateport SearchPane
+\i (00:18:57) updateport VisibilityPane
+\i (00:18:57) updateport PropPane
+\i (00:19:00) pick grid 277.2238 254.0727
+\t (00:19:00) last pick:  277.2238 254.0727
+\i (00:19:00) ucp_add_connect_pick 
+\t (00:19:00) Pick first element.
+\t (00:19:00) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:19:00) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:00) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:19:00) last pick:  276.8600 254.0000
+\i (00:19:01) updateport ReportsPane
+\i (00:19:01) updateport SearchPane
+\i (00:19:01) updateport PropPane
+\i (00:19:01) mouse_pos 278.5244 249.1304
+\i (00:19:01) mouse_pos 279.5649 247.5697
+\i (00:19:01) mouse_pos 283.4667 240.4164
+\i (00:19:02) mouse_pos 281.6459 246.3991
+\i (00:19:02) mouse_pos 280.6054 247.8298
+\i (00:19:04) mouse_pos 280.8655 249.2604
+\i (00:19:06) mouse_pos 278.9146 250.1709
+\i (00:19:07) pick grid 278.9146 250.1709
+\t (00:19:07) last pick:  278.9146 250.1709
+\t (00:19:07) No DRC errors detected.
+\t (00:19:07) last pick:  279.4000 248.9200
+\i (00:19:08) mouse_pos 279.8250 247.5697
+\i (00:19:09) mouse_pos 283.2066 240.0262
+\i (00:19:10) pick grid 283.4667 239.8961
+\t (00:19:10) last pick:  283.4667 239.8961
+\t (00:19:10) No DRC errors detected.
+\t (00:19:10) Pick first element.
+\i (00:19:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:10) updateport ReportsPane
+\i (00:19:10) updateport SearchPane
+\i (00:19:10) updateport PropPane
+\i (00:19:10) ucpedit 
+\i (00:19:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:10) updateport ReportsPane
+\i (00:19:10) updateport SearchPane
+\i (00:19:10) updateport VisibilityPane
+\i (00:19:10) updateport PropPane
+\i (00:19:13) pick grid 292.8310 253.8125
+\t (00:19:13) last pick:  292.8310 253.8125
+\i (00:19:13) ucp_add_connect_pick 
+\t (00:19:13) Selected item not valid for current operation, ignored: Symbol "U4"
+\t (00:19:13) No valid items selected for the current operation, exiting.
+\i (00:19:13) ucpedit 
+\i (00:19:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:13) updateport ReportsPane
+\i (00:19:13) updateport SearchPane
+\i (00:19:13) updateport VisibilityPane
+\i (00:19:13) updateport PropPane
+\i (00:19:16) pick grid 292.1807 254.2027
+\t (00:19:16) last pick:  292.1807 254.2027
+\i (00:19:16) ucp_add_connect_pick 
+\t (00:19:16) Selected item not valid for current operation, ignored: Symbol "U4"
+\t (00:19:16) No valid items selected for the current operation, exiting.
+\i (00:19:16) ucpedit 
+\i (00:19:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:16) updateport ReportsPane
+\i (00:19:16) updateport SearchPane
+\i (00:19:16) updateport VisibilityPane
+\i (00:19:17) updateport PropPane
+\i (00:19:18) pick grid 292.7010 254.4628
+\t (00:19:18) last pick:  292.7010 254.4628
+\i (00:19:19) ucp_add_connect_pick 
+\t (00:19:19) Selected item not valid for current operation, ignored: Symbol "U4"
+\t (00:19:19) No valid items selected for the current operation, exiting.
+\i (00:19:19) ucpedit 
+\i (00:19:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:19) updateport ReportsPane
+\i (00:19:19) updateport SearchPane
+\i (00:19:19) updateport VisibilityPane
+\i (00:19:19) updateport PropPane
+\i (00:19:22) pick grid 301.6751 256.1536
+\t (00:19:22) last pick:  301.6751 256.1536
+\i (00:19:22) ucp_add_connect_pick 
+\t (00:19:22) Pick first element.
+\t (00:19:22) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:19:22) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:22) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:19:22) last pick:  302.2600 256.5400
+\i (00:19:22) updateport ReportsPane
+\i (00:19:22) updateport SearchPane
+\i (00:19:22) updateport PropPane
+\i (00:19:22) mouse_pos 300.7647 256.0236
+\i (00:19:22) mouse_pos 298.6837 254.8530
+\i (00:19:23) mouse_pos 297.7733 252.5119
+\i (00:19:23) mouse_pos 298.5537 251.8616
+\i (00:19:24) mouse_pos 298.4236 251.0813
+\i (00:19:25) mouse_pos 298.5537 250.4310
+\i (00:19:26) mouse_pos 298.4236 251.6015
+\i (00:19:30) mouse_pos 298.5537 253.1622
+\i (00:19:30) mouse_pos 298.4236 252.9021
+\i (00:19:32) pick grid 298.0334 252.5119
+\t (00:19:32) last pick:  298.0334 252.5119
+\t (00:19:32) No DRC errors detected.
+\t (00:19:32) last pick:  297.1800 251.4600
+\i (00:19:32) mouse_pos 297.3831 249.9107
+\i (00:19:32) mouse_pos 297.3831 247.5697
+\i (00:19:34) pick grid 297.3831 247.5697
+\t (00:19:34) last pick:  297.3831 247.5697
+\t (00:19:34) No DRC errors detected.
+\t (00:19:34) last pick:  297.1800 246.3800
+\i (00:19:34) mouse_pos 298.5537 246.3991
+\i (00:19:35) mouse_pos 301.0248 245.0985
+\i (00:19:36) mouse_pos 298.4236 243.0176
+\i (00:19:36) mouse_pos 301.0248 243.0176
+\i (00:19:38) mouse_pos 298.6837 247.8298
+\i (00:19:39) pick grid 298.4236 248.2200
+\t (00:19:39) last pick:  298.4236 248.2200
+\t (00:19:39) No DRC errors detected.
+\t (00:19:39) last pick:  297.1800 248.9200
+\i (00:19:39) updateport SearchPane
+\i (00:19:39) mouse_pos 298.4236 247.5697
+\i (00:19:39) mouse_pos 299.9843 245.0985
+\i (00:19:41) pick grid 301.0248 244.9685
+\t (00:19:41) last pick:  301.0248 244.9685
+\t (00:19:41) No DRC errors detected.
+\t (00:19:41) Pick first element.
+\i (00:19:41) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:41) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:41) updateport ReportsPane
+\i (00:19:41) updateport SearchPane
+\i (00:19:41) updateport PropPane
+\i (00:19:41) ucpedit 
+\i (00:19:41) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:41) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:41) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:41) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:41) updateport ReportsPane
+\i (00:19:41) updateport SearchPane
+\i (00:19:41) updateport VisibilityPane
+\i (00:19:41) updateport PropPane
+\i (00:19:43) pick grid 292.0507 254.7230
+\t (00:19:43) last pick:  292.0507 254.7230
+\i (00:19:43) ucp_add_connect_pick 
+\t (00:19:43) Pick first element.
+\t (00:19:43) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:19:43) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:43) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:19:43) last pick:  292.1000 254.0000
+\i (00:19:43) updateport ReportsPane
+\i (00:19:43) updateport SearchPane
+\i (00:19:43) updateport PropPane
+\i (00:19:43) mouse_pos 293.2212 255.5033
+\i (00:19:43) mouse_pos 295.9525 257.0640
+\i (00:19:45) pick grid 297.3831 257.7143
+\t (00:19:45) last pick:  297.3831 257.7143
+\t (00:19:45) No DRC errors detected.
+\t (00:19:45) last pick:  297.1800 256.5400
+\i (00:19:46) mouse_pos 298.5537 256.6739
+\i (00:19:46) mouse_pos 301.0248 256.8039
+\i (00:19:47) pick grid 301.0248 256.8039
+\t (00:19:47) last pick:  301.0248 256.8039
+\t (00:19:47) No DRC errors detected.
+\t (00:19:47) Pick first element.
+\i (00:19:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:47) updateport ReportsPane
+\i (00:19:47) updateport SearchPane
+\i (00:19:47) updateport PropPane
+\i (00:19:47) ucpedit 
+\i (00:19:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:47) updateport ReportsPane
+\i (00:19:47) updateport SearchPane
+\i (00:19:47) updateport VisibilityPane
+\i (00:19:47) updateport PropPane
+\i (00:19:50) pick grid 318.0627 235.9943
+\t (00:19:50) last pick:  318.0627 235.9943
+\i (00:19:50) ucp_add_connect_pick 
+\t (00:19:50) Pick first element.
+\t (00:19:50) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:19:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:19:50) last pick:  317.5000 236.2200
+\i (00:19:51) updateport ReportsPane
+\i (00:19:51) updateport SearchPane
+\i (00:19:51) updateport PropPane
+\i (00:19:51) mouse_pos 318.8430 237.4250
+\i (00:19:51) mouse_pos 321.3142 243.2777
+\i (00:19:52) mouse_pos 321.1841 230.1416
+\i (00:19:57) pick grid 318.0627 224.4190
+\t (00:19:57) last pick:  318.0627 224.4190
+\t (00:19:57) No DRC errors detected.
+\t (00:19:57) Pick first element.
+\i (00:19:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:57) updateport ReportsPane
+\i (00:19:57) updateport SearchPane
+\i (00:19:57) updateport PropPane
+\i (00:19:57) ucpedit 
+\i (00:19:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:19:57) updateport ReportsPane
+\i (00:19:57) updateport SearchPane
+\i (00:19:57) updateport VisibilityPane
+\i (00:19:57) updateport PropPane
+\i (00:19:59) pick grid 317.6725 236.6446
+\t (00:19:59) last pick:  317.6725 236.6446
+\i (00:19:59) ucp_add_connect_pick 
+\t (00:19:59) Pick first element.
+\t (00:19:59) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:19:59) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:19:59) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:19:59) last pick:  317.5000 236.2200
+\i (00:19:59) updateport ReportsPane
+\i (00:19:59) updateport SearchPane
+\i (00:19:59) updateport PropPane
+\i (00:19:59) mouse_pos 319.2332 238.0753
+\i (00:19:59) mouse_pos 318.7130 246.2691
+\i (00:19:59) mouse_pos 318.3228 247.6997
+\i (00:20:02) pick grid 318.3228 247.6997
+\t (00:20:02) last pick:  318.3228 247.6997
+\t (00:20:02) No DRC errors detected.
+\t (00:20:02) Pick first element.
+\i (00:20:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:02) updateport ReportsPane
+\i (00:20:02) updateport SearchPane
+\i (00:20:02) updateport PropPane
+\i (00:20:02) ucpedit 
+\i (00:20:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:02) updateport ReportsPane
+\i (00:20:02) updateport SearchPane
+\i (00:20:02) updateport VisibilityPane
+\i (00:20:02) updateport PropPane
+\i (00:20:05) pick grid 317.5424 210.6326
+\t (00:20:05) last pick:  317.5424 210.6326
+\i (00:20:05) ucp_add_connect_pick 
+\t (00:20:05) Pick first element.
+\t (00:20:05) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:20:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:20:05) last pick:  317.5000 210.8200
+\i (00:20:05) updateport ReportsPane
+\i (00:20:05) updateport SearchPane
+\i (00:20:05) updateport PropPane
+\i (00:20:05) mouse_pos 318.8430 211.9332
+\i (00:20:05) mouse_pos 321.3142 215.0547
+\i (00:20:05) mouse_pos 320.7939 218.3062
+\i (00:20:06) mouse_pos 317.2823 222.3380
+\i (00:20:07) mouse_pos 316.8921 219.2166
+\i (00:20:07) mouse_pos 316.2418 210.8927
+\i (00:20:07) mouse_pos 318.8430 210.6326
+\i (00:20:07) mouse_pos 321.4442 213.7541
+\i (00:20:07) mouse_pos 321.1841 218.6963
+\i (00:20:08) mouse_pos 318.7130 221.8178
+\i (00:20:08) mouse_pos 318.1927 222.3380
+\i (00:20:10) pick grid 318.1927 222.3380
+\t (00:20:10) last pick:  318.1927 222.3380
+\t (00:20:10) No DRC errors detected.
+\t (00:20:10) Pick first element.
+\i (00:20:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:10) updateport ReportsPane
+\i (00:20:10) updateport SearchPane
+\i (00:20:10) updateport PropPane
+\i (00:20:10) ucpedit 
+\i (00:20:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:10) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:10) updateport ReportsPane
+\i (00:20:10) updateport SearchPane
+\i (00:20:10) updateport VisibilityPane
+\i (00:20:10) updateport PropPane
+\i (00:20:17) pick grid 256.4142 226.1098
+\t (00:20:17) last pick:  256.4142 226.1098
+\i (00:20:17) ucp_add_connect_pick 
+\t (00:20:17) Pick first element.
+\t (00:20:17) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:20:17) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:17) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:20:17) last pick:  256.5400 226.0600
+\i (00:20:17) updateport ReportsPane
+\i (00:20:17) updateport SearchPane
+\i (00:20:17) updateport PropPane
+\i (00:20:17) mouse_pos 258.3651 228.1907
+\i (00:20:17) mouse_pos 265.5184 233.0029
+\i (00:20:17) mouse_pos 268.1196 235.2140
+\i (00:20:17) mouse_pos 270.5908 237.1649
+\i (00:20:17) mouse_pos 271.3711 237.8152
+\i (00:20:17) mouse_pos 273.0619 239.8961
+\i (00:20:17) mouse_pos 273.4521 240.5464
+\i (00:20:17) mouse_pos 275.2729 242.6274
+\i (00:20:18) mouse_pos 275.7932 243.2777
+\i (00:20:18) mouse_pos 278.3944 242.6274
+\i (00:20:18) mouse_pos 278.3944 242.6274
+\i (00:20:19) mouse_pos 278.0042 243.2777
+\i (00:20:20) mouse_pos 273.1920 240.0262
+\i (00:20:20) mouse_pos 272.6717 239.7661
+\i (00:20:20) mouse_pos 270.2006 238.7256
+\i (00:20:21) mouse_pos 267.8595 236.7747
+\i (00:20:21) mouse_pos 265.9086 234.8238
+\i (00:20:21) mouse_pos 265.2583 233.3931
+\i (00:20:21) mouse_pos 264.7381 232.2226
+\i (00:20:21) mouse_pos 263.3074 229.6214
+\i (00:20:23) mouse_pos 262.7872 231.5723
+\i (00:20:23) mouse_pos 260.4461 232.7428
+\i (00:20:23) mouse_pos 260.1860 232.7428
+\i (00:20:26) pick grid 257.7148 232.3526
+\t (00:20:26) last pick:  257.7148 232.3526
+\t (00:20:26) No DRC errors detected.
+\t (00:20:26) last pick:  256.5400 231.1400
+\i (00:20:26) mouse_pos 258.3651 232.0925
+\i (00:20:26) mouse_pos 263.0473 235.2140
+\i (00:20:26) mouse_pos 265.6485 236.5146
+\i (00:20:26) mouse_pos 268.1196 237.4250
+\i (00:20:26) mouse_pos 268.7699 237.9452
+\i (00:20:26) mouse_pos 272.1515 240.5464
+\i (00:20:26) mouse_pos 273.0619 241.1967
+\i (00:20:26) mouse_pos 275.2729 242.6274
+\i (00:20:26) mouse_pos 275.6631 242.7574
+\i (00:20:29) mouse_pos 274.3625 240.0262
+\i (00:20:29) mouse_pos 272.8018 238.5955
+\i (00:20:29) mouse_pos 271.1110 237.2949
+\i (00:20:32) pick grid 271.1110 237.2949
+\t (00:20:32) last pick:  271.1110 237.2949
+\t (00:20:32) No DRC errors detected.
+\t (00:20:32) last pick:  268.9860 233.4260
+\i (00:20:32) mouse_pos 270.7208 237.4250
+\i (00:20:32) mouse_pos 271.2411 237.9452
+\i (00:20:32) mouse_pos 273.0619 240.0262
+\i (00:20:32) mouse_pos 273.3220 240.4164
+\i (00:20:32) mouse_pos 275.1429 242.6274
+\i (00:20:33) mouse_pos 275.6631 243.4077
+\i (00:20:36) pick grid 275.4030 243.7979
+\t (00:20:36) last pick:  275.4030 243.7979
+\t (00:20:36) No DRC errors detected.
+\t (00:20:36) last pick:  268.9860 233.4260
+\i (00:20:36) mouse_pos 274.6226 244.7083
+\i (00:20:36) mouse_pos 275.7932 244.4482
+\i (00:20:38) mouse_pos 273.3220 242.4973
+\i (00:20:38) mouse_pos 272.8018 241.7170
+\i (00:20:38) mouse_pos 271.5012 240.0262
+\i (00:20:39) mouse_pos 270.4607 238.4655
+\i (00:20:39) mouse_pos 267.4693 235.9943
+\i (00:20:39) mouse_pos 265.9086 234.8238
+\i (00:20:39) mouse_pos 263.6976 235.3440
+\i (00:20:39) mouse_pos 267.9896 236.6446
+\i (00:20:40) mouse_pos 270.5908 235.8643
+\i (00:20:40) mouse_pos 270.4607 235.3440
+\i (00:20:40) mouse_pos 270.0705 234.8238
+\i (00:20:40) mouse_pos 270.7208 234.1735
+\i (00:20:42) mouse_pos 273.7122 235.2140
+\i (00:20:43) mouse_pos 270.7208 235.3440
+\i (00:20:43) mouse_pos 270.0705 235.3440
+\i (00:20:43) mouse_pos 267.5994 236.2544
+\i (00:20:43) mouse_pos 264.6080 241.3268
+\i (00:20:43) mouse_pos 264.6080 242.7574
+\i (00:20:43) mouse_pos 268.1196 249.7807
+\i (00:20:44) mouse_pos 271.1110 249.6506
+\i (00:20:44) mouse_pos 271.3711 247.0494
+\i (00:20:44) mouse_pos 271.3711 244.9685
+\i (00:20:44) mouse_pos 271.1110 242.3673
+\i (00:20:44) mouse_pos 270.4607 239.8961
+\i (00:20:44) mouse_pos 267.4693 235.6041
+\i (00:20:44) mouse_pos 266.1687 234.8238
+\i (00:20:44) mouse_pos 263.6976 232.2226
+\i (00:20:44) mouse_pos 263.5675 232.7428
+\i (00:20:45) mouse_pos 262.2669 232.2226
+\i (00:20:47) pick grid 262.9172 231.4422
+\t (00:20:47) last pick:  262.9172 231.4422
+\t (00:20:47) No DRC errors detected.
+\t (00:20:47) last pick:  264.1600 231.1400
+\i (00:20:47) mouse_pos 264.2178 232.6128
+\i (00:20:48) mouse_pos 265.5184 233.5232
+\i (00:20:48) pick grid 265.5184 233.5232
+\t (00:20:48) last pick:  265.5184 233.5232
+\t (00:20:48) No DRC errors detected.
+\t (00:20:48) last pick:  266.7000 233.4260
+\i (00:20:49) mouse_pos 267.5994 234.8238
+\i (00:20:49) mouse_pos 268.1196 234.8238
+\i (00:20:49) mouse_pos 273.0619 235.4741
+\i (00:20:50) mouse_pos 273.0619 231.7023
+\i (00:20:50) mouse_pos 273.3220 232.6128
+\i (00:20:50) mouse_pos 275.0128 237.9452
+\i (00:20:51) mouse_pos 275.2729 240.4164
+\i (00:20:51) mouse_pos 275.6631 241.0667
+\i (00:20:52) mouse_pos 274.1024 242.4973
+\i (00:20:53) mouse_pos 272.8018 241.3268
+\i (00:20:53) mouse_pos 270.7208 240.0262
+\i (00:20:53) mouse_pos 269.9405 239.8961
+\i (00:20:54) mouse_pos 267.9896 237.9452
+\i (00:20:54) mouse_pos 270.7208 237.2949
+\i (00:20:54) mouse_pos 273.3220 236.6446
+\i (00:20:54) mouse_pos 276.0533 235.6041
+\i (00:20:54) mouse_pos 277.8741 234.8238
+\i (00:20:54) mouse_pos 278.3944 234.6937
+\i (00:20:54) mouse_pos 280.9956 233.0029
+\i (00:20:54) mouse_pos 283.4667 231.4422
+\i (00:20:55) mouse_pos 283.2066 232.7428
+\i (00:20:55) mouse_pos 281.7759 235.3440
+\i (00:20:55) mouse_pos 280.6054 236.6446
+\i (00:20:55) mouse_pos 277.8741 239.8961
+\i (00:20:57) pick grid 277.6140 242.6274
+\t (00:20:57) last pick:  277.6140 242.6274
+\t (00:20:57) DRC error(s) created.
+\t (00:20:57) Pick first element.
+\i (00:20:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:57) updateport ReportsPane
+\i (00:20:57) updateport SearchPane
+\i (00:20:57) updateport PropPane
+\i (00:20:57) ucpedit 
+\i (00:20:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:20:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:20:57) updateport ReportsPane
+\i (00:20:57) updateport SearchPane
+\i (00:20:57) updateport VisibilityPane
+\i (00:20:57) updateport PropPane
+\i (00:21:02) updateport VisibilityPane
+\i (00:21:24) updateport VisibilityPane
+\i (00:21:28) esc 
+\i (00:21:28) updateport VisibilityPane
+\i (00:21:28) esc 
+\i (00:21:28) ucp_selection_mode 
+\i (00:21:28) ucpedit 
+\i (00:21:28) updateport VisibilityPane
+\i (00:21:29) esc 
+\i (00:21:31) pick grid 262.9172 231.3122
+\t (00:21:31) last pick:  262.9172 231.3122
+\i (00:21:31) updateport ReportsPane
+\i (00:21:31) updateport SearchPane
+\i (00:21:31) updateport VisibilityPane
+\i (00:21:31) updateport PropPane
+\i (00:21:32) ucp_delete 
+\i (00:21:32) updateport ReportsPane
+\i (00:21:32) updateport SearchPane
+\i (00:21:32) updateport PropPane
+\i (00:21:32) ucpedit 
+\i (00:21:32) updateport VisibilityPane
+\i (00:21:36) pick grid 268.5098 234.6937
+\t (00:21:36) last pick:  268.5098 234.6937
+\i (00:21:36) updateport ReportsPane
+\i (00:21:36) updateport SearchPane
+\i (00:21:36) updateport VisibilityPane
+\i (00:21:36) updateport PropPane
+\i (00:21:37) ucp_delete 
+\i (00:21:38) updateport ReportsPane
+\i (00:21:38) updateport SearchPane
+\i (00:21:38) updateport PropPane
+\i (00:21:38) ucpedit 
+\i (00:21:38) updateport VisibilityPane
+\i (00:21:40) pick grid 264.8681 232.0925
+\t (00:21:40) last pick:  264.8681 232.0925
+\i (00:21:40) updateport ReportsPane
+\i (00:21:40) updateport SearchPane
+\i (00:21:40) updateport VisibilityPane
+\i (00:21:40) updateport PropPane
+\i (00:21:41) ucp_delete 
+\i (00:21:41) updateport ReportsPane
+\i (00:21:41) updateport SearchPane
+\i (00:21:41) updateport PropPane
+\i (00:21:41) ucpedit 
+\i (00:21:41) updateport VisibilityPane
+\i (00:21:44) pick grid 256.4142 230.6619
+\t (00:21:44) last pick:  256.4142 230.6619
+\i (00:21:44) updateport ReportsPane
+\i (00:21:44) updateport SearchPane
+\i (00:21:44) updateport VisibilityPane
+\i (00:21:44) updateport PropPane
+\i (00:21:44) ucp_delete 
+\i (00:21:44) updateport ReportsPane
+\i (00:21:44) updateport SearchPane
+\i (00:21:44) updateport PropPane
+\i (00:21:44) ucpedit 
+\i (00:21:44) updateport VisibilityPane
+\i (00:21:47) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddConnectButton leftClicked
+\i (00:21:47) ucp_add_connect_mode 
+\i (00:21:47) ucpedit 
+\i (00:21:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:21:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:21:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:21:47) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:21:47) updateport ReportsPane
+\i (00:21:47) updateport SearchPane
+\i (00:21:47) updateport VisibilityPane
+\i (00:21:47) updateport PropPane
+\i (00:21:49) pick grid 256.1541 226.3699
+\t (00:21:49) last pick:  256.1541 226.3699
+\i (00:21:49) ucp_add_connect_pick 
+\t (00:21:49) Pick first element.
+\t (00:21:49) Target Vertical Line Segment is defined on TOP.
+\i (00:21:49) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:21:49) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:21:49) last pick:  256.5400 226.0600
+\i (00:21:49) updateport ReportsPane
+\i (00:21:49) updateport SearchPane
+\i (00:21:50) updateport PropPane
+\i (00:21:50) mouse_pos 257.8449 227.1502
+\i (00:21:50) mouse_pos 262.9172 230.1416
+\i (00:21:52) pick grid 265.3884 232.0925
+\t (00:21:52) last pick:  265.3884 232.0925
+\t (00:21:52) No DRC errors detected.
+\t (00:21:52) last pick:  264.1600 231.1400
+\i (00:21:52) mouse_pos 264.6080 232.7428
+\i (00:21:52) mouse_pos 265.5184 234.6937
+\i (00:21:53) mouse_pos 264.7381 234.8238
+\i (00:21:53) mouse_pos 263.9577 232.3526
+\i (00:21:53) pick grid 263.9577 232.3526
+\t (00:21:53) last pick:  263.9577 232.3526
+\w (00:21:53) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:21:54) mouse_pos 264.7381 232.7428
+\i (00:21:55) mouse_pos 264.7381 234.8238
+\i (00:21:56) mouse_pos 264.3479 232.3526
+\i (00:21:57) pick grid 264.3479 232.3526
+\t (00:21:57) last pick:  264.3479 232.3526
+\w (00:21:57) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:21:57) pick grid dbl 264.3479 232.3526
+\t (00:21:57) last pick:  264.3479 232.3526
+\i (00:21:57) QtSignal UCP_Add_connect EndLayersDropDownComboBox CurrentIndexChanged Top
+\i (00:21:57) QtSignal UCP_Add_connect StartLayersDropDownComboBox CurrentIndexChanged Bottom
+\i (00:21:57) updateport VisibilityPane
+\i (00:21:58) mouse_pos 264.8681 233.3931
+\i (00:21:58) mouse_pos 265.5184 234.5637
+\i (00:21:58) mouse_pos 265.5184 234.9538
+\i (00:22:02) pick grid 265.3884 235.9943
+\t (00:22:02) last pick:  265.3884 235.9943
+\t (00:22:02) No DRC errors detected.
+\t (00:22:02) last pick:  264.1600 236.2200
+\i (00:22:02) pick grid dbl 264.6080 236.2544
+\t (00:22:02) last pick:  264.6080 236.2544
+\i (00:22:02) QtSignal UCP_Add_connect EndLayersDropDownComboBox CurrentIndexChanged Bottom
+\i (00:22:02) QtSignal UCP_Add_connect StartLayersDropDownComboBox CurrentIndexChanged Top
+\i (00:22:02) updateport VisibilityPane
+\i (00:22:02) mouse_pos 266.0387 236.2544
+\i (00:22:02) mouse_pos 268.1196 236.2544
+\i (00:22:05) pick grid 276.5735 242.6274
+\t (00:22:05) last pick:  276.5735 242.6274
+\t (00:22:05) No DRC errors detected.
+\t (00:22:05) Pick first element.
+\i (00:22:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:22:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:22:05) updateport ReportsPane
+\i (00:22:05) updateport SearchPane
+\i (00:22:05) updateport PropPane
+\i (00:22:05) ucpedit 
+\i (00:22:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:22:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:22:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:22:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:22:05) updateport ReportsPane
+\i (00:22:05) updateport SearchPane
+\i (00:22:05) updateport VisibilityPane
+\i (00:22:05) updateport PropPane
+\i (00:22:29) zoom in 1 
+\i (00:22:29) setwindow pcb
+\i (00:22:29) zoom in 296.6028 218.5663
+\i (00:22:29) trapsize 3251
+\i (00:22:29) zoom in 1 
+\i (00:22:29) setwindow pcb
+\i (00:22:29) zoom in 296.6028 218.5663
+\i (00:22:29) trapsize 1626
+\i (00:22:30) zoom out 1 
+\i (00:22:30) setwindow pcb
+\i (00:22:30) zoom out 296.6028 218.5664
+\i (00:22:30) trapsize 3251
+\i (00:22:46) zoom out 1 
+\i (00:22:46) setwindow pcb
+\i (00:22:46) zoom out 295.6274 203.2843
+\i (00:22:46) trapsize 6503
+\i (00:22:47) zoom out 1 
+\i (00:22:47) setwindow pcb
+\i (00:22:47) zoom out 295.6275 203.2843
+\i (00:22:47) trapsize 13006
+\i (00:22:47) zoom out 1 
+\i (00:22:47) setwindow pcb
+\i (00:22:47) zoom out 295.6274 203.2843
+\i (00:22:47) trapsize 26012
+\i (00:22:48) zoom in 1 
+\i (00:22:49) setwindow pcb
+\i (00:22:49) zoom in 299.6588 209.6571
+\i (00:22:49) trapsize 13006
+\i (00:22:49) zoom in 1 
+\i (00:22:49) setwindow pcb
+\i (00:22:49) zoom in 299.6588 209.6571
+\i (00:22:49) trapsize 6503
+\i (00:23:29) esc 
+\i (00:23:29) updateport VisibilityPane
+\i (00:23:29) esc 
+\i (00:23:29) ucp_selection_mode 
+\i (00:23:29) ucpedit 
+\i (00:23:29) updateport VisibilityPane
+\i (00:23:31) pick grid 261.8113 210.6977
+\t (00:23:31) last pick:  261.8113 210.6977
+\i (00:23:31) updateport ReportsPane
+\i (00:23:31) updateport SearchPane
+\i (00:23:31) updateport VisibilityPane
+\i (00:23:31) updateport PropPane
+\i (00:23:32) ucp_delete 
+\i (00:23:32) updateport ReportsPane
+\i (00:23:32) updateport SearchPane
+\i (00:23:32) updateport PropPane
+\i (00:23:32) ucpedit 
+\i (00:23:32) updateport VisibilityPane
+\i (00:23:34) pick grid 299.0085 232.2876
+\t (00:23:34) last pick:  299.0085 232.2876
+\i (00:23:34) updateport ReportsPane
+\i (00:23:34) updateport SearchPane
+\i (00:23:34) updateport VisibilityPane
+\i (00:23:34) updateport PropPane
+\i (00:23:34) ucp_delete 
+\i (00:23:34) updateport ReportsPane
+\i (00:23:34) updateport SearchPane
+\i (00:23:34) updateport PropPane
+\i (00:23:34) ucpedit 
+\i (00:23:35) updateport VisibilityPane
+\i (00:23:36) pick grid 297.1876 230.9870
+\t (00:23:36) last pick:  297.1876 230.9870
+\i (00:23:36) updateport ReportsPane
+\i (00:23:36) updateport SearchPane
+\i (00:23:36) updateport VisibilityPane
+\i (00:23:36) updateport PropPane
+\i (00:23:36) ucp_delete 
+\i (00:23:36) updateport ReportsPane
+\i (00:23:36) updateport SearchPane
+\i (00:23:36) updateport PropPane
+\i (00:23:36) ucpedit 
+\i (00:23:36) updateport VisibilityPane
+\i (00:23:39) pick grid 297.0576 212.7786
+\t (00:23:39) last pick:  297.0576 212.7786
+\i (00:23:39) updateport ReportsPane
+\i (00:23:39) updateport SearchPane
+\i (00:23:39) updateport VisibilityPane
+\i (00:23:39) updateport PropPane
+\i (00:23:39) ucp_delete 
+\i (00:23:39) updateport ReportsPane
+\i (00:23:39) updateport SearchPane
+\i (00:23:39) updateport PropPane
+\i (00:23:39) ucpedit 
+\i (00:23:39) updateport VisibilityPane
+\i (00:23:51) zoom in 1 
+\i (00:23:52) setwindow pcb
+\i (00:23:52) zoom in 305.3814 244.7734
+\i (00:23:52) trapsize 3252
+\i (00:23:52) zoom in 1 
+\i (00:23:52) setwindow pcb
+\i (00:23:52) zoom in 305.3815 244.7735
+\i (00:23:52) trapsize 1626
+\i (00:23:58) zoom out 1 
+\i (00:23:58) setwindow pcb
+\i (00:23:58) zoom out 305.4140 241.3920
+\i (00:23:58) trapsize 3252
+\i (00:24:00) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddConnectButton leftClicked
+\i (00:24:00) ucp_add_connect_mode 
+\i (00:24:00) ucpedit 
+\i (00:24:00) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:00) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:00) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:00) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:00) updateport ReportsPane
+\i (00:24:00) updateport SearchPane
+\i (00:24:00) updateport VisibilityPane
+\i (00:24:00) updateport PropPane
+\i (00:24:02) pick grid 302.5528 231.1172
+\t (00:24:02) last pick:  302.5528 231.1172
+\i (00:24:02) ucp_add_connect_pick 
+\t (00:24:02) Pick first element.
+\t (00:24:02) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:24:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:24:02) last pick:  302.2600 231.1400
+\i (00:24:02) updateport ReportsPane
+\i (00:24:02) updateport SearchPane
+\i (00:24:02) updateport PropPane
+\i (00:24:02) mouse_pos 303.4632 233.5883
+\i (00:24:02) mouse_pos 303.8534 235.0840
+\i (00:24:03) mouse_pos 303.5282 247.2446
+\i (00:24:05) mouse_pos 303.5933 244.6434
+\i (00:24:05) mouse_pos 304.5037 232.1577
+\i (00:24:07) mouse_pos 305.3491 235.1490
+\i (00:24:08) mouse_pos 302.2276 232.2877
+\i (00:24:08) mouse_pos 302.2276 229.6865
+\i (00:24:08) mouse_pos 303.2031 229.9466
+\i (00:24:09) mouse_pos 302.5528 232.4828
+\i (00:24:09) mouse_pos 302.2927 232.2877
+\i (00:24:10) mouse_pos 302.2276 229.8166
+\i (00:24:11) mouse_pos 303.5933 220.8424
+\i (00:24:11) mouse_pos 303.1380 219.6068
+\i (00:24:13) pick grid 303.1380 219.6068
+\t (00:24:13) last pick:  303.1380 219.6068
+\t (00:24:13) No DRC errors detected.
+\t (00:24:13) Pick first element.
+\i (00:24:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:13) updateport ReportsPane
+\i (00:24:13) updateport SearchPane
+\i (00:24:13) updateport PropPane
+\i (00:24:13) ucpedit 
+\i (00:24:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:13) updateport ReportsPane
+\i (00:24:13) updateport SearchPane
+\i (00:24:13) updateport VisibilityPane
+\i (00:24:13) updateport PropPane
+\i (00:24:16) pick grid 304.8288 223.7037
+\t (00:24:16) last pick:  304.8288 223.7037
+\i (00:24:16) ucp_add_connect_pick 
+\t (00:24:16) Pick first element.
+\t (00:24:16) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:24:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:16) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:24:16) last pick:  304.8000 223.5200
+\i (00:24:16) updateport ReportsPane
+\i (00:24:16) updateport SearchPane
+\i (00:24:16) updateport PropPane
+\i (00:24:16) mouse_pos 306.7797 232.8080
+\i (00:24:16) mouse_pos 307.1049 235.1490
+\i (00:24:19) pick grid 307.1049 235.1490
+\t (00:24:19) last pick:  307.1049 235.1490
+\t (00:24:19) No DRC errors detected.
+\t (00:24:19) Pick first element.
+\i (00:24:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:19) updateport ReportsPane
+\i (00:24:19) updateport SearchPane
+\i (00:24:19) updateport PropPane
+\i (00:24:19) ucpedit 
+\i (00:24:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:19) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:19) updateport ReportsPane
+\i (00:24:19) updateport SearchPane
+\i (00:24:19) updateport VisibilityPane
+\i (00:24:19) updateport PropPane
+\i (00:24:27) pick grid 305.1540 236.1895
+\t (00:24:27) last pick:  305.1540 236.1895
+\i (00:24:27) ucp_add_connect_pick 
+\t (00:24:27) Pick first element.
+\t (00:24:27) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:24:27) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:27) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:24:27) last pick:  304.8000 236.2200
+\i (00:24:27) updateport ReportsPane
+\i (00:24:27) updateport SearchPane
+\i (00:24:27) updateport PropPane
+\i (00:24:27) mouse_pos 305.8043 237.4901
+\i (00:24:32) pick grid 305.1540 240.0263
+\t (00:24:32) last pick:  305.1540 240.0263
+\t (00:24:32) No DRC errors detected.
+\t (00:24:32) last pick:  304.8000 238.7600
+\i (00:24:32) pick grid dbl 304.7638 239.0508
+\t (00:24:32) last pick:  304.7638 239.0508
+\i (00:24:32) QtSignal UCP_Add_connect EndLayersDropDownComboBox CurrentIndexChanged Top
+\i (00:24:32) QtSignal UCP_Add_connect StartLayersDropDownComboBox CurrentIndexChanged Bottom
+\i (00:24:32) mouse_pos 305.7393 240.0913
+\i (00:24:33) mouse_pos 308.6656 246.5943
+\i (00:24:36) mouse_pos 308.4705 247.7649
+\i (00:24:39) esc 
+\i (00:24:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:39) updateport ReportsPane
+\i (00:24:39) updateport SearchPane
+\i (00:24:39) updateport PropPane
+\i (00:24:39) ucpedit 
+\i (00:24:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:24:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:24:39) updateport ReportsPane
+\i (00:24:39) updateport SearchPane
+\i (00:24:39) updateport VisibilityPane
+\i (00:24:39) updateport PropPane
+\i (00:24:40) esc 
+\i (00:24:40) updateport VisibilityPane
+\i (00:24:40) esc 
+\i (00:24:40) ucp_selection_mode 
+\i (00:24:40) ucpedit 
+\i (00:24:40) updateport VisibilityPane
+\i (00:24:41) esc 
+\i (00:24:41) esc 
+\i (00:24:41) esc 
+\i (00:24:44) pick grid 305.3491 238.7907
+\t (00:24:44) last pick:  305.3491 238.7907
+\i (00:24:44) updateport VisibilityPane
+\i (00:24:45) ucp_delete 
+\i (00:24:45) updateport ReportsPane
+\i (00:24:45) updateport SearchPane
+\i (00:24:45) updateport PropPane
+\i (00:24:45) ucpedit 
+\i (00:24:45) updateport VisibilityPane
+\i (00:24:46) undo 
+\i (00:24:46) trapsize 3252
+\i (00:24:46) updateport ReportsPane
+\i (00:24:46) updateport SearchPane
+\i (00:24:46) updateport VisibilityPane
+\i (00:24:46) updateport PropPane
+\i (00:24:46) ucpedit 
+\i (00:24:46) updateport VisibilityPane
+\i (00:24:48) pick grid 304.6988 237.3601
+\t (00:24:48) last pick:  304.6988 237.3601
+\i (00:24:48) updateport VisibilityPane
+\i (00:24:49) drag_start grid 322.0618 241.0668
+\i (00:24:50) drag_stop 300.6019 238.9208
+\i (00:24:50) updateport VisibilityPane
+\i (00:24:52) drag_start grid 298.0007 240.0913
+\i (00:24:53) drag_stop 319.2005 237.4901
+\i (00:24:53) updateport VisibilityPane
+\i (00:24:55) ucp_delete 
+\i (00:24:55) updateport ReportsPane
+\i (00:24:55) updateport SearchPane
+\i (00:24:55) updateport PropPane
+\i (00:24:55) ucpedit 
+\i (00:24:55) updateport VisibilityPane
+\i (00:24:56) undo 
+\i (00:24:56) trapsize 3252
+\i (00:24:56) updateport ReportsPane
+\i (00:24:56) updateport SearchPane
+\i (00:24:56) updateport VisibilityPane
+\i (00:24:56) updateport PropPane
+\i (00:24:56) ucpedit 
+\i (00:24:56) updateport VisibilityPane
+\i (00:24:56) pick grid 329.8004 237.4901
+\t (00:24:56) last pick:  329.8004 237.4901
+\i (00:24:56) updateport VisibilityPane
+\i (00:24:58) drag_start grid 327.2642 240.0263
+\i (00:24:59) drag_stop 296.7001 237.3601
+\i (00:24:59) updateport VisibilityPane
+\i (00:25:00) ucp_delete 
+\i (00:25:00) updateport ReportsPane
+\i (00:25:00) updateport SearchPane
+\i (00:25:00) updateport PropPane
+\i (00:25:00) ucpedit 
+\i (00:25:00) updateport VisibilityPane
+\i (00:25:01) undo 
+\i (00:25:01) trapsize 3252
+\i (00:25:01) updateport ReportsPane
+\i (00:25:01) updateport SearchPane
+\i (00:25:01) updateport VisibilityPane
+\i (00:25:01) updateport PropPane
+\i (00:25:01) ucpedit 
+\i (00:25:01) updateport VisibilityPane
+\i (00:25:02) pick grid 304.7638 239.0508
+\t (00:25:02) last pick:  304.7638 239.0508
+\i (00:25:03) updateport ReportsPane
+\i (00:25:03) updateport SearchPane
+\i (00:25:03) updateport VisibilityPane
+\i (00:25:03) updateport PropPane
+\i (00:25:04) ucp_delete 
+\i (00:25:04) updateport ReportsPane
+\i (00:25:04) updateport SearchPane
+\i (00:25:04) updateport PropPane
+\i (00:25:04) ucpedit 
+\i (00:25:04) updateport ReportsPane
+\i (00:25:04) updateport SearchPane
+\i (00:25:04) updateport VisibilityPane
+\i (00:25:04) updateport PropPane
+\i (00:25:07) pick grid 304.8288 236.3196
+\t (00:25:07) last pick:  304.8288 236.3196
+\i (00:25:07) updateport ReportsPane
+\i (00:25:07) updateport SearchPane
+\i (00:25:07) updateport VisibilityPane
+\i (00:25:07) updateport PropPane
+\i (00:25:09) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddConnectButton leftClicked
+\i (00:25:09) ucp_add_connect_mode 
+\i (00:25:09) updateport ReportsPane
+\i (00:25:09) updateport SearchPane
+\i (00:25:09) updateport PropPane
+\i (00:25:09) ucpedit 
+\i (00:25:09) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:09) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:09) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:09) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:10) updateport ReportsPane
+\i (00:25:10) updateport SearchPane
+\i (00:25:10) updateport VisibilityPane
+\i (00:25:10) updateport PropPane
+\i (00:25:11) pick grid 304.8288 236.3846
+\t (00:25:11) last pick:  304.8288 236.3846
+\i (00:25:11) ucp_add_connect_pick 
+\t (00:25:11) Selected item not valid for current operation, ignored: Net "N00860"
+\t (00:25:11) No valid items selected for the current operation, exiting.
+\i (00:25:11) updateport ReportsPane
+\i (00:25:11) updateport SearchPane
+\i (00:25:11) updateport PropPane
+\i (00:25:11) ucpedit 
+\i (00:25:11) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:11) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:11) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:11) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:11) updateport ReportsPane
+\i (00:25:11) updateport SearchPane
+\i (00:25:11) updateport VisibilityPane
+\i (00:25:11) updateport PropPane
+\i (00:25:13) pick grid 309.7061 249.0655
+\t (00:25:13) last pick:  309.7061 249.0655
+\i (00:25:13) ucp_add_connect_pick 
+\t (00:25:13) Selected item not valid for current operation, ignored: Net "N00860"
+\t (00:25:13) No valid items selected for the current operation, exiting.
+\i (00:25:13) updateport ReportsPane
+\i (00:25:13) updateport SearchPane
+\i (00:25:13) updateport PropPane
+\i (00:25:13) ucpedit 
+\i (00:25:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:13) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:13) updateport ReportsPane
+\i (00:25:13) updateport SearchPane
+\i (00:25:13) updateport VisibilityPane
+\i (00:25:13) updateport PropPane
+\i (00:25:14) pick grid 304.7638 236.1895
+\t (00:25:14) last pick:  304.7638 236.1895
+\i (00:25:14) ucp_add_connect_pick 
+\t (00:25:14) Selected item not valid for current operation, ignored: Net "N00860"
+\t (00:25:14) No valid items selected for the current operation, exiting.
+\i (00:25:14) updateport ReportsPane
+\i (00:25:14) updateport SearchPane
+\i (00:25:14) updateport PropPane
+\i (00:25:14) ucpedit 
+\i (00:25:14) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:14) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:14) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:14) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:14) updateport ReportsPane
+\i (00:25:14) updateport SearchPane
+\i (00:25:14) updateport VisibilityPane
+\i (00:25:14) updateport PropPane
+\i (00:25:16) pick grid 284.3443 246.5293
+\t (00:25:16) last pick:  284.3443 246.5293
+\i (00:25:17) ucp_add_connect_pick 
+\t (00:25:17) Pick first element.
+\t (00:25:17) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:25:17) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:17) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:25:17) last pick:  284.4800 246.3800
+\i (00:25:17) updateport ReportsPane
+\i (00:25:17) updateport SearchPane
+\i (00:25:17) updateport PropPane
+\i (00:25:17) mouse_pos 286.2302 247.0496
+\i (00:25:17) mouse_pos 295.9197 249.7808
+\i (00:25:18) mouse_pos 298.5209 250.0409
+\i (00:25:20) mouse_pos 316.5342 247.1796
+\i (00:25:20) mouse_pos 319.2005 246.8545
+\i (00:25:20) esc 
+\i (00:25:20) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:20) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:20) updateport ReportsPane
+\i (00:25:20) updateport SearchPane
+\i (00:25:20) updateport PropPane
+\i (00:25:20) ucpedit 
+\i (00:25:20) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:20) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:20) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:20) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:20) updateport ReportsPane
+\i (00:25:20) updateport SearchPane
+\i (00:25:20) updateport VisibilityPane
+\i (00:25:20) updateport PropPane
+\i (00:25:22) pick grid 305.1540 236.1895
+\t (00:25:22) last pick:  305.1540 236.1895
+\i (00:25:22) ucp_add_connect_pick 
+\t (00:25:22) Pick first element.
+\t (00:25:22) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:25:22) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:22) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:25:22) last pick:  304.8000 236.2200
+\i (00:25:22) updateport ReportsPane
+\i (00:25:22) updateport SearchPane
+\i (00:25:22) updateport PropPane
+\i (00:25:22) mouse_pos 306.3896 237.4251
+\i (00:25:23) mouse_pos 311.3969 247.7649
+\i (00:25:24) pick grid 311.0067 247.8949
+\t (00:25:24) last pick:  311.0067 247.8949
+\t (00:25:24) No DRC errors detected.
+\t (00:25:24) Pick first element.
+\i (00:25:24) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:24) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:24) updateport ReportsPane
+\i (00:25:24) updateport SearchPane
+\i (00:25:24) updateport PropPane
+\i (00:25:24) ucpedit 
+\i (00:25:24) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:24) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:24) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:24) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:24) updateport ReportsPane
+\i (00:25:24) updateport SearchPane
+\i (00:25:24) updateport VisibilityPane
+\i (00:25:24) updateport PropPane
+\i (00:25:28) zoom out 1 
+\i (00:25:28) setwindow pcb
+\i (00:25:28) zoom out 315.6238 230.2718
+\i (00:25:28) trapsize 6503
+\i (00:25:28) zoom out 1 
+\i (00:25:28) setwindow pcb
+\i (00:25:28) zoom out 315.6239 230.2718
+\i (00:25:28) trapsize 13006
+\i (00:25:29) zoom in 1 
+\i (00:25:29) setwindow pcb
+\i (00:25:29) zoom in 268.8021 222.4681
+\i (00:25:29) trapsize 6503
+\i (00:25:30) prepopup 268.8021 222.5982
+\i (00:25:34) pick grid 256.4464 210.2425
+\t (00:25:34) last pick:  256.4464 210.2425
+\i (00:25:34) ucp_add_connect_pick 
+\t (00:25:34) Pick first element.
+\t (00:25:34) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:25:34) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:34) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:25:34) last pick:  256.5400 210.8200
+\i (00:25:34) updateport ReportsPane
+\i (00:25:34) updateport SearchPane
+\i (00:25:34) updateport PropPane
+\i (00:25:34) mouse_pos 256.4464 209.3321
+\i (00:25:34) mouse_pos 258.0071 207.6413
+\i (00:25:36) pick grid 260.3482 205.9505
+\t (00:25:36) last pick:  260.3482 205.9505
+\t (00:25:36) No DRC errors detected.
+\t (00:25:36) last pick:  259.0800 205.7400
+\i (00:25:40) pick grid 295.9847 208.5517
+\t (00:25:40) last pick:  295.9847 208.5517
+\t (00:25:40) No DRC errors detected.
+\t (00:25:40) last pick:  297.1800 208.2800
+\i (00:25:40) mouse_pos 296.6350 210.7627
+\i (00:25:40) mouse_pos 296.7651 212.1934
+\i (00:25:41) mouse_pos 298.9761 234.9539
+\i (00:25:43) pick grid 301.0570 236.5147
+\t (00:25:43) last pick:  301.0570 236.5147
+\t (00:25:43) No DRC errors detected.
+\t (00:25:43) Pick first element.
+\i (00:25:43) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:43) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:43) updateport ReportsPane
+\i (00:25:43) updateport SearchPane
+\i (00:25:43) updateport PropPane
+\i (00:25:43) ucpedit 
+\i (00:25:43) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:43) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:43) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:43) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:43) updateport ReportsPane
+\i (00:25:43) updateport SearchPane
+\i (00:25:43) updateport VisibilityPane
+\i (00:25:43) updateport PropPane
+\i (00:25:47) zoom in 1 
+\i (00:25:47) setwindow pcb
+\i (00:25:47) zoom in 302.6178 225.1994
+\i (00:25:47) trapsize 3252
+\i (00:25:50) pick grid 302.2277 210.4376
+\t (00:25:50) last pick:  302.2277 210.4376
+\i (00:25:50) pick grid dbl 302.2277 210.4376
+\t (00:25:50) last pick:  302.2277 210.4376
+\i (00:25:50) ucp_add_connect_pick 
+\t (00:25:50) Pick first element.
+\t (00:25:50) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:25:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:25:50) last pick:  302.2600 210.8200
+\i (00:25:50) ucp_add_connect_pick 
+\i (00:25:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\t (00:25:50) Pick first element.
+\t (00:25:50) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:25:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:50) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:25:50) last pick:  302.2600 210.8200
+\i (00:25:50) updateport ReportsPane
+\i (00:25:50) updateport SearchPane
+\i (00:25:50) updateport PropPane
+\i (00:25:50) mouse_pos 300.5369 210.0474
+\i (00:25:50) mouse_pos 298.9761 209.4621
+\i (00:25:50) mouse_pos 297.6105 208.8769
+\i (00:25:50) mouse_pos 295.7246 208.4867
+\i (00:25:51) mouse_pos 293.5136 212.1934
+\i (00:25:51) mouse_pos 293.3185 213.0388
+\i (00:25:52) mouse_pos 293.7737 212.6486
+\i (00:25:52) mouse_pos 296.0498 211.7382
+\i (00:25:52) mouse_pos 298.5209 211.0228
+\i (00:25:52) mouse_pos 298.3258 210.8928
+\i (00:25:52) mouse_pos 295.7246 211.3480
+\i (00:25:52) mouse_pos 293.3185 212.0633
+\i (00:25:52) mouse_pos 292.7983 212.3235
+\i (00:25:54) pick grid 292.7983 212.3235
+\t (00:25:54) last pick:  292.7983 212.3235
+\t (00:25:54) DRC error(s) created.
+\t (00:25:54) Pick first element.
+\i (00:25:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:54) updateport ReportsPane
+\i (00:25:54) updateport SearchPane
+\i (00:25:54) updateport PropPane
+\i (00:25:54) ucpedit 
+\i (00:25:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:54) updateport ReportsPane
+\i (00:25:54) updateport SearchPane
+\i (00:25:54) updateport VisibilityPane
+\i (00:25:54) updateport PropPane
+\i (00:25:55) undo 
+\i (00:25:55) trapsize 3252
+\i (00:25:55) updateport ReportsPane
+\i (00:25:55) updateport SearchPane
+\i (00:25:55) updateport VisibilityPane
+\i (00:25:55) updateport PropPane
+\i (00:25:55) ucpedit 
+\i (00:25:55) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:55) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:55) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:55) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:25:55) updateport ReportsPane
+\i (00:25:55) updateport SearchPane
+\i (00:25:55) updateport VisibilityPane
+\i (00:25:55) updateport PropPane
+\i (00:25:57) pick grid 299.8866 205.2352
+\t (00:25:57) last pick:  299.8866 205.2352
+\i (00:25:57) pick grid dbl 299.8866 205.2352
+\t (00:25:57) last pick:  299.8866 205.2352
+\i (00:25:57) ucp_add_connect_pick_empty 
+\t (00:25:57) Pick first element.
+\i (00:25:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:25:57) last pick:  299.7200 205.7400
+\i (00:25:57) ucp_add_connect_pick_empty 
+\i (00:25:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\t (00:25:57) Pick first element.
+\i (00:25:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:25:57) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:25:57) last pick:  299.7200 205.7400
+\i (00:25:57) updateport ReportsPane
+\i (00:25:57) updateport SearchPane
+\i (00:25:57) updateport PropPane
+\i (00:25:59) pick grid 302.1626 204.3898
+\t (00:25:59) last pick:  302.1626 204.3898
+\t (00:25:59) No DRC errors detected.
+\t (00:25:59) last pick:  302.2600 203.2000
+\i (00:25:59) pick grid dbl 301.7724 203.8695
+\t (00:25:59) last pick:  301.7724 203.8695
+\i (00:25:59) QtSignal UCP_Add_connect EndLayersDropDownComboBox CurrentIndexChanged Bottom
+\i (00:25:59) QtSignal UCP_Add_connect StartLayersDropDownComboBox CurrentIndexChanged Top
+\i (00:26:01) esc 
+\i (00:26:01) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:26:01) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:26:01) updateport ReportsPane
+\i (00:26:01) updateport SearchPane
+\i (00:26:01) updateport PropPane
+\i (00:26:01) ucpedit 
+\i (00:26:01) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:26:01) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:26:01) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:26:01) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:26:01) updateport ReportsPane
+\i (00:26:01) updateport SearchPane
+\i (00:26:01) updateport VisibilityPane
+\i (00:26:01) updateport PropPane
+\i (00:26:04) pick grid 302.2277 210.6977
+\t (00:26:04) last pick:  302.2277 210.6977
+\i (00:26:05) ucp_add_connect_pick 
+\t (00:26:05) Pick first element.
+\t (00:26:05) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:26:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:26:05) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:26:05) last pick:  302.2600 210.8200
+\i (00:26:05) updateport ReportsPane
+\i (00:26:05) updateport SearchPane
+\i (00:26:05) updateport PropPane
+\i (00:26:05) mouse_pos 298.0007 210.7627
+\i (00:26:05) mouse_pos 295.7897 211.5431
+\i (00:26:05) mouse_pos 293.3185 212.7136
+\i (00:26:06) pick grid 293.3185 212.7136
+\t (00:26:06) last pick:  293.3185 212.7136
+\t (00:26:06) No DRC errors detected.
+\t (00:26:06) Pick first element.
+\i (00:26:06) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:26:06) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:26:06) updateport ReportsPane
+\i (00:26:06) updateport SearchPane
+\i (00:26:06) updateport PropPane
+\i (00:26:06) ucpedit 
+\i (00:26:06) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:26:06) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:26:06) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:26:06) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:26:06) updateport ReportsPane
+\i (00:26:06) updateport SearchPane
+\i (00:26:06) updateport VisibilityPane
+\i (00:26:06) updateport PropPane
+\i (00:26:17) zoom in 1 
+\i (00:26:17) setwindow pcb
+\i (00:26:17) zoom in 297.7406 229.8816
+\i (00:26:17) trapsize 1626
+\i (00:26:17) zoom out 1 
+\i (00:26:17) setwindow pcb
+\i (00:26:17) zoom out 297.7406 229.8816
+\i (00:26:17) trapsize 3252
+\i (00:26:17) zoom out 1 
+\i (00:26:17) setwindow pcb
+\i (00:26:17) zoom out 297.7406 229.8817
+\i (00:26:17) trapsize 6503
+\i (00:26:21) zoom in 1 
+\i (00:26:21) setwindow pcb
+\i (00:26:21) zoom in 295.0093 225.5897
+\i (00:26:21) trapsize 3252
+\i (00:26:30) updateport VisibilityPane
+\i (00:26:40) updateport VisibilityPane
+\i (00:27:31) zoom out 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom out 291.4977 223.6388
+\i (00:27:31) trapsize 6503
+\i (00:27:31) zoom out 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom out 291.4977 223.6388
+\i (00:27:31) trapsize 13006
+\i (00:27:35) zoom in 1 
+\i (00:27:35) setwindow pcb
+\i (00:27:35) zoom in 294.6192 226.5001
+\i (00:27:35) trapsize 6503
+\i (00:27:35) zoom in 1 
+\i (00:27:35) setwindow pcb
+\i (00:27:35) zoom in 294.6193 226.5001
+\i (00:27:35) trapsize 3252
+\i (00:27:38) pick grid 284.3445 213.3640
+\t (00:27:38) last pick:  284.3445 213.3640
+\i (00:27:38) ucp_add_connect_pick 
+\t (00:27:38) Pick first element.
+\t (00:27:38) Target Symbol Pin is defined from TOP to BOTTOM.
+\i (00:27:38) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:27:38) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:27:38) last pick:  284.4800 213.3600
+\i (00:27:38) updateport ReportsPane
+\i (00:27:38) updateport SearchPane
+\i (00:27:38) updateport PropPane
+\i (00:27:38) mouse_pos 281.2881 217.2658
+\i (00:27:38) mouse_pos 281.1580 222.4032
+\i (00:27:39) mouse_pos 280.7679 217.9161
+\i (00:27:39) mouse_pos 282.0034 217.0057
+\i (00:27:39) mouse_pos 283.2390 216.4204
+\i (00:27:45) mouse_pos 287.7911 209.5273
+\i (00:27:47) pick grid 288.2463 208.2267
+\t (00:27:47) last pick:  288.2463 208.2267
+\t (00:27:47) No DRC errors detected.
+\t (00:27:47) last pick:  287.0200 208.2800
+\i (00:27:47) mouse_pos 292.7984 209.5923
+\i (00:27:48) mouse_pos 293.4487 209.7223
+\i (00:27:48) mouse_pos 295.7248 209.5273
+\i (00:27:48) mouse_pos 295.9849 209.1371
+\i (00:27:49) mouse_pos 295.7898 209.1371
+\i (00:27:49) pick grid 295.7898 209.1371
+\t (00:27:49) last pick:  295.7898 209.1371
+\t (00:27:49) No DRC errors detected.
+\t (00:27:49) last pick:  294.6400 208.2800
+\i (00:27:50) mouse_pos 295.9199 209.7874
+\i (00:27:50) mouse_pos 297.5456 212.3236
+\i (00:27:50) mouse_pos 300.9922 217.0057
+\i (00:27:50) mouse_pos 298.9113 214.3395
+\i (00:27:52) mouse_pos 298.6511 211.9984
+\i (00:27:52) mouse_pos 298.8462 212.1935
+\i (00:27:52) mouse_pos 298.1959 214.5996
+\i (00:27:52) mouse_pos 295.7248 213.4941
+\i (00:27:52) mouse_pos 293.1886 213.4291
+\i (00:27:54) esc 
+\i (00:27:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:27:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:27:54) updateport ReportsPane
+\i (00:27:54) updateport SearchPane
+\i (00:27:54) updateport PropPane
+\i (00:27:54) ucpedit 
+\i (00:27:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:27:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:27:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:27:54) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:27:54) updateport ReportsPane
+\i (00:27:54) updateport SearchPane
+\i (00:27:54) updateport VisibilityPane
+\i (00:27:54) updateport PropPane
+\i (00:27:55) esc 
+\i (00:27:55) updateport VisibilityPane
+\i (00:27:57) zoom out 1 
+\i (00:27:57) setwindow pcb
+\i (00:27:57) zoom out 289.1568 224.5492
+\i (00:27:57) trapsize 6503
+\i (00:27:58) prepopup 292.0180 233.2633
+\i (00:27:58) updateport ReportsPane
+\i (00:27:58) updateport SearchPane
+\i (00:27:58) updateport PropPane
+\i (00:28:00) pick grid 332.7269 260.8360
+\t (00:28:00) last pick:  332.7269 260.8360
+\i (00:28:00) ucp_add_connect_pick_empty 
+\t (00:28:00) Pick first element.
+\i (00:28:00) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:28:00) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:28:00) last pick:  332.7400 261.6200
+\i (00:28:00) mouse_pos 321.2816 244.7086
+\i (00:28:00) mouse_pos 310.8768 236.9049
+\i (00:28:01) mouse_pos 307.8854 235.8645
+\i (00:28:01) mouse_pos 304.2437 234.6939
+\i (00:28:01) mouse_pos 303.3333 234.5639
+\i (00:28:01) mouse_pos 300.7321 234.0436
+\i (00:28:01) mouse_pos 298.2609 233.5234
+\i (00:28:01) mouse_pos 301.3824 236.1246
+\i (00:28:01) mouse_pos 321.5417 245.3589
+\i (00:28:02) esc 
+\i (00:28:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:28:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:28:02) updateport ReportsPane
+\i (00:28:02) updateport SearchPane
+\i (00:28:02) updateport PropPane
+\i (00:28:02) ucpedit 
+\i (00:28:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:28:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:28:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:28:02) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:28:02) updateport ReportsPane
+\i (00:28:02) updateport SearchPane
+\i (00:28:02) updateport VisibilityPane
+\i (00:28:02) updateport PropPane
+\i (00:28:02) esc 
+\i (00:28:02) ucp_selection_mode 
+\i (00:28:02) ucpedit 
+\i (00:28:02) updateport VisibilityPane
+\i (00:28:03) esc 
+\i (00:28:03) drag_start grid 330.6459 250.9515
+\i (00:28:04) drag_stop 335.4581 229.7516
+\i (00:28:16) zoom in 1 
+\i (00:28:17) setwindow pcb
+\i (00:28:17) zoom in 295.6597 228.7112
+\i (00:28:17) trapsize 3252
+\i (00:28:24) zoom out 1 
+\i (00:28:24) setwindow pcb
+\i (00:28:24) zoom out 322.5822 234.6289
+\i (00:28:24) trapsize 6503
+\i (00:28:25) zoom in 1 
+\i (00:28:25) setwindow pcb
+\i (00:28:25) zoom in 327.1344 239.7013
+\i (00:28:25) trapsize 3252
+\i (00:28:26) zoom out 1 
+\i (00:28:26) setwindow pcb
+\i (00:28:26) zoom out 327.1344 239.7013
+\i (00:28:26) trapsize 6503
+\i (00:28:30) updateport VisibilityPane
+\i (00:29:45) updateport VisibilityPane
+\i (00:30:44) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:44) QtSignal Vcc Net "#f61515"
+\i (00:30:44) updateport ReportsPane
+\i (00:30:44) updateport SearchPane
+\i (00:30:44) updateport VisibilityPane
+\i (00:30:44) updateport PropPane
+\i (00:30:44) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:44) QtSignal Vcc Net "#fe0808"
+\i (00:30:44) updateport ReportsPane
+\i (00:30:44) updateport SearchPane
+\i (00:30:44) updateport VisibilityPane
+\i (00:30:44) updateport PropPane
+\i (00:30:44) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:44) QtSignal Vcc Net "#ff0000"
+\i (00:30:44) updateport ReportsPane
+\i (00:30:44) updateport SearchPane
+\i (00:30:44) updateport VisibilityPane
+\i (00:30:44) updateport PropPane
+\i (00:30:44) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:44) QtSignal Vcc Net "#ff0000"
+\i (00:30:44) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:44) QtSignal Vcc Net "#ff0000"
+\i (00:30:44) updateport ReportsPane
+\i (00:30:44) updateport SearchPane
+\i (00:30:44) updateport VisibilityPane
+\i (00:30:44) updateport PropPane
+\i (00:30:44) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:44) QtSignal Vcc Net "#ff0000"
+\i (00:30:44) updateport ReportsPane
+\i (00:30:44) updateport SearchPane
+\i (00:30:44) updateport VisibilityPane
+\i (00:30:44) updateport PropPane
+\i (00:30:53) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:53) QtSignal 0 Net "#ffffff"
+\i (00:30:53) updateport ReportsPane
+\i (00:30:53) updateport SearchPane
+\i (00:30:53) updateport VisibilityPane
+\i (00:30:53) updateport PropPane
+\i (00:30:54) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:54) QtSignal 0 Net "#3223a0"
+\i (00:30:54) updateport ReportsPane
+\i (00:30:54) updateport SearchPane
+\i (00:30:54) updateport VisibilityPane
+\i (00:30:54) updateport PropPane
+\i (00:30:54) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:54) QtSignal 0 Net "#2d1cac"
+\i (00:30:54) updateport ReportsPane
+\i (00:30:54) updateport SearchPane
+\i (00:30:54) updateport VisibilityPane
+\i (00:30:54) updateport PropPane
+\i (00:30:54) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:54) QtSignal 0 Net "#220bd3"
+\i (00:30:54) updateport ReportsPane
+\i (00:30:54) updateport SearchPane
+\i (00:30:54) updateport VisibilityPane
+\i (00:30:54) updateport PropPane
+\i (00:30:54) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:54) QtSignal 0 Net "#1e00fe"
+\i (00:30:54) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:54) QtSignal 0 Net "#1e00ff"
+\i (00:30:54) updateport ReportsPane
+\i (00:30:54) updateport SearchPane
+\i (00:30:54) updateport VisibilityPane
+\i (00:30:54) updateport PropPane
+\i (00:30:54) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:54) QtSignal 0 Net "#1e00ff"
+\i (00:30:54) updateport ReportsPane
+\i (00:30:54) updateport SearchPane
+\i (00:30:54) updateport VisibilityPane
+\i (00:30:54) updateport PropPane
+\i (00:30:54) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:54) QtSignal 0 Net "#1e00ff"
+\i (00:30:54) updateport ReportsPane
+\i (00:30:54) updateport SearchPane
+\i (00:30:54) updateport VisibilityPane
+\i (00:30:54) updateport PropPane
+\i (00:30:54) QtSignal VisibilityNetsNetsWidget VisibilityNetsNetsWidgetView netObjectColorChanged +
+\i (00:30:54) QtSignal 0 Net "#1e00ff"
+\i (00:30:54) updateport ReportsPane
+\i (00:30:54) updateport SearchPane
+\i (00:30:54) updateport VisibilityPane
+\i (00:30:54) updateport PropPane
+\i (00:30:57) pick grid 275.8906 194.4403
+\t (00:30:57) last pick:  275.8906 194.4403
+\i (00:30:57) updateport VisibilityPane
+\i (00:31:05) updateport VisibilityPane
+\i (00:31:12) updateport VisibilityPane
+\i (00:31:13) updateport VisibilityPane
+\t (00:31:39) Performing Auto-Backup...
+\t (00:31:40) Auto-Backup successful
+\i (00:31:40) updateport ReportsPane
+\i (00:31:40) updateport SearchPane
+\i (00:31:40) updateport PropPane
+\i (00:31:49) updateport VisibilityPane
+\i (00:31:50) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddConnectButton rightClicked
+\i (00:31:53) QtSignal AddConnectPopUpMenu Fanout clicked
+\i (00:31:53) ucp_create_fanout_mode 
+\i (00:31:53) ucpedit 
+\i (00:31:53) QtSignal UCP_Fanout UCPFanoutTypeList CurrentIndexChanged 0
+\i (00:31:54) QtSignal UCP_Fanout FanoutLinearType CurrentIndexChanged 0
+\i (00:31:54) updateport VisibilityPane
+\i (00:31:56) esc 
+\i (00:31:56) ucp_selection_mode 
+\i (00:31:56) ucpedit 
+\i (00:31:56) updateport VisibilityPane
+\i (00:31:57) esc 
+\i (00:31:58) updateport VisibilityPane
+\i (00:34:07) updateport VisibilityPane
+\i (00:34:08) drag_start grid 329.3454 267.7943
+\i (00:34:08) drag_stop 226.7279 184.5557
+\i (00:34:08) updateport VisibilityPane
+\i (00:34:25) pick grid 313.7382 197.8219
+\t (00:34:25) last pick:  313.7382 197.8219
+\i (00:34:25) updateport VisibilityPane
+\i (00:34:26) prepopup 313.7382 197.8219
+\i (00:34:27) drag_start grid 298.0009 207.3163
+\i (00:34:27) drag_stop 305.0241 201.9838
+\i (00:34:27) updateport VisibilityPane
+\i (00:34:28) drag_start grid 305.2842 197.1716
+\i (00:34:29) drag_stop 296.1800 206.0157
+\i (00:34:29) updateport ReportsPane
+\i (00:34:29) updateport SearchPane
+\i (00:34:29) updateport VisibilityPane
+\i (00:34:29) updateport PropPane
+\i (00:34:31) pick grid 302.0327 203.9347
+\t (00:34:31) last pick:  302.0327 203.9347
+\i (00:34:31) updateport ReportsPane
+\i (00:34:31) updateport SearchPane
+\i (00:34:31) updateport VisibilityPane
+\i (00:34:31) updateport PropPane
+\i (00:34:31) ucp_delete 
+\i (00:34:31) updateport ReportsPane
+\i (00:34:31) updateport SearchPane
+\i (00:34:31) updateport PropPane
+\i (00:34:31) ucpedit 
+\i (00:34:31) updateport VisibilityPane
+\i (00:34:33) drag_start grid 311.0069 194.3103
+\i (00:34:34) drag_stop 300.0818 204.3249
+\i (00:34:34) updateport ReportsPane
+\i (00:34:34) updateport SearchPane
+\i (00:34:34) updateport VisibilityPane
+\i (00:34:34) updateport PropPane
+\i (00:34:34) ucp_delete 
+\i (00:34:34) updateport ReportsPane
+\i (00:34:34) updateport SearchPane
+\i (00:34:34) updateport PropPane
+\i (00:34:34) ucpedit 
+\i (00:34:34) updateport VisibilityPane
+\i (00:34:35) pick grid 349.3747 208.2267
+\t (00:34:35) last pick:  349.3747 208.2267
+\i (00:34:35) pick grid dbl 349.3747 208.2267
+\t (00:34:35) last pick:  349.3747 208.2267
+\i (00:34:35) updateport VisibilityPane
+\i (00:34:36) esc 
+\i (00:34:36) esc 
+\i (00:34:37) save 
+\i (00:34:39) fillin yes 
+\t (00:34:39) > Sending response DoneOpenBoard
+\i (00:34:39) updateport ReportsPane
+\i (00:34:39) updateport SearchPane
+\i (00:34:39) updateport PropPane
+\i (00:34:39) ucpedit 
+\i (00:34:39) updateport VisibilityPane
+\i (00:34:44) zoom out 1 
+\i (00:34:44) setwindow pcb
+\i (00:34:44) zoom out 349.3747 208.0966
+\i (00:34:44) trapsize 13006
+\i (00:34:45) zoom out 1 
+\i (00:34:45) setwindow pcb
+\i (00:34:45) zoom out 335.0680 172.7203
+\i (00:34:45) trapsize 26012
+\i (00:34:46) zoom in 1 
+\i (00:34:46) setwindow pcb
+\i (00:34:46) zoom in 222.6631 222.6631
+\i (00:34:46) trapsize 13006
+\i (00:34:48) updateport VisibilityPane
+\i (00:34:57) updateport VisibilityPane
+\i (00:34:59) pick grid 343.3590 166.4771
+\t (00:34:59) last pick:  343.3590 166.4771
+\i (00:34:59) ucp_shape_edit_mode 
+\i (00:34:59) updateport ReportsPane
+\i (00:34:59) updateport SearchPane
+\i (00:34:59) updateport VisibilityPane
+\i (00:34:59) updateport PropPane
+\i (00:34:59) ucpedit 
+\i (00:35:02) drag_start grid 344.1394 305.9017
+\i (00:35:02) drag_stop 331.1334 278.8492
+\i (00:35:02) updateport ReportsPane
+\i (00:35:02) updateport SearchPane
+\i (00:35:02) updateport VisibilityPane
+\i (00:35:02) updateport PropPane
+\i (00:35:03) drag_start grid 331.1334 278.8492
+\i (00:35:03) drag_stop 361.3074 307.4624
+\i (00:35:03) updateport VisibilityPane
+\i (00:35:05) pick grid 344.3995 292.6356
+\t (00:35:05) last pick:  344.3995 292.6356
+\i (00:35:05) updateport VisibilityPane
+\i (00:35:12) pick grid 437.0024 310.5839
+\t (00:35:12) last pick:  437.0024 310.5839
+\i (00:35:12) updateport VisibilityPane
+\i (00:35:13) pick grid 321.2488 274.9474
+\t (00:35:13) last pick:  321.2488 274.9474
+\i (00:35:13) updateport VisibilityPane
+\i (00:35:13) drag_start grid 401.8861 298.3582
+\i (00:35:14) drag_stop 416.1928 230.2066
+\i (00:35:18) pick grid 341.7983 284.5718
+\t (00:35:18) last pick:  341.7983 284.5718
+\i (00:35:18) updateport VisibilityPane
+\i (00:35:20) pick grid 405.5278 271.5658
+\t (00:35:20) last pick:  405.5278 271.5658
+\i (00:35:20) updateport VisibilityPane
+\i (00:35:22) QtSignal PropertyPadstackWidget sm_external_outer_diameter_edit editingFinished "0.3937 MM"
+\i (00:35:22) QtSignal PropertySelectionFilterWidget ObjectAll clicked
+\i (00:35:27) zoom in 1 
+\i (00:35:27) setwindow pcb
+\i (00:35:27) zoom in 341.0180 278.5890
+\i (00:35:27) trapsize 6503
+\i (00:35:27) zoom in 1 
+\i (00:35:27) setwindow pcb
+\i (00:35:27) zoom in 341.5382 279.1093
+\i (00:35:27) trapsize 3252
+\i (00:35:27) zoom in 1 
+\i (00:35:27) setwindow pcb
+\i (00:35:27) zoom in 341.5382 279.1093
+\i (00:35:27) trapsize 1626
+\i (00:35:27) zoom in 1 
+\i (00:35:27) setwindow pcb
+\i (00:35:27) zoom in 341.5383 279.1093
+\i (00:35:27) trapsize 813
+\i (00:35:29) pick grid 341.6033 278.8004
+\t (00:35:29) last pick:  341.6033 278.8004
+\i (00:35:29) updateport VisibilityPane
+\i (00:35:31) pick grid 342.8877 279.0443
+\t (00:35:31) last pick:  342.8877 279.0443
+\i (00:35:31) updateport VisibilityPane
+\i (00:35:31) zoom in 1 
+\i (00:35:31) setwindow pcb
+\i (00:35:31) zoom in 342.4325 279.5808
+\i (00:35:31) trapsize 406
+\i (00:35:31) zoom in 1 
+\i (00:35:31) setwindow pcb
+\i (00:35:31) zoom in 342.4324 279.5808
+\i (00:35:31) trapsize 203
+\i (00:35:31) zoom in 1 
+\i (00:35:31) setwindow pcb
+\i (00:35:31) zoom in 342.4324 279.5808
+\i (00:35:31) trapsize 102
+\i (00:35:31) zoom in 1 
+\i (00:35:31) setwindow pcb
+\i (00:35:31) zoom in 342.4324 279.5808
+\i (00:35:31) trapsize 51
+\i (00:35:32) zoom out 1 
+\i (00:35:32) setwindow pcb
+\i (00:35:32) zoom out 342.4324 279.5808
+\i (00:35:32) trapsize 102
+\i (00:35:34) pick grid 342.2617 279.4041
+\t (00:35:34) last pick:  342.2617 279.4041
+\i (00:35:34) updateport VisibilityPane
+\i (00:35:34) drag_start grid 341.5586 279.5707
+\i (00:35:35) drag_stop 341.6765 279.4630
+\i (00:35:35) pick grid 341.6765 279.4630
+\t (00:35:35) last pick:  341.6765 279.4630
+\i (00:35:35) updateport VisibilityPane
+\i (00:35:36) pick grid 342.4446 279.4590
+\t (00:35:36) last pick:  342.4446 279.4590
+\i (00:35:36) updateport VisibilityPane
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 342.4446 279.4549
+\i (00:35:36) trapsize 203
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 342.4446 279.4549
+\i (00:35:36) trapsize 406
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 342.4446 279.4549
+\i (00:35:36) trapsize 813
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 342.4447 279.4549
+\i (00:35:36) trapsize 1626
+\i (00:35:37) zoom out 1 
+\i (00:35:37) setwindow pcb
+\i (00:35:37) zoom out 342.4447 279.4549
+\i (00:35:37) trapsize 3251
+\i (00:35:37) zoom out 1 
+\i (00:35:37) setwindow pcb
+\i (00:35:37) zoom out 342.4447 279.4548
+\i (00:35:37) trapsize 6503
+\i (00:35:38) pick grid 341.6644 289.2089
+\t (00:35:38) last pick:  341.6644 289.2089
+\i (00:35:38) updateport VisibilityPane
+\i (00:35:39) pick grid 343.6152 281.6658
+\t (00:35:39) last pick:  343.6152 281.6658
+\i (00:35:39) updateport VisibilityPane
+\i (00:35:40) pick grid 342.7049 281.2756
+\t (00:35:40) last pick:  342.7049 281.2756
+\i (00:35:40) updateport VisibilityPane
+\i (00:35:41) QtSignal PropertySelectionFilterWidget ObjectAll clicked on
+\i (00:35:43) zoom in 1 
+\i (00:35:43) setwindow pcb
+\i (00:35:43) zoom in 342.1846 278.6746
+\i (00:35:43) trapsize 3251
+\i (00:35:43) zoom in 1 
+\i (00:35:43) setwindow pcb
+\i (00:35:43) zoom in 342.1847 278.6746
+\i (00:35:43) trapsize 1626
+\i (00:35:43) zoom in 1 
+\i (00:35:43) setwindow pcb
+\i (00:35:43) zoom in 342.1847 278.6746
+\i (00:35:43) trapsize 813
+\i (00:35:45) pick grid 341.6157 278.1707
+\t (00:35:45) last pick:  341.6157 278.1707
+\i (00:35:45) updateport VisibilityPane
+\i (00:35:47) pick grid tgl 342.2660 278.0406
+\t (00:35:47) last pick:  342.2660 278.0406
+\i (00:35:47) ucp_selection_mode 
+\i (00:35:47) ucpedit 
+\i (00:35:47) updateport VisibilityPane
+\i (00:35:48) pick grid tgl 342.9325 278.0406
+\t (00:35:48) last pick:  342.9325 278.0406
+\i (00:35:50) pick grid tgl 342.2172 276.9514
+\t (00:35:50) last pick:  342.2172 276.9514
+\i (00:35:52) pick grid tgl 341.5995 276.8702
+\t (00:35:52) last pick:  341.5995 276.8702
+\i (00:35:53) zoom out 1 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) zoom out 343.7291 274.5292
+\i (00:35:53) trapsize 1626
+\i (00:35:53) zoom out 1 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) zoom out 343.7291 274.5292
+\i (00:35:53) trapsize 3251
+\i (00:36:08) QtSignal PropertyGeneralWidget PropertyBoardOutlineLength editingFinished 100
+\i (00:36:08) updateport ReportsPane
+\i (00:36:08) updateport SearchPane
+\i (00:36:08) updateport VisibilityPane
+\i (00:36:08) updateport PropPane
+\i (00:36:08) ucp_shape_edit_mode 
+\i (00:36:08) updateport ReportsPane
+\i (00:36:08) updateport SearchPane
+\i (00:36:08) updateport VisibilityPane
+\i (00:36:08) updateport PropPane
+\i (00:36:08) ucpedit 
+\i (00:36:09) zoom out 1 
+\i (00:36:09) setwindow pcb
+\i (00:36:09) zoom out 339.3072 277.4554
+\i (00:36:09) trapsize 6503
+\i (00:36:10) zoom out 1 
+\i (00:36:10) setwindow pcb
+\i (00:36:10) zoom out 339.3072 277.4554
+\i (00:36:10) trapsize 13005
+\i (00:36:12) drag_start grid 221.4790 292.5416
+\i (00:36:12) drag shape main 
+\t (00:36:12) Pick new location for the element(s).
+\i (00:36:12) updateport ReportsPane
+\i (00:36:12) updateport SearchPane
+\i (00:36:12) updateport VisibilityPane
+\i (00:36:12) updateport PropPane
+\i (00:36:13) ucp_shape_edit_mode 
+\i (00:36:13) ucp_shape_edit_mode 
+\i (00:36:13) updateport ReportsPane
+\i (00:36:13) updateport SearchPane
+\i (00:36:13) updateport VisibilityPane
+\i (00:36:13) updateport PropPane
+\i (00:36:13) ucpedit 
+\i (00:36:13) drag_stop grid 261.2753 272.2533
+\i (00:36:14) drag_start grid 261.2753 272.2533
+\i (00:36:14) drag_stop 306.5338 275.1144
+\i (00:36:14) updateport ReportsPane
+\i (00:36:14) updateport SearchPane
+\i (00:36:14) updateport VisibilityPane
+\i (00:36:14) updateport PropPane
+\i (00:36:17) pick grid 289.3668 269.6522
+\t (00:36:17) last pick:  289.3668 269.6522
+\i (00:36:17) ucp_shape_edit_mode 
+\i (00:36:17) updateport ReportsPane
+\i (00:36:17) updateport SearchPane
+\i (00:36:17) updateport VisibilityPane
+\i (00:36:17) updateport PropPane
+\i (00:36:17) ucpedit 
+\i (00:36:22) QtSignal PropertyGeneralWidget PropertyBoardOutlineWidth editingFinished 80
+\i (00:36:22) updateport ReportsPane
+\i (00:36:22) updateport SearchPane
+\i (00:36:22) updateport VisibilityPane
+\i (00:36:22) updateport PropPane
+\i (00:36:22) ucp_shape_edit_mode 
+\i (00:36:22) updateport ReportsPane
+\i (00:36:22) updateport SearchPane
+\i (00:36:22) updateport VisibilityPane
+\i (00:36:22) updateport PropPane
+\i (00:36:22) ucpedit 
+\i (00:36:24) QtSignal PropertyGeneralWidget PropertyBoardOutlinePackageKeepin editingFinished "1.2700"
+\i (00:36:26) QtSignal PropertyGeneralWidget PropertyBoardOutlineLength editingFinished "80.0000"
+\i (00:36:26) updateport ReportsPane
+\i (00:36:26) updateport SearchPane
+\i (00:36:26) updateport VisibilityPane
+\i (00:36:26) updateport PropPane
+\i (00:36:29) drag_start grid 271.4194 219.1915
+\i (00:36:29) drag shape main 
+\i (00:36:30) drag_stop grid 330.9838 265.4905
+\i (00:36:30) updateport ReportsPane
+\i (00:36:30) updateport SearchPane
+\i (00:36:30) updateport VisibilityPane
+\i (00:36:30) updateport PropPane
+\i (00:36:30) ucpedit 
+\i (00:36:30) zoom out 1 
+\i (00:36:30) setwindow pcb
+\i (00:36:30) zoom out 330.9838 265.4905
+\i (00:36:30) trapsize 26012
+\i (00:36:30) zoom out 1 
+\i (00:36:30) setwindow pcb
+\i (00:36:30) zoom out 489.5467 183.1248
+\i (00:36:30) trapsize 26012
+\i (00:36:30) zoom out 1 
+\i (00:36:30) setwindow pcb
+\i (00:36:30) zoom out 489.5467 183.1248
+\i (00:36:30) trapsize 26012
+\i (00:36:32) drag_start grid 189.8880 139.9448
+\i (00:36:32) drag shape main 
+\i (00:36:35) drag_stop grid 240.3513 194.0499
+\i (00:36:35) updateport ReportsPane
+\i (00:36:35) updateport SearchPane
+\i (00:36:35) updateport VisibilityPane
+\i (00:36:35) updateport PropPane
+\i (00:36:35) ucpedit 
+\i (00:36:36) pick grid 399.0248 229.9465
+\t (00:36:36) last pick:  399.0248 229.9465
+\i (00:36:36) updateport ReportsPane
+\i (00:36:36) updateport SearchPane
+\i (00:36:36) updateport VisibilityPane
+\i (00:36:36) updateport PropPane
+\i (00:36:36) zoom in 1 
+\i (00:36:36) setwindow pcb
+\i (00:36:36) zoom in 287.6933 229.9465
+\i (00:36:36) trapsize 13006
+\i (00:36:37) zoom in 1 
+\i (00:36:37) setwindow pcb
+\i (00:36:37) zoom in 287.6933 229.9465
+\i (00:36:37) trapsize 6503
+\i (00:36:38) pick grid 329.3126 263.8922
+\t (00:36:38) last pick:  329.3126 263.8922
+\i (00:36:38) updateport VisibilityPane
+\i (00:36:40) pick grid 329.9629 263.6321
+\t (00:36:40) last pick:  329.9629 263.6321
+\i (00:36:40) updateport VisibilityPane
+\i (00:36:40) pick grid 329.9629 263.6321
+\t (00:36:40) last pick:  329.9629 263.6321
+\i (00:36:40) pick grid dbl 329.9629 263.6321
+\t (00:36:40) last pick:  329.9629 263.6321
+\i (00:36:41) updateport VisibilityPane
+\i (00:36:41) pick grid 329.9629 263.6321
+\t (00:36:41) last pick:  329.9629 263.6321
+\i (00:36:41) updateport VisibilityPane
+\i (00:36:42) pick grid 330.3531 253.2273
+\t (00:36:42) last pick:  330.3531 253.2273
+\i (00:36:42) pick grid dbl 330.3531 253.2273
+\t (00:36:42) last pick:  330.3531 253.2273
+\i (00:36:42) ucp_shape_edit_mode 
+\i (00:36:42) ucp_shape_edit_mode 
+\i (00:36:42) updateport ReportsPane
+\i (00:36:42) updateport SearchPane
+\i (00:36:42) updateport VisibilityPane
+\i (00:36:42) updateport PropPane
+\i (00:36:42) ucpedit 
+\i (00:36:43) drag_start grid 330.4831 266.4934
+\i (00:36:43) drag shape main 
+\i (00:36:45) drag_stop grid 324.6304 261.8113
+\i (00:36:45) updateport ReportsPane
+\i (00:36:45) updateport SearchPane
+\i (00:36:45) updateport VisibilityPane
+\i (00:36:45) updateport PropPane
+\i (00:36:45) ucpedit 
+\i (00:36:48) drag_start grid 240.7416 192.7493
+\i (00:36:48) drag shape main 
+\i (00:36:49) drag_stop grid 248.0249 202.2437
+\i (00:36:49) updateport ReportsPane
+\i (00:36:49) updateport SearchPane
+\i (00:36:49) updateport VisibilityPane
+\i (00:36:49) updateport PropPane
+\i (00:36:49) ucpedit 
+\i (00:36:50) drag_start grid 347.5210 245.5537
+\i (00:36:50) drag_stop 350.1222 200.2928
+\i (00:36:51) pick grid 350.1222 200.2928
+\t (00:36:51) last pick:  350.1222 200.2928
+\i (00:36:51) updateport ReportsPane
+\i (00:36:51) updateport SearchPane
+\i (00:36:51) updateport VisibilityPane
+\i (00:36:51) updateport PropPane
+\i (00:36:52) esc 
+\i (00:36:52) ucp_selection_mode 
+\i (00:36:52) ucpedit 
+\i (00:36:52) updateport VisibilityPane
+\i (00:36:52) esc 
+\i (00:36:53) save 
+\i (00:36:54) fillin yes 
+\t (00:36:54) > Sending response DoneOpenBoard
+\i (00:36:54) updateport ReportsPane
+\i (00:36:54) updateport SearchPane
+\i (00:36:54) updateport PropPane
+\i (00:36:54) ucpedit 
+\i (00:36:54) updateport VisibilityPane
+\i (00:36:59) updateport VisibilityPane
+\i (00:40:02) updateport VisibilityPane
+\i (00:40:07) updateport VisibilityPane
+\i (00:40:12) updateport VisibilityPane
+\i (00:40:14) QtSignal PropertySelectionFilterWidget ObjectAll clicked
+\i (00:40:27) QtSignal PropertySelectionFilterWidget Text clicked on
+\i (00:40:29) updateport VisibilityPane
+\i (00:48:54) updateport VisibilityPane
+\i (00:48:57) zoom in 1 
+\i (00:48:57) setwindow pcb
+\i (00:48:57) zoom in 283.7915 254.7880
+\i (00:48:57) trapsize 3252
+\i (00:48:57) zoom in 1 
+\i (00:48:57) setwindow pcb
+\i (00:48:57) zoom in 283.7915 254.7881
+\i (00:48:57) trapsize 1626
+\i (00:49:20) QtSignal Allegro_Command_Toolbar AQCommandToolbarShapeButton leftClicked
+\i (00:49:20) ucp_shape_add_mode 
+\i (00:49:20) updateport VisibilityPane
+\i (00:49:20) ucpedit 
+\i (00:49:20) updateport VisibilityPane
+\i (00:49:22) QtSignal ShapeAddModes ShapeCreatorShapeType CurrentIndexChanged 2
+\i (00:49:41) QtSignal UCP_Shape_add ClassesDropDownComboBox CurrentIndexChanged Silkscreen
+\i (00:49:41) QtSignal UCP_Shape_add ClassesDropDownComboBox activated Silkscreen
+\i (00:49:41) ucp_shape_add_mode 
+\i (00:49:41) updateport VisibilityPane
+\i (00:49:41) ucpedit 
+\i (00:49:41) updateport VisibilityPane
+\i (00:49:59) QtSignal UCP_Shape_add SubclassesDropDownComboBox CurrentIndexChanged "Silkscreen_Top"
+\i (00:49:59) QtSignal UCP_Shape_add SubclassesDropDownComboBox activated "Silkscreen_Top"
+\i (00:49:59) ucp_shape_add_mode 
+\i (00:50:00) updateport VisibilityPane
+\i (00:50:00) ucpedit 
+\i (00:50:00) updateport VisibilityPane
+\i (00:50:04) drag_start grid 284.4094 257.3568
+\i (00:50:05) drag_stop 285.1572 256.5765
+\i (00:50:07) pick grid 284.5719 257.1617
+\t (00:50:07) last pick:  284.5719 257.1617
+\i (00:50:07) ucp_add_shape_start_draw 
+\t (00:50:07) last pick:  284.5719 257.1617
+\i (00:50:07) updateport VisibilityPane
+\i (00:50:13) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:14) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:15) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:15) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged
+\i (00:50:16) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged +
+\i (00:50:16) QtSignal "50 / 125"
+\i (00:50:16) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMicrons selectionChanged +
+\i (00:50:16) QtSignal "50 / 125"
+\i (00:50:20) pick grid 284.6045 255.8936
+\t (00:50:20) last pick:  284.6045 255.8936
+\i (00:50:20) ucp_shape_edit_mode_from_add 
+\i (00:50:20) updateport ReportsPane
+\i (00:50:20) updateport SearchPane
+\i (00:50:20) updateport VisibilityPane
+\i (00:50:20) updateport PropPane
+\i (00:50:20) ucpedit 
+\i (00:50:24) pick grid 299.3013 248.8704
+\t (00:50:24) last pick:  299.3013 248.8704
+\i (00:50:24) ucp_add_shape_start_draw 
+\t (00:50:24) last pick:  299.3013 248.8704
+\i (00:50:24) updateport ReportsPane
+\i (00:50:24) updateport SearchPane
+\i (00:50:24) updateport VisibilityPane
+\i (00:50:24) updateport PropPane
+\i (00:50:28) pick grid 298.5534 248.7403
+\t (00:50:28) last pick:  298.5534 248.7403
+\i (00:50:28) ucp_shape_edit_mode_from_add 
+\i (00:50:28) updateport ReportsPane
+\i (00:50:28) updateport SearchPane
+\i (00:50:28) updateport VisibilityPane
+\i (00:50:28) updateport PropPane
+\i (00:50:28) ucpedit 
+\i (00:50:33) pick grid 298.9111 243.8956
+\t (00:50:33) last pick:  298.9111 243.8956
+\i (00:50:33) ucp_add_shape_start_draw 
+\t (00:50:33) last pick:  298.9111 243.8956
+\i (00:50:33) updateport ReportsPane
+\i (00:50:33) updateport SearchPane
+\i (00:50:33) updateport VisibilityPane
+\i (00:50:33) updateport PropPane
+\i (00:50:37) pick grid 298.1632 243.5379
+\t (00:50:37) last pick:  298.1632 243.5379
+\i (00:50:37) ucp_shape_edit_mode_from_add 
+\i (00:50:37) updateport ReportsPane
+\i (00:50:37) updateport SearchPane
+\i (00:50:37) updateport VisibilityPane
+\i (00:50:37) updateport PropPane
+\i (00:50:37) ucpedit 
+\i (00:50:38) zoom out 1 
+\i (00:50:38) setwindow pcb
+\i (00:50:38) zoom out 300.0491 244.2207
+\i (00:50:38) trapsize 3252
+\i (00:50:38) zoom out 1 
+\i (00:50:38) setwindow pcb
+\i (00:50:38) zoom out 300.0491 244.2208
+\i (00:50:38) trapsize 6503
+\i (00:50:40) zoom in 1 
+\i (00:50:40) setwindow pcb
+\i (00:50:40) zoom in 272.0862 233.8159
+\i (00:50:40) trapsize 3252
+\i (00:50:41) zoom in 1 
+\i (00:50:41) setwindow pcb
+\i (00:50:41) zoom in 273.3218 232.1902
+\i (00:50:41) trapsize 1626
+\i (00:50:43) pick grid 276.4108 232.1252
+\t (00:50:43) last pick:  276.4108 232.1252
+\i (00:50:43) ucp_add_shape_start_draw 
+\t (00:50:43) last pick:  276.4108 232.1252
+\i (00:50:43) updateport ReportsPane
+\i (00:50:43) updateport SearchPane
+\i (00:50:43) updateport VisibilityPane
+\i (00:50:43) updateport PropPane
+\i (00:50:45) esc 
+\e (00:50:45) ERROR(SPMHDB-67): The coordinate buffer is incomplete.
+\i (00:50:45) updateport ReportsPane
+\i (00:50:45) updateport SearchPane
+\i (00:50:45) updateport PropPane
+\i (00:50:45) ucpedit 
+\i (00:50:45) updateport VisibilityPane
+\i (00:50:46) zoom in 1 
+\i (00:50:46) setwindow pcb
+\i (00:50:46) zoom in 276.5408 230.2068
+\i (00:50:46) trapsize 813
+\i (00:50:48) drag_start grid 276.3945 231.9139
+\i (00:50:49) drag_stop 277.0123 231.4262
+\i (00:50:52) pick grid 276.3132 231.8976
+\t (00:50:52) last pick:  276.3132 231.8976
+\i (00:50:52) ucp_add_shape_start_draw 
+\t (00:50:52) last pick:  276.3132 231.8976
+\i (00:50:52) updateport VisibilityPane
+\i (00:50:53) pick grid 276.7034 231.4424
+\t (00:50:53) last pick:  276.7034 231.4424
+\i (00:50:53) ucp_shape_edit_mode_from_add 
+\i (00:50:53) updateport ReportsPane
+\i (00:50:53) updateport SearchPane
+\i (00:50:53) updateport VisibilityPane
+\i (00:50:53) updateport PropPane
+\i (00:50:53) ucpedit 
+\i (00:50:55) pick grid 276.2157 235.4093
+\t (00:50:55) last pick:  276.2157 235.4093
+\i (00:50:55) ucp_add_shape_start_draw 
+\t (00:50:55) last pick:  276.2157 235.4093
+\i (00:50:55) updateport ReportsPane
+\i (00:50:55) updateport SearchPane
+\i (00:50:55) updateport VisibilityPane
+\i (00:50:55) updateport PropPane
+\i (00:50:56) pick grid 276.7034 235.1004
+\t (00:50:56) last pick:  276.7034 235.1004
+\i (00:50:56) ucp_shape_edit_mode_from_add 
+\i (00:50:56) updateport ReportsPane
+\i (00:50:56) updateport SearchPane
+\i (00:50:56) updateport VisibilityPane
+\i (00:50:56) updateport PropPane
+\i (00:50:56) ucpedit 
+\i (00:50:57) zoom out 1 
+\i (00:50:57) setwindow pcb
+\i (00:50:57) zoom out 275.7605 232.7268
+\i (00:50:57) trapsize 1626
+\i (00:50:57) zoom out 1 
+\i (00:50:57) setwindow pcb
+\i (00:50:57) zoom out 275.7605 232.7268
+\i (00:50:57) trapsize 3251
+\i (00:51:02) zoom out 1 
+\i (00:51:02) setwindow pcb
+\i (00:51:02) zoom out 281.5481 244.8223
+\i (00:51:02) trapsize 6503
+\i (00:51:03) zoom in 1 
+\i (00:51:03) setwindow pcb
+\i (00:51:03) zoom in 286.7505 208.1454
+\i (00:51:03) trapsize 3251
+\i (00:51:04) zoom in 1 
+\i (00:51:04) setwindow pcb
+\i (00:51:04) zoom in 286.7505 208.1454
+\i (00:51:04) trapsize 1626
+\i (00:51:04) zoom in 1 
+\i (00:51:04) setwindow pcb
+\i (00:51:04) zoom in 286.7505 208.1454
+\i (00:51:04) trapsize 813
+\i (00:51:07) drag_start grid 284.9784 209.6086
+\i (00:51:08) drag_stop 284.7996 209.7875
+\i (00:51:08) pick grid 284.7996 209.7875
+\t (00:51:08) last pick:  284.7996 209.7875
+\i (00:51:08) ucp_add_shape_start_draw 
+\t (00:51:08) last pick:  284.7996 209.7875
+\i (00:51:08) updateport ReportsPane
+\i (00:51:08) updateport SearchPane
+\i (00:51:08) updateport VisibilityPane
+\i (00:51:08) updateport PropPane
+\i (00:51:09) pick grid 284.3932 210.0638
+\t (00:51:09) last pick:  284.3932 210.0638
+\i (00:51:09) ucp_shape_edit_mode_from_add 
+\i (00:51:09) updateport ReportsPane
+\i (00:51:09) updateport SearchPane
+\i (00:51:09) updateport VisibilityPane
+\i (00:51:09) updateport PropPane
+\i (00:51:09) ucpedit 
+\i (00:51:10) zoom out 1 
+\i (00:51:10) setwindow pcb
+\i (00:51:10) zoom out 284.3769 210.0476
+\i (00:51:10) trapsize 1626
+\i (00:51:11) zoom out 1 
+\i (00:51:11) setwindow pcb
+\i (00:51:11) zoom out 284.3769 210.0476
+\i (00:51:11) trapsize 3251
+\i (00:51:11) zoom out 1 
+\i (00:51:11) setwindow pcb
+\i (00:51:11) zoom out 284.3769 210.0475
+\i (00:51:11) trapsize 6503
+\i (00:51:12) prepopup 284.5070 210.1776
+\i (00:51:13) pick grid 275.9231 199.1225
+\t (00:51:13) last pick:  275.9231 199.1225
+\i (00:51:13) ucp_add_shape_start_draw 
+\t (00:51:13) last pick:  275.9231 199.1225
+\i (00:51:13) updateport ReportsPane
+\i (00:51:13) updateport SearchPane
+\i (00:51:13) updateport VisibilityPane
+\i (00:51:13) updateport PropPane
+\i (00:51:14) esc 
+\e (00:51:14) ERROR(SPMHDB-67): The coordinate buffer is incomplete.
+\i (00:51:14) updateport ReportsPane
+\i (00:51:14) updateport SearchPane
+\i (00:51:14) updateport PropPane
+\i (00:51:14) ucpedit 
+\i (00:51:14) updateport VisibilityPane
+\i (00:51:16) zoom in 1 
+\i (00:51:16) setwindow pcb
+\i (00:51:16) zoom in 299.4639 221.7530
+\i (00:51:16) trapsize 3251
+\i (00:51:17) zoom in 1 
+\i (00:51:17) setwindow pcb
+\i (00:51:17) zoom in 299.4639 221.4279
+\i (00:51:17) trapsize 1626
+\i (00:51:21) zoom in 1 
+\i (00:51:21) setwindow pcb
+\i (00:51:21) zoom in 298.4560 222.2083
+\i (00:51:21) trapsize 813
+\i (00:51:24) pick grid 298.7161 221.8019
+\t (00:51:24) last pick:  298.7161 221.8019
+\i (00:51:24) ucp_add_shape_start_draw 
+\t (00:51:24) last pick:  298.7161 221.8019
+\i (00:51:24) updateport VisibilityPane
+\i (00:51:25) pick grid 298.8949 222.2896
+\t (00:51:25) last pick:  298.8949 222.2896
+\i (00:51:25) ucp_shape_edit_mode_from_add 
+\i (00:51:25) updateport ReportsPane
+\i (00:51:25) updateport SearchPane
+\i (00:51:25) updateport VisibilityPane
+\i (00:51:25) updateport PropPane
+\i (00:51:25) ucpedit 
+\i (00:51:26) pick grid 298.5698 219.7210
+\t (00:51:26) last pick:  298.5698 219.7210
+\i (00:51:26) ucp_add_shape_start_draw 
+\t (00:51:27) last pick:  298.5698 219.7210
+\i (00:51:27) updateport ReportsPane
+\i (00:51:27) updateport SearchPane
+\i (00:51:27) updateport VisibilityPane
+\i (00:51:27) updateport PropPane
+\i (00:51:28) pick grid 299.0087 219.3145
+\t (00:51:28) last pick:  299.0087 219.3145
+\i (00:51:28) ucp_shape_edit_mode_from_add 
+\i (00:51:28) updateport ReportsPane
+\i (00:51:28) updateport SearchPane
+\i (00:51:28) updateport VisibilityPane
+\i (00:51:28) updateport PropPane
+\i (00:51:28) ucpedit 
+\i (00:51:28) zoom out 1 
+\i (00:51:28) setwindow pcb
+\i (00:51:28) zoom out 299.0087 219.2983
+\i (00:51:28) trapsize 1626
+\i (00:51:28) zoom out 1 
+\i (00:51:28) setwindow pcb
+\i (00:51:28) zoom out 299.0088 219.2982
+\i (00:51:28) trapsize 3251
+\i (00:52:03) zoom in 1 
+\i (00:52:03) setwindow pcb
+\i (00:52:03) zoom in 248.6756 236.7913
+\i (00:52:03) trapsize 1626
+\i (00:52:03) zoom in 1 
+\i (00:52:03) setwindow pcb
+\i (00:52:03) zoom in 253.7154 237.7993
+\i (00:52:03) trapsize 813
+\i (00:52:05) QtSignal Allegro_Command_Toolbar AQCommandToolbarShapeButton rightClicked
+\i (00:52:12) QtSignal Allegro_Command_Toolbar AQCommandToolbarShapeButton leftClicked
+\i (00:52:12) ucp_shape_add_mode 
+\i (00:52:12) updateport ReportsPane
+\i (00:52:12) updateport SearchPane
+\i (00:52:12) updateport VisibilityPane
+\i (00:52:12) updateport PropPane
+\i (00:52:12) ucpedit 
+\i (00:52:12) updateport VisibilityPane
+\i (00:52:18) QtSignal Allegro_Command_Toolbar AQCommandToolbarSelectButton rightClicked
+\i (00:52:24) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddGeneralButton rightClicked
+\i (00:52:26) QtSignal AddGeneralPopUpMenu Add_Line clicked
+\i (00:52:26) ucp_add_line_mode 
+\i (00:52:26) ucpedit 
+\i (00:52:26) updateport VisibilityPane
+\i (00:52:29) pick grid 257.8123 234.8892
+\t (00:52:29) last pick:  257.8123 234.8892
+\i (00:52:32) pick grid 257.7961 234.7754
+\t (00:52:32) last pick:  257.7961 234.7754
+\i (00:52:32) ucp_add_line 
+\i (00:52:40) pick grid 250.4802 234.9705
+\t (00:52:40) last pick:  250.4802 234.9705
+\i (00:52:40) updateport ReportsPane
+\i (00:52:40) updateport SearchPane
+\i (00:52:40) updateport PropPane
+\i (00:52:40) ucpedit 
+\i (00:52:40) updateport VisibilityPane
+\i (00:52:43) pick grid 257.9424 240.0428
+\t (00:52:43) last pick:  257.9424 240.0428
+\i (00:52:45) pick grid 250.3827 234.9380
+\t (00:52:45) last pick:  250.3827 234.9380
+\i (00:52:45) ucp_add_line 
+\i (00:52:49) pick grid 250.4802 239.9778
+\t (00:52:49) last pick:  250.4802 239.9778
+\i (00:52:49) updateport ReportsPane
+\i (00:52:49) updateport SearchPane
+\i (00:52:49) updateport PropPane
+\i (00:52:49) ucpedit 
+\i (00:52:49) updateport VisibilityPane
+\i (00:52:50) pick grid 250.5290 240.0591
+\t (00:52:50) last pick:  250.5290 240.0591
+\i (00:52:50) ucp_add_line 
+\i (00:52:52) pick grid 257.2271 239.9616
+\t (00:52:52) last pick:  257.2271 239.9616
+\i (00:52:52) updateport ReportsPane
+\i (00:52:52) updateport SearchPane
+\i (00:52:52) updateport PropPane
+\i (00:52:52) ucpedit 
+\i (00:52:52) updateport VisibilityPane
+\i (00:52:55) pick grid 250.4802 237.4091
+\t (00:52:55) last pick:  250.4802 237.4091
+\i (00:52:56) ucp_add_line 
+\i (00:52:57) pick grid 254.8697 237.6042
+\t (00:52:57) last pick:  254.8697 237.6042
+\i (00:52:57) updateport ReportsPane
+\i (00:52:57) updateport SearchPane
+\i (00:52:57) updateport PropPane
+\i (00:52:57) ucpedit 
+\i (00:52:57) updateport VisibilityPane
+\i (00:52:59) pick grid 255.2762 239.9941
+\t (00:52:59) last pick:  255.2762 239.9941
+\i (00:52:59) ucp_add_line 
+\i (00:53:00) pick grid 255.0811 235.5070
+\t (00:53:00) last pick:  255.0811 235.5070
+\i (00:53:00) updateport ReportsPane
+\i (00:53:00) updateport SearchPane
+\i (00:53:01) updateport PropPane
+\i (00:53:01) ucpedit 
+\i (00:53:01) updateport VisibilityPane
+\i (00:53:02) pick grid 257.8123 239.9616
+\t (00:53:02) last pick:  257.8123 239.9616
+\i (00:53:04) pick grid 257.8611 234.8730
+\t (00:53:04) last pick:  257.8611 234.8730
+\i (00:53:10) undo 
+\i (00:53:10) trapsize 813
+\i (00:53:10) updateport ReportsPane
+\i (00:53:10) updateport SearchPane
+\i (00:53:10) updateport VisibilityPane
+\i (00:53:10) updateport PropPane
+\i (00:53:10) ucpedit 
+\i (00:53:10) updateport VisibilityPane
+\i (00:53:10) undo 
+\i (00:53:10) trapsize 813
+\i (00:53:10) updateport ReportsPane
+\i (00:53:10) updateport SearchPane
+\i (00:53:10) updateport VisibilityPane
+\i (00:53:10) updateport PropPane
+\i (00:53:10) ucpedit 
+\i (00:53:10) updateport VisibilityPane
+\i (00:53:10) undo 
+\i (00:53:10) trapsize 813
+\i (00:53:10) updateport ReportsPane
+\i (00:53:10) updateport SearchPane
+\i (00:53:10) updateport VisibilityPane
+\i (00:53:10) updateport PropPane
+\i (00:53:10) ucpedit 
+\i (00:53:10) updateport VisibilityPane
+\i (00:53:11) undo 
+\i (00:53:11) trapsize 813
+\i (00:53:11) updateport ReportsPane
+\i (00:53:11) updateport SearchPane
+\i (00:53:11) updateport VisibilityPane
+\i (00:53:11) updateport PropPane
+\i (00:53:11) ucpedit 
+\i (00:53:11) updateport VisibilityPane
+\i (00:53:11) undo 
+\i (00:53:11) trapsize 813
+\i (00:53:11) updateport ReportsPane
+\i (00:53:11) updateport SearchPane
+\i (00:53:11) updateport VisibilityPane
+\i (00:53:11) updateport PropPane
+\i (00:53:11) ucpedit 
+\i (00:53:11) updateport VisibilityPane
+\i (00:53:15) QtSignal UCP_Add_Line_Arc UCPAddLineArc_Use_ComboBox CurrentIndexChanged Silkscreen
+\i (00:53:15) QtSignal UCP_Add_Line_Arc UCPAddLineArc_Use_ComboBox activated Silkscreen
+\i (00:53:18) QtSignal UCP_Add_Line_Arc UCPAddLineArc_Layer_ComboBox CurrentIndexChanged "Silkscreen_Top"
+\i (00:53:18) QtSignal UCP_Add_Line_Arc UCPAddLineArc_Layer_ComboBox activated "Silkscreen_Top"
+\i (00:53:21) pick grid 257.9587 235.0193
+\t (00:53:21) last pick:  257.9587 235.0193
+\i (00:53:23) pick grid 257.6985 234.8079
+\t (00:53:23) last pick:  257.6985 234.8079
+\i (00:53:25) pick grid 257.7798 234.9542
+\t (00:53:25) last pick:  257.7798 234.9542
+\i (00:53:27) pick grid 257.8449 234.7754
+\t (00:53:27) last pick:  257.8449 234.7754
+\i (00:53:27) ucp_add_line 
+\i (00:53:33) pick grid 250.7241 234.9542
+\t (00:53:33) last pick:  250.7241 234.9542
+\i (00:53:33) updateport ReportsPane
+\i (00:53:33) updateport SearchPane
+\i (00:53:33) updateport PropPane
+\i (00:53:33) ucpedit 
+\i (00:53:34) updateport VisibilityPane
+\i (00:53:36) pick grid 257.7798 240.0591
+\t (00:53:36) last pick:  257.7798 240.0591
+\i (00:53:38) pick grid 250.7078 235.0193
+\t (00:53:38) last pick:  250.7078 235.0193
+\i (00:53:38) ucp_add_line 
+\i (00:53:41) pick grid 250.7078 240.0103
+\t (00:53:41) last pick:  250.7078 240.0103
+\i (00:53:41) updateport ReportsPane
+\i (00:53:41) updateport SearchPane
+\i (00:53:41) updateport PropPane
+\i (00:53:41) ucpedit 
+\i (00:53:41) updateport VisibilityPane
+\i (00:53:42) pick grid 250.6590 239.9290
+\t (00:53:42) last pick:  250.6590 239.9290
+\i (00:53:42) ucp_add_line 
+\i (00:53:44) pick grid 257.2271 240.1729
+\t (00:53:44) last pick:  257.2271 240.1729
+\i (00:53:44) updateport ReportsPane
+\i (00:53:44) updateport SearchPane
+\i (00:53:44) updateport PropPane
+\i (00:53:44) ucpedit 
+\i (00:53:44) updateport VisibilityPane
+\i (00:53:45) pick grid 257.8774 239.9290
+\t (00:53:45) last pick:  257.8774 239.9290
+\i (00:53:45) ucp_add_line 
+\i (00:53:47) pick grid 257.9587 235.5070
+\t (00:53:47) last pick:  257.9587 235.5070
+\i (00:53:47) updateport ReportsPane
+\i (00:53:47) updateport SearchPane
+\i (00:53:47) updateport PropPane
+\i (00:53:47) ucpedit 
+\i (00:53:47) updateport VisibilityPane
+\i (00:53:48) pick grid 255.1949 234.9380
+\t (00:53:48) last pick:  255.1949 234.9380
+\i (00:53:48) ucp_add_line 
+\i (00:53:50) pick grid 254.8697 239.6364
+\t (00:53:50) last pick:  254.8697 239.6364
+\i (00:53:50) updateport ReportsPane
+\i (00:53:50) updateport SearchPane
+\i (00:53:50) updateport PropPane
+\i (00:53:50) ucpedit 
+\i (00:53:50) updateport VisibilityPane
+\i (00:53:51) pick grid 250.7241 237.4742
+\t (00:53:51) last pick:  250.7241 237.4742
+\i (00:53:51) ucp_add_line 
+\i (00:53:53) pick grid 254.6421 237.3278
+\t (00:53:53) last pick:  254.6421 237.3278
+\i (00:53:53) updateport ReportsPane
+\i (00:53:53) updateport SearchPane
+\i (00:53:53) updateport PropPane
+\i (00:53:53) ucpedit 
+\i (00:53:53) updateport VisibilityPane
+\i (00:54:03) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddGeneralButton rightClicked
+\i (00:54:04) QtSignal AddGeneralPopUpMenu Add_Text clicked
+\i (00:54:04) ucp_add_text_mode 
+\i (00:54:04) ucpedit 
+\i (00:54:04) updateport VisibilityPane
+\i (00:54:06) pick grid 251.1793 239.4901
+\t (00:54:06) last pick:  251.1793 239.4901
+\i (00:54:06) ucp_add_text 
+\t (00:54:06) Pick text location.
+\t (00:54:06) Enter text string.
+\i (00:54:09) setwindow pcb
+\i (00:54:09) pick grid 251.2768 238.5309
+\t (00:54:09) last pick:  251.2768 238.5309
+\t (00:54:09) Enter text string.
+\i (00:54:09) setwindow pcb
+\i (00:54:09) updateport ReportsPane
+\i (00:54:09) updateport SearchPane
+\i (00:54:09) updateport PropPane
+\i (00:54:14) QtSignal UCP_Add_Text AddText_TextBlock_SpinBox valueChanged 2
+\i (00:54:18) pick grid 251.3419 236.4012
+\t (00:54:18) last pick:  251.3419 236.4012
+\i (00:54:18) setwindow pcb
+\i (00:54:18) pick 251.3000 238.5500
+\t (00:54:18) Enter text string.
+\i (00:54:18) setwindow pcb
+\i (00:54:18) updateport ReportsPane
+\i (00:54:18) updateport SearchPane
+\i (00:54:18) updateport PropPane
+\i (00:54:20) pick grid 251.2768 236.0110
+\t (00:54:20) last pick:  251.2768 236.0110
+\t (00:54:20) Enter text string.
+\i (00:54:20) setwindow pcb
+\i (00:54:20) updateport ReportsPane
+\i (00:54:20) updateport SearchPane
+\i (00:54:20) updateport PropPane
+\i (00:54:22) backspace 
+\i (00:54:23) backspace 
+\i (00:54:25) pick grid 252.3498 238.4333
+\t (00:54:25) last pick:  252.3498 238.4333
+\i (00:54:25) setwindow pcb
+\i (00:54:25) pick 251.3000 236.0000
+\t (00:54:25) Enter text string.
+\i (00:54:25) setwindow pcb
+\i (00:54:25) updateport ReportsPane
+\i (00:54:25) updateport SearchPane
+\i (00:54:25) updateport PropPane
+\i (00:54:26) backspace 
+\i (00:54:27) pick grid 251.9922 238.6772
+\t (00:54:27) last pick:  251.9922 238.6772
+\t (00:54:27) Enter text string.
+\i (00:54:27) setwindow pcb
+\i (00:54:27) updateport ReportsPane
+\i (00:54:27) updateport SearchPane
+\i (00:54:27) updateport PropPane
+\i (00:54:29) pick grid 251.5370 238.2708
+\t (00:54:29) last pick:  251.5370 238.2708
+\t (00:54:29) Enter text string.
+\i (00:54:29) setwindow pcb
+\i (00:54:29) updateport ReportsPane
+\i (00:54:29) updateport SearchPane
+\i (00:54:29) updateport PropPane
+\i (00:54:33) pick grid 252.5124 241.3922
+\t (00:54:33) last pick:  252.5124 241.3922
+\i (00:54:33) setwindow pcb
+\i (00:54:33) pick 251.5500 238.2500
+\t (00:54:33) Enter text string.
+\i (00:54:33) setwindow pcb
+\i (00:54:33) updateport ReportsPane
+\i (00:54:33) updateport SearchPane
+\i (00:54:33) updateport PropPane
+\i (00:54:34) esc 
+\i (00:54:34) updateport ReportsPane
+\i (00:54:34) updateport SearchPane
+\i (00:54:34) updateport PropPane
+\i (00:54:34) ucpedit 
+\i (00:54:34) updateport VisibilityPane
+\i (00:54:34) esc 
+\i (00:54:34) updateport VisibilityPane
+\i (00:54:35) esc 
+\i (00:54:35) ucp_selection_mode 
+\i (00:54:35) ucpedit 
+\i (00:54:35) updateport VisibilityPane
+\i (00:54:35) esc 
+\i (00:54:36) pick grid 251.2931 238.7585
+\t (00:54:36) last pick:  251.2931 238.7585
+\i (00:54:36) updateport VisibilityPane
+\i (00:54:37) ucp_delete 
+\i (00:54:37) updateport ReportsPane
+\i (00:54:37) updateport SearchPane
+\i (00:54:37) updateport PropPane
+\i (00:54:37) ucpedit 
+\i (00:54:37) updateport VisibilityPane
+\i (00:54:39) updateport VisibilityPane
+\i (00:54:42) updateport VisibilityPane
+\i (00:54:45) updateport VisibilityPane
+\i (00:54:46) updateport VisibilityPane
+\i (00:54:47) pick grid 252.5774 238.3846
+\t (00:54:47) last pick:  252.5774 238.3846
+\i (00:54:47) pick grid dbl 252.5774 238.3846
+\t (00:54:47) last pick:  252.5774 238.3846
+\i (00:54:47) updateport VisibilityPane
+\i (00:54:48) updateport VisibilityPane
+\i (00:54:49) updateport VisibilityPane
+\i (00:54:52) QtSignal PropertyGeneralWidget PropertyAttrFieldTextString editingFinished VDD
+\i (00:54:52) updateport ReportsPane
+\i (00:54:52) updateport SearchPane
+\i (00:54:52) updateport PropPane
+\i (00:54:53) pick grid 262.6083 238.4333
+\t (00:54:53) last pick:  262.6083 238.4333
+\i (00:54:53) updateport VisibilityPane
+\i (00:54:54) updateport VisibilityPane
+\i (00:55:00) updateport VisibilityPane
+\i (00:55:05) QtSignal VisibilityNetsWidget VisNetsGroupsAccordion headerClicked 0
+\i (00:55:07) QtSignal VisibilityNetsWidget VisNetsDiffpairsAccordion headerClicked 0
+\i (00:55:10) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (00:55:10) QtSignal 0
+\i (00:55:10) updateport ReportsPane
+\i (00:55:10) updateport SearchPane
+\i (00:55:10) updateport VisibilityPane
+\i (00:55:10) updateport PropPane
+\i (00:55:11) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (00:55:11) QtSignal 1
+\i (00:55:11) updateport ReportsPane
+\i (00:55:11) updateport SearchPane
+\i (00:55:11) updateport VisibilityPane
+\i (00:55:11) updateport PropPane
+\i (00:55:18) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Silkscreen_Top" +
+\i (00:55:18) QtSignal Traces 0
+\i (00:55:18) updateport ReportsPane
+\i (00:55:18) updateport SearchPane
+\i (00:55:18) updateport VisibilityPane
+\i (00:55:18) updateport PropPane
+\i (00:55:19) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Silkscreen_Top" +
+\i (00:55:19) QtSignal Traces 1
+\i (00:55:19) updateport ReportsPane
+\i (00:55:19) updateport SearchPane
+\i (00:55:19) updateport VisibilityPane
+\i (00:55:19) updateport PropPane
+\i (00:55:20) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Silkscreen_Top" +
+\i (00:55:20) QtSignal Shapes 0
+\i (00:55:20) updateport ReportsPane
+\i (00:55:20) updateport SearchPane
+\i (00:55:20) updateport VisibilityPane
+\i (00:55:20) updateport PropPane
+\i (00:55:21) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Silkscreen_Top" +
+\i (00:55:21) QtSignal Shapes 1
+\i (00:55:21) updateport ReportsPane
+\i (00:55:21) updateport SearchPane
+\i (00:55:21) updateport VisibilityPane
+\i (00:55:21) updateport PropPane
+\i (00:55:24) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (00:55:24) QtSignal 0
+\i (00:55:24) updateport ReportsPane
+\i (00:55:24) updateport SearchPane
+\i (00:55:24) updateport VisibilityPane
+\i (00:55:24) updateport PropPane
+\i (00:55:25) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (00:55:25) QtSignal 1
+\i (00:55:25) updateport ReportsPane
+\i (00:55:25) updateport SearchPane
+\i (00:55:25) updateport VisibilityPane
+\i (00:55:25) updateport PropPane
+\i (00:55:30) QtSignal VisibilityNetsWidget VisNetsXNetsAccordion headerClicked 0
+\i (00:55:48) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Silkscreen_Top" +
+\i (00:55:48) QtSignal All 0
+\i (00:55:48) updateport ReportsPane
+\i (00:55:48) updateport SearchPane
+\i (00:55:48) updateport VisibilityPane
+\i (00:55:48) updateport PropPane
+\i (00:55:49) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Silkscreen_Top" +
+\i (00:55:49) QtSignal All 1
+\i (00:55:49) updateport ReportsPane
+\i (00:55:49) updateport SearchPane
+\i (00:55:49) updateport VisibilityPane
+\i (00:55:49) updateport PropPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#8f4646"
+\i (00:55:53) updateport ReportsPane
+\i (00:55:53) updateport SearchPane
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) updateport PropPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#924a4a"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#a06161"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#d3b2b2"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#eadede"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fbfbfb"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fcfcfc"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fcfcfc"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fefefe"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fefefe"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fefefe"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fefefe"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fefefe"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fefefe"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#fcfcfc"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#f6f6f6"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#f3f3f3"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#f2f2f2"
+\i (00:55:53) updateport VisibilityPane
+\i (00:55:53) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:53) QtSignal All "#f0f0f0"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#eeeeee"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#ededed"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#ebebeb"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#eaeaea"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#eaeaea"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#e8e8e8"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#e7e7e7"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#e5e5e5"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#e4e4e4"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#e4e4e4"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#e1e1e1"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#dddddd"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#dcdcdc"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#dadada"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#d7d7d7"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#d7d7d7"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:54) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellColorChanged "Silkscreen_Top" +
+\i (00:55:54) QtSignal All "#d6d6d6"
+\i (00:55:54) updateport VisibilityPane
+\i (00:55:57) pick grid 260.0884 237.2140
+\t (00:55:57) last pick:  260.0884 237.2140
+\i (00:55:57) updateport VisibilityPane
+\i (00:56:00) pick grid 252.3498 235.9134
+\t (00:56:00) last pick:  252.3498 235.9134
+\i (00:56:00) updateport VisibilityPane
+\i (00:56:18) pick grid 252.0409 236.0760
+\t (00:56:18) last pick:  252.0409 236.0760
+\i (00:56:18) updateport VisibilityPane
+\i (00:56:21) drag_start grid 250.8867 233.6374
+\i (00:56:22) drag_stop 254.4633 241.2947
+\i (00:56:22) updateport VisibilityPane
+\i (00:56:25) pick grid 253.2928 241.0996
+\t (00:56:25) last pick:  253.2928 241.0996
+\i (00:56:25) updateport VisibilityPane
+\i (00:56:26) pick grid 252.7563 238.7585
+\t (00:56:26) last pick:  252.7563 238.7585
+\i (00:56:26) updateport VisibilityPane
+\i (00:56:36) pick grid 264.9331 238.0432
+\t (00:56:36) last pick:  264.9331 238.0432
+\i (00:56:36) updateport VisibilityPane
+\i (00:56:38) pick grid 252.6750 238.6284
+\t (00:56:38) last pick:  252.6750 238.6284
+\i (00:56:38) updateport VisibilityPane
+\i (00:56:38) ucp_delete 
+\i (00:56:38) updateport ReportsPane
+\i (00:56:38) updateport SearchPane
+\i (00:56:38) updateport PropPane
+\i (00:56:38) ucpedit 
+\i (00:56:38) updateport VisibilityPane
+\i (00:56:39) pick grid 252.3498 236.6450
+\t (00:56:39) last pick:  252.3498 236.6450
+\i (00:56:39) updateport VisibilityPane
+\i (00:56:40) ucp_delete 
+\i (00:56:40) updateport ReportsPane
+\i (00:56:40) updateport SearchPane
+\i (00:56:40) updateport PropPane
+\i (00:56:40) ucpedit 
+\i (00:56:40) updateport VisibilityPane
+\i (00:56:42) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddGeneralButton leftClicked
+\i (00:56:42) ucp_add_text_mode 
+\i (00:56:42) ucpedit 
+\i (00:56:42) updateport VisibilityPane
+\i (00:56:48) QtSignal UCP_Add_Text AddText_Use_ComboBox CurrentIndexChanged Silkscreen
+\i (00:56:48) QtSignal UCP_Add_Text AddText_Use_ComboBox activated Silkscreen
+\i (00:56:50) QtSignal UCP_Add_Text AddText_Layer_ComboBox CurrentIndexChanged "Silkscreen_Top"
+\i (00:56:50) QtSignal UCP_Add_Text AddText_Layer_ComboBox activated "Silkscreen_Top"
+\i (00:56:52) QtSignal UCP_Add_Text AddText_TextBlock_SpinBox valueChanged 3
+\i (00:56:54) pick grid 250.9842 239.2625
+\t (00:56:54) last pick:  250.9842 239.2625
+\i (00:56:54) ucp_add_text 
+\t (00:56:54) Pick text location.
+\t (00:56:54) Enter text string.
+\i (00:56:56) setwindow pcb
+\i (00:56:56) pick grid 251.1468 237.9781
+\t (00:56:56) last pick:  251.1468 237.9781
+\t (00:56:56) Enter text string.
+\i (00:56:56) setwindow pcb
+\i (00:56:56) updateport ReportsPane
+\i (00:56:56) updateport SearchPane
+\i (00:56:56) updateport PropPane
+\i (00:56:57) pick grid 251.2931 238.7910
+\t (00:56:57) last pick:  251.2931 238.7910
+\t (00:56:57) Enter text string.
+\i (00:56:57) setwindow pcb
+\i (00:56:57) updateport ReportsPane
+\i (00:56:57) updateport SearchPane
+\i (00:56:57) updateport PropPane
+\i (00:56:59) pick grid 251.2768 238.6284
+\t (00:56:59) last pick:  251.2768 238.6284
+\t (00:56:59) Enter text string.
+\i (00:56:59) setwindow pcb
+\i (00:56:59) updateport ReportsPane
+\i (00:56:59) updateport SearchPane
+\i (00:56:59) updateport PropPane
+\i (00:57:00) pick grid 251.1305 238.4984
+\t (00:57:00) last pick:  251.1305 238.4984
+\t (00:57:00) Enter text string.
+\i (00:57:00) setwindow pcb
+\i (00:57:00) updateport ReportsPane
+\i (00:57:00) updateport SearchPane
+\i (00:57:00) updateport PropPane
+\i (00:57:04) pick grid 251.1305 236.1736
+\t (00:57:04) last pick:  251.1305 236.1736
+\i (00:57:04) setwindow pcb
+\i (00:57:04) pick 251.1250 238.5000
+\t (00:57:04) Enter text string.
+\i (00:57:04) setwindow pcb
+\i (00:57:04) updateport ReportsPane
+\i (00:57:04) updateport SearchPane
+\i (00:57:04) updateport PropPane
+\i (00:57:07) QtSignal Allegro_Command_Toolbar AQCommandToolbarSelectButton leftClicked
+\i (00:57:07) ucp_selection_mode 
+\i (00:57:07) setwindow pcb
+\i (00:57:07) pick 251.1250 236.1750
+\i (00:57:07) setwindow pcb
+\i (00:57:07) updateport ReportsPane
+\i (00:57:07) updateport SearchPane
+\i (00:57:07) updateport PropPane
+\i (00:57:07) ucpedit 
+\i (00:57:08) updateport VisibilityPane
+\i (00:57:09) drag_start grid 252.5774 236.7913
+\i (00:57:09) ucp_move 
+\t (00:57:09) last pick:  252.5774 236.7913
+\t (00:57:09) Pick new location for the element(s).
+\i (00:57:09) updateport VisibilityPane
+\i (00:57:09) drag_stop grid 252.5774 236.1573
+\i (00:57:09) updateport ReportsPane
+\i (00:57:09) updateport SearchPane
+\i (00:57:09) updateport PropPane
+\i (00:57:09) ucpedit 
+\i (00:57:09) updateport VisibilityPane
+\i (00:57:11) drag_start grid 252.6587 238.9048
+\i (00:57:11) ucp_move 
+\t (00:57:11) last pick:  252.6587 238.9048
+\t (00:57:11) Pick new location for the element(s).
+\i (00:57:11) updateport VisibilityPane
+\i (00:57:11) drag_stop grid 252.6587 238.4659
+\i (00:57:11) updateport ReportsPane
+\i (00:57:11) updateport SearchPane
+\i (00:57:11) updateport PropPane
+\i (00:57:11) ucpedit 
+\i (00:57:12) updateport VisibilityPane
+\i (00:57:12) pick grid 263.0473 238.6935
+\t (00:57:12) last pick:  263.0473 238.6935
+\i (00:57:12) updateport VisibilityPane
+\i (00:57:15) save 
+\i (00:57:16) fillin yes 
+\t (00:57:16) > Sending response DoneOpenBoard
+\i (00:57:16) updateport ReportsPane
+\i (00:57:16) updateport SearchPane
+\i (00:57:16) updateport PropPane
+\i (00:57:16) ucpedit 
+\i (00:57:16) updateport VisibilityPane
+\i (00:57:18) updateport VisibilityPane
+\i (00:57:19) updateport VisibilityPane
+\i (00:57:22) pick grid 256.6418 231.1500
+\t (00:57:22) last pick:  256.6418 231.1500
+\i (00:57:22) updateport VisibilityPane
+\i (00:57:23) drag_start grid 256.7881 232.4994
+\i (00:57:24) drag_stop 256.2679 230.4997
+\i (00:57:26) QtSignal PropertySelectionFilterWidget ObjectAll clicked on
+\i (00:57:28) pick grid 256.4142 231.0362
+\t (00:57:28) last pick:  256.4142 231.0362
+\i (00:57:28) updateport ReportsPane
+\i (00:57:28) updateport SearchPane
+\i (00:57:28) updateport VisibilityPane
+\i (00:57:28) updateport PropPane
+\i (00:57:29) ucp_delete 
+\i (00:57:29) updateport ReportsPane
+\i (00:57:29) updateport SearchPane
+\i (00:57:29) updateport PropPane
+\i (00:57:29) ucpedit 
+\i (00:57:29) updateport VisibilityPane
+\i (00:57:31) drag_start grid 267.7782 232.7595
+\i (00:57:31) drag_stop 266.0061 233.5561
+\i (00:57:31) updateport ReportsPane
+\i (00:57:31) updateport SearchPane
+\i (00:57:31) updateport VisibilityPane
+\i (00:57:31) updateport PropPane
+\i (00:57:32) ucp_delete 
+\i (00:57:32) updateport ReportsPane
+\i (00:57:32) updateport SearchPane
+\i (00:57:32) updateport PropPane
+\i (00:57:32) ucpedit 
+\i (00:57:32) updateport VisibilityPane
+\i (00:57:34) zoom out 1 
+\i (00:57:34) setwindow pcb
+\i (00:57:34) zoom out 266.4613 232.6782
+\i (00:57:34) trapsize 1626
+\i (00:57:34) zoom out 1 
+\i (00:57:34) setwindow pcb
+\i (00:57:34) zoom out 266.4614 232.6782
+\i (00:57:34) trapsize 3251
+\i (00:57:35) zoom in 1 
+\i (00:57:36) setwindow pcb
+\i (00:57:36) zoom in 260.0234 234.8892
+\i (00:57:36) trapsize 1626
+\i (00:57:36) zoom in 1 
+\i (00:57:36) setwindow pcb
+\i (00:57:36) zoom in 260.0234 234.8892
+\i (00:57:36) trapsize 813
+\i (00:57:37) save 
+\i (00:57:37) fillin yes 
+\t (00:57:37) > Sending response DoneOpenBoard
+\i (00:57:37) updateport ReportsPane
+\i (00:57:37) updateport SearchPane
+\i (00:57:37) updateport PropPane
+\i (00:57:38) ucpedit 
+\i (00:57:38) updateport VisibilityPane
+\i (00:58:17) prepopup 245.4892 240.6119
+\i (00:58:19) pop dyn_option_select '@:@2D/3D Toggle' 
+\i (00:58:19) ucp_switchview 
+\i (00:58:20) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:58:20) ucpedit 
+\i (00:58:20) updateport VisibilityPane
+\t (01:01:40) Performing Auto-Backup...
+\t (01:01:40) Auto-Backup successful
+\i (01:01:40) updateport ReportsPane
+\i (01:01:40) updateport SearchPane
+\i (01:01:40) updateport PropPane
+\i (01:04:57) ucp_switchview 
+\i (01:04:58) ucpedit 
+\i (01:04:58) updateport VisibilityPane
+\i (01:05:00) zoom out 1 
+\i (01:05:00) setwindow pcb
+\i (01:05:00) zoom out 252.1548 234.4666
+\i (01:05:00) trapsize 1626
+\i (01:05:00) zoom out 1 
+\i (01:05:00) setwindow pcb
+\i (01:05:00) zoom out 252.1548 234.4665
+\i (01:05:00) trapsize 3251
+\i (01:05:00) zoom out 1 
+\i (01:05:00) setwindow pcb
+\i (01:05:00) zoom out 252.1548 234.4665
+\i (01:05:00) trapsize 6503
+\i (01:05:00) zoom out 1 
+\i (01:05:00) setwindow pcb
+\i (01:05:00) zoom out 252.1549 234.4666
+\i (01:05:00) trapsize 13006
+\i (01:05:00) zoom out 1 
+\i (01:05:00) setwindow pcb
+\i (01:05:00) zoom out 252.1550 234.4665
+\i (01:05:00) trapsize 26012
+\i (01:05:01) zoom in 1 
+\i (01:05:01) setwindow pcb
+\i (01:05:01) zoom in 297.0576 246.5942
+\i (01:05:01) trapsize 13006
+\i (01:05:03) zoom in 1 
+\i (01:05:03) setwindow pcb
+\i (01:05:03) zoom in 296.0171 239.3108
+\i (01:05:03) trapsize 6503
+\i (01:05:16) prepopup 338.6769 264.4125
+\i (01:05:18) pick grid 343.3591 270.9155
+\t (01:05:18) last pick:  343.3591 270.9155
+\i (01:05:18) updateport VisibilityPane
+\i (01:05:21) save 
+\i (01:05:23) fillin yes 
+\t (01:05:23) > Sending response DoneOpenBoard
+\i (01:05:23) updateport ReportsPane
+\i (01:05:23) updateport SearchPane
+\i (01:05:23) updateport PropPane
+\i (01:05:23) ucpedit 
+\i (01:05:23) updateport VisibilityPane
+\i (01:05:30) QtSignal MainCanvas CplPrefDialog closed
+\i (01:05:30) QtSignal MainCanvas CplGrpSel closed
+\i (01:05:30) QtSignal MainCanvas ImpGrpSel closed
+\i (01:05:30) QtSignal MainCanvas ImpPrefDialog closed
+\t (01:05:35)     Journal end - Tue Oct 29 18:05:13 2024

@@ -1,0 +1,39 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : PROJECT2.brd                                  )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Fri Dec 27 16:36:10 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Current film records are deleted and saved as an attachment to the design.
+
+Creating new film records in the design as per configuration file
+	TOP
+	BOTTOM
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	ASSYTP
+	ASSYBT
+
+Processing group :Fabrication_IPC2581
+
+	Executing command :IPC2581 Database (Fabrication)
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Artwork film records needed to run PDF Export are not present
+		There was an error while generating outputs.
+
+All outputs for export group Fabrication_IPC2581 are added to PROJECT2_Fabrication_IPC2581.zip
+
+
+Configuration data is saved as an attachment to the design

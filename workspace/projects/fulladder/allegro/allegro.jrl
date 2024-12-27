@@ -1,0 +1,52 @@
+\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Oct 29 16:57:40 2024
+\t (00:00:01)         Host=DESKTOP-8178346 User=tubbadu Pid=5672 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\allegro.exe -mpssession tubbadu -proj c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\fulladder\fulladder.opj C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/projects/fulladder/allegro/FULLADDER.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged FULLADDER
+\d (00:00:02) Design opened: C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/projects/fulladder/allegro/FULLADDER.brd
+\i (00:00:02) trapsize 20115
+\i (00:00:02) trapsize 21561
+\i (00:00:02) trapsize 20115
+\i (00:00:02) trapsize 15328
+\i (00:00:03) trapsize 15328
+\t (00:00:03) > Sending response DoneOpenBoard
+\i (00:00:03) generaledit 
+\i (00:00:37) prmed 
+\i (00:00:45) setwindow form.prmedit
+\i (00:00:45) FORM prmedit text  
+\i (00:00:47) FORM prmedit text_setup_button  
+\i (00:01:09) setwindow form.textblock
+\i (00:01:09) FORM textblock 1 photoplot_width 0.10 
+\i (00:01:12) FORM textblock 2 photoplot_width 0.10 
+\i (00:01:13) FORM textblock 3 photoplot_width 0.10 
+\i (00:01:14) FORM textblock 4 photoplot_width 0.10 
+\i (00:01:15) FORM textblock 5 photoplot_width 0.10 
+\i (00:01:16) FORM textblock 6 photoplot_width 0.10 
+\i (00:01:17) FORM textblock 7 photoplot_width 0.10 
+\i (00:01:18) FORM textblock 8 photoplot_width 0.10 
+\i (00:01:18) FORM textblock 9 photoplot_width 0.10 
+\i (00:01:19) FORM textblock 10 photoplot_width 0.10 
+\i (00:01:20) FORM textblock 11 photoplot_width 0.10 
+\i (00:01:21) FORM textblock 12 photoplot_width 0.10 
+\i (00:01:22) FORM textblock 13 photoplot_width 0.10 
+\i (00:01:23) FORM textblock 14 photoplot_width 0.10 
+\i (00:01:24) FORM textblock 15 photoplot_width 0.10 
+\i (00:01:28) FORM textblock 16 photoplot_width 0.10 
+\i (00:01:31) FORM textblock done  
+\i (00:01:43) setwindow form.prmedit
+\i (00:01:43) FORM prmedit cancel  
+\i (00:01:43) setwindow pcb
+\i (00:01:43) generaledit 
+\i (00:01:45) exit 
+\e (00:01:45) Do you want to save the changes you made to FULLADDER.brd?
+\i (00:01:46) fillin yes 
+\t (00:01:46) Lic Summary:
+[16:59:25.162712] Cdslmd servers:C:\Users\tubbadu\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[16:59:25.691000] Feature usage summary:
+[16:59:25.691000] OrCAD_X_PCB_Professional_Plus
+[16:59:25.691000] OrCAD_X_Professional_Plus
+
+\t (00:01:46)     Journal end - Tue Oct 29 16:59:25 2024

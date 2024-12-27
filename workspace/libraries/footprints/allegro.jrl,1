@@ -1,0 +1,72 @@
+\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Dec 27 17:38:26 2024
+\t (00:00:01)         Host=DESKTOP-8178346 User=tubbadu Pid=6148 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\orcadx_24.1\tools\bin\allegro.exe C:\Users\tubbadu\Documents\OrCAD\ORCAD_LABORATORIES\workspace\libraries\footprints\smd_1206_resistor.dra
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "smd_1206_resistor"
+\d (00:00:04) Design opened: C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/libraries/footprints/smd_1206_resistor.dra
+\i (00:00:04) trapsize 520
+\i (00:00:04) trapsize 538
+\i (00:00:04) trapsize 520
+\i (00:00:05) trapsize 447
+\i (00:00:05) trapsize 501
+\i (00:00:05) generaledit 
+\t (00:00:05) [17:38:30.503000] Periodic Lic check successful
+[17:38:30.503000] Feature usage summary:
+
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -2.0292 1.3270
+\i (00:00:11) trapsize 1002
+\i (00:00:16) pick grid 0.4757 10.4851
+\t (00:00:16) last pick:  0.5000 10.5000
+\i (00:00:18) drag_start grid 3.9226 7.4992
+\i (00:00:18) roam y -32
+\i (00:00:18) roam y -80
+\i (00:00:18) roam y -48
+\i (00:00:19) drag_stop -4.0933 12.7124
+\i (00:00:24) prepopup 0.6361 10.6683
+\i (00:00:26) drag_start grid -3.1314 6.0993
+\i (00:00:27) drag_stop -3.8127 12.8126
+\i (00:00:27) pick grid -3.8127 12.8126
+\t (00:00:27) last pick:  -3.7500 12.7500
+\i (00:00:27) pick grid dbl -3.8127 12.8126
+\t (00:00:27) last pick:  -3.7500 12.7500
+\i (00:00:28) drag_start grid 4.8244 7.8828
+\i (00:00:29) drag_stop -3.1514 13.4338
+\i (00:00:35) prepopup 0.6160 10.4679
+\i (00:00:39) pop dyn_option_select @:@Delete 
+\i (00:00:39) delete 
+\i (00:00:39) generaledit 
+\i (00:00:39) pick grid 0.6160 10.4679
+\t (00:00:39) last pick:  0.5000 10.5000
+\i (00:00:40) drag_start grid 2.6000 9.7465
+\i (00:00:40) drag_stop -6.0973 6.6404
+\i (00:01:03) undo 
+\i (00:01:03) trapsize 1002
+\i (00:01:03) generaledit 
+\i (00:01:06) prepopup 0.5359 1.9711
+\i (00:01:08) pop dyn_option_select @:@Delete 
+\i (00:01:08) delete 
+\i (00:01:08) generaledit 
+\i (00:01:10) drag_start grid 0.6160 10.8888
+\i (00:01:10) move 
+\t (00:01:10) last pick:  0.0000 10.1600
+\t (00:01:10) Pick new location for the element(s).
+\i (00:01:12) drag_stop grid -0.1455 1.5302
+\i (00:01:12) generaledit 
+\i (00:01:26) prepopup 0.4357 1.9310
+\i (00:01:32) pick grid 7.3494 10.0471
+\t (00:01:32) last pick:  7.2500 10.0000
+\i (00:01:35) save 
+\i (00:01:36) fillin yes 
+\t (00:01:37) Symbol 'smd_1206_resistor.psm' created.
+\i (00:01:37) generaledit 
+\i (00:01:41) exit 
+\t (00:01:41) Lic Summary:
+[17:40:06.332712] Cdslmd servers:C:\Users\tubbadu\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[17:40:06.862000] Feature usage summary:
+
+\t (00:01:41)     Journal end - Fri Dec 27 17:40:06 2024

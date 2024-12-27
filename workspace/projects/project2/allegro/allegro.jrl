@@ -1,0 +1,68 @@
+\t (00:00:00) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Dec 27 16:26:55 2024
+\t (00:00:00)         Host=DESKTOP-8178346 User=tubbadu Pid=7740 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\orcadx_24.1\tools\bin\allegro.exe C:\Users\tubbadu\Documents\OrCAD\ORCAD_LABORATORIES\workspace\projects\project2\allegro\PROJECT2.brd
+\t (00:00:00) 
+\t (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PROJECT2
+\d (00:00:03) Design opened: C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/projects/project2/allegro/PROJECT2.brd
+\i (00:00:03) trapsize 4634
+\i (00:00:03) trapsize 4802
+\i (00:00:03) trapsize 4634
+\i (00:00:03) trapsize 3986
+\i (00:00:03) trapsize 3986
+\t (00:00:03) > Sending response DoneOpenBoard
+\i (00:00:03) generaledit 
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 261.7414 217.8023
+\i (00:00:24) trapsize 1993
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 261.7414 217.8024
+\i (00:00:25) trapsize 996
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 261.7415 217.8024
+\i (00:00:25) trapsize 498
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 260.5259 218.4401
+\i (00:00:26) trapsize 996
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 260.5259 218.4401
+\i (00:00:26) trapsize 1993
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 260.5259 218.4400
+\i (00:00:26) trapsize 3986
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 260.5258 218.4401
+\i (00:00:26) trapsize 7971
+\i (00:00:32) prmed 
+\i (00:00:33) setwindow form.prmedit
+\i (00:00:33) FORM prmedit text  
+\i (00:00:37) FORM prmedit text_setup_button  
+\i (00:00:44) setwindow form.textblock
+\i (00:00:44) FORM textblock 17 photoplot_width 0.1000 
+\i (00:00:46) FORM textblock 18 photoplot_width 0.1000 
+\i (00:00:51) FORM textblock done  
+\i (00:00:58) setwindow form.prmedit
+\i (00:00:58) FORM prmedit done  
+\i (00:00:58) setwindow pcb
+\i (00:00:58) generaledit 
+\i (00:01:07) save 
+\i (00:01:10) fillin yes 
+\t (00:01:10) > Sending response DoneOpenBoard
+\i (00:01:10) generaledit 
+\i (00:01:11) exit 
+\t (00:01:11) Lic Summary:
+[16:28:06.083000] Cdslmd servers:C:\Users\tubbadu\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[16:28:06.089000] Feature usage summary:
+[16:28:06.089000] OrCAD_X_PCB_Professional_Plus
+[16:28:06.089000] OrCAD_X_Professional_Plus
+
+\t (00:01:11)     Journal end - Fri Dec 27 16:28:06 2024

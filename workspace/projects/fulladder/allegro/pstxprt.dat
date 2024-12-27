@@ -1,0 +1,171 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Oct-29-2024 at 16:57:35 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='FULLADDER';
+ POST_TIME='Sep  4 2024 20:54:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS2102@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins2102@connector.\con2.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins2102@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,170)',
+ SECTION='';
+
+PART_NAME
+ J2 'CON3_JUMPER3_CON3':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS2129@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins2129@connector.\con3.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins2129@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,240)',
+ SECTION='';
+
+PART_NAME
+ J3 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS2157@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins2157@connector.\con2.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins2157@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,630)',
+ SECTION='';
+
+PART_NAME
+ U1 '74AC08_DIP10014W300L800_74AC08_0':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS38@74AC.74AC08.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins38@\74ac\.\74ac08.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins38@\74ac\.\74ac08.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,110)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS79@74AC.74AC08.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins79@\74ac\.\74ac08.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins79@\74ac\.\74ac08.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,110)',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS120@74AC.74AC08.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins120@\74ac\.\74ac08.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins120@\74ac\.\74ac08.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,110)',
+ SECTION='C';
+
+PART_NAME
+ U2 '74AC04_DIP10014W300L800_74AC04_0':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS174@74AC.74AC04.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins174@\74ac\.\74ac04.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins174@\74ac\.\74ac04.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,70)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS211@74AC.74AC04.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins211@\74ac\.\74ac04.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins211@\74ac\.\74ac04.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,70)',
+ SECTION='B';
+
+PART_NAME
+ U3 '74AC32_DIP10014W300L800_74AC32_0':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS263@74AC.74AC32.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins263@\74ac\.\74ac32.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins263@\74ac\.\74ac32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,70)',
+ SECTION='A';
+
+PART_NAME
+ U4 '74AC08_DIP10014W300L800_74AC08_0':;
+
+SECTION_NUMBER 2
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS722@74AC.74AC08.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins722@\74ac\.\74ac08.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins722@\74ac\.\74ac08.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,320)',
+ SECTION='B';
+
+PART_NAME
+ U5 '74AC04_DIP10014W300L800_74AC04_0':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS776@74AC.74AC04.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins776@\74ac\.\74ac04.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins776@\74ac\.\74ac04.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,370)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS796@74AC.74AC04.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins796@\74ac\.\74ac04.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins796@\74ac\.\74ac04.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,370)',
+ SECTION='B';
+
+PART_NAME
+ U6 '74AC32_DIP10014W300L800_74AC32_0':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS816@74AC.74AC32.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins816@\74ac\.\74ac32.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins816@\74ac\.\74ac32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,370)',
+ SECTION='A';
+
+PART_NAME
+ U7 '74AC08_DIP10014W300L800_74AC08_0':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS862@74AC.74AC08.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins862@\74ac\.\74ac08.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins862@\74ac\.\74ac08.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,410)',
+ SECTION='A';
+
+SECTION_NUMBER 3
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS904@74AC.74AC08.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins904@\74ac\.\74ac08.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins904@\74ac\.\74ac08.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,410)',
+ SECTION='C';
+
+PART_NAME
+ U8 '74AC32_DIP10014W300L800_74AC32_0':;
+
+SECTION_NUMBER 1
+ '@FULLADDER.SCHEMATIC1(SCH_1):INS1012@74AC.74AC32.NORMAL(CHIPS)':
+ C_PATH='@fulladder.schematic1(sch_1):ins1012@\74ac\.\74ac32.normal\(chips)',
+ P_PATH='@fulladder.schematic1(sch_1):page1_ins1012@\74ac\.\74ac32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,240)',
+ SECTION='A';
+
+END.

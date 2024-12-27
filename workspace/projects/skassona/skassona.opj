@@ -1,0 +1,244 @@
+(ExpressProject "skassona"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[11/05/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\skassona.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "TRUE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\skassona.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\PROJECTS\SKASSONA\SKASSONA.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\PROJECTS\SKASSONA\SKASSONA.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\skassona.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\skassona.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\SKASSONA_OUTPUT\BOM.SCH.CSV"
+      (Type "Report")
+      (DisplayName ".\SKASSONA_OUTPUT\BOM.SCH.CSV"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\skassona.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\allegro\eco.txt")))
+  (PartMRUSelector
+    (273-100K-RC
+      (FullPartName "273-100K-RC.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1729261796\273-100K-RC\CAPTURE\273-100K-RC.OLB")
+      (DeviceIndex "0"))
+    (CK05BX103K
+      (FullPartName "CK05BX103K.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1729261587\CK05BX103K\CAPTURE\CK05BX103K.OLB")
+      (DeviceIndex "0"))
+    (UCA2G470MHD
+      (FullPartName "UCA2G470MHD.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1729261457\UCA2G470MHD\CAPTURE\UCA2G470MHD.OLB")
+      (DeviceIndex "0"))
+    (MRS25000C3301FCT00
+      (FullPartName "MRS25000C3301FCT00.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1729261134\MRS25000C3301FCT00\CAPTURE\MRS25000C3301FCT00.OLB")
+      (DeviceIndex "0"))
+    (MRS25000C2201FCT00
+      (FullPartName "MRS25000C2201FCT00.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1729260938\MRS25000C2201FCT00\CAPTURE\MRS25000C2201FCT00.OLB")
+      (DeviceIndex "0"))
+    (1301.9314
+      (FullPartName "1301.9314.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1729251113\1301.9314\CAPTURE\1301.9314.OLB")
+      (DeviceIndex "0"))
+    (IRF510
+      (FullPartName "IRF510.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\IRF.OLB")
+      (DeviceIndex "0"))
+    (IRF9510
+      (FullPartName "IRF9510.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\IRF.OLB")
+      (DeviceIndex "0"))
+    (2N2222
+      (FullPartName "2N2222.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ADVANLS\BJN.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET P"
+      (FullPartName "MOSFET P.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR
+      (FullPartName "CAPACITOR.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SW_TC_SPST
+      (FullPartName "SW_TC_SPST.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-R
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CD4017BE
+      (FullPartName "CD4017BE.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1729093179\CD4017BE\CAPTURE\CD4017BE.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (NE555P
+      (FullPartName "NE555P.Normal")
+      (LibraryName
+         "C:\USERS\TUBBADU\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1729093586\NE555P\CAPTURE\NE555P.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "tubbadu")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\OrCADX_24.1\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\skassona.dsn")
+      (Path "Design Resources"
+         "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\skassona.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\skassona.dsn"
+         "555-PART")
+      (Path "Design Resources"
+         "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\skassona.dsn"
+         "COUNTER-PART")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"
+         "c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\skassona.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 329 0 493"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1161 24 511")
+        (Scroll "-77 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\PROJECTS\SKASSONA\SKASSONA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1161 24 511")
+        (Scroll "0 5")
+        (Zoom "124")
+        (Occurrence "/555-PART"))
+      (Path
+         "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\PROJECTS\SKASSONA\SKASSONA.DSN")
+      (Schematic "555-PART")
+      (Page "555-PART.SCH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1161 24 511")
+        (Scroll "0 55")
+        (Zoom "124")
+        (Occurrence "/COUNTER-PART"))
+      (Path
+         "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\PROJECTS\SKASSONA\SKASSONA.DSN")
+      (Schematic "COUNTER-PART")
+      (Page "COUNTER-PART.SCH")))
+  (ISPCBBASICLICENSE "false"))

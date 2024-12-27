@@ -1,0 +1,152 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "C1",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1162@discrete.\\capacitor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C1"
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\counter-part\\@skassona.\\counter-part\\(sch_1):ins511@discrete.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C2"
+		},
+		{
+			"Name" : "R1",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1078@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R1"
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1222@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R2"
+		},
+		{
+			"Name" : "R3",
+			"C_PATH" : "@skassona.schematic1(sch_1):ins1775@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R3"
+		},
+		{
+			"Name" : "R4",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\counter-part\\@skassona.\\counter-part\\(sch_1):ins290@discrete.\\resistor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R4"
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins2203@uca2g470mhd.\\uca2g470mhd.normal\\(chips)",
+			"Logical" : "C2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1676@mrs25000c2201fct00.\\mrs25000c2201fct00.normal\\(chips)",
+			"Logical" : "R3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R4",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1713@mrs25000c3301fct00.\\mrs25000c3301fct00.normal\\(chips)",
+			"Logical" : "R4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\counter-part\\@skassona.\\counter-part\\(sch_1):ins1126@ck05bx103k.\\ck05bx103k.normal\\(chips)",
+			"Logical" : "C3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R5",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\counter-part\\@skassona.\\counter-part\\(sch_1):ins1280@\\273-100k-rc\\.\\273-100k-rc.normal\\(chips)",
+			"Logical" : "R5",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "N01802",
+			"C_PATH" : "@skassona.schematic1(sch_1):n01802",
+			"Logical" : null,
+			"Physical" : "N01802"
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C2.2",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins2203@uca2g470mhd.\\uca2g470mhd.normal\\(chips):\\-\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C2.1",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins2203@uca2g470mhd.\\uca2g470mhd.normal\\(chips):\\+\\",
+			"Logical" : "N01072",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3.1",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1676@mrs25000c2201fct00.\\mrs25000c2201fct00.normal\\(chips):\\1\\",
+			"Logical" : "N01212",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3.2",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1676@mrs25000c2201fct00.\\mrs25000c2201fct00.normal\\(chips):\\2\\",
+			"Logical" : "N01072",
+			"Physical" : null
+		},
+		{
+			"Name" : "R4.2",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1713@mrs25000c3301fct00.\\mrs25000c3301fct00.normal\\(chips):\\2\\",
+			"Logical" : "N01212",
+			"Physical" : null
+		},
+		{
+			"Name" : "R4.1",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\555-part\\@skassona.\\555-part\\(sch_1):ins1713@mrs25000c3301fct00.\\mrs25000c3301fct00.normal\\(chips):\\1\\",
+			"Logical" : "N01305",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3.1",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\counter-part\\@skassona.\\counter-part\\(sch_1):ins1126@ck05bx103k.\\ck05bx103k.normal\\(chips):\\1\\",
+			"Logical" : "N00306",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3.2",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\counter-part\\@skassona.\\counter-part\\(sch_1):ins1126@ck05bx103k.\\ck05bx103k.normal\\(chips):\\2\\",
+			"Logical" : "VCC",
+			"Physical" : null
+		},
+		{
+			"Name" : "R5.2",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\counter-part\\@skassona.\\counter-part\\(sch_1):ins1280@\\273-100k-rc\\.\\273-100k-rc.normal\\(chips):\\2\\",
+			"Logical" : "N00306",
+			"Physical" : null
+		},
+		{
+			"Name" : "R5.1",
+			"C_PATH" : "@skassona.schematic1(sch_1):\\counter-part\\@skassona.\\counter-part\\(sch_1):ins1280@\\273-100k-rc\\.\\273-100k-rc.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "D1.1",
+			"C_PATH" : "@skassona.schematic1(sch_1):ins1750@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "GND",
+			"Physical" : "N01802"
+		}
+	]
+}

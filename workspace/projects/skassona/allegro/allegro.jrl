@@ -1,0 +1,53 @@
+\t (00:00:02) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Nov  5 13:37:48 2024
+\t (00:00:02)         Host=DESKTOP-8178346 User=tubbadu Pid=6452 CPUs=8
+\t (00:00:02) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\allegro.exe -mpssession tubbadu -proj c:\users\tubbadu\documents\orcad\orcad_laboratories\workspace\projects\skassona\skassona.opj C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/projects/skassona/allegro/SKASSONA.brd
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SKASSONA
+\d (00:00:03) Design opened: C:/Users/tubbadu/Documents/OrCAD/ORCAD_LABORATORIES/workspace/projects/skassona/allegro/SKASSONA.brd
+\i (00:00:03) trapsize 20115
+\i (00:00:03) trapsize 21561
+\i (00:00:03) trapsize 20115
+\i (00:00:03) trapsize 15328
+\i (00:00:03) trapsize 15328
+\t (00:00:03) > Sending response DoneOpenBoard
+\i (00:00:04) generaledit 
+\i (00:00:23) trapsize 9572
+\i (00:00:39) prmed 
+\i (00:00:41) setwindow form.prmedit
+\i (00:00:41) FORM prmedit text  
+\i (00:00:47) FORM prmedit text_setup_button  
+\i (00:01:00) setwindow form.textblock
+\i (00:01:00) FORM textblock 1 photoplot_width 0.10 
+\i (00:01:01) FORM textblock 2 photoplot_width 0.10 
+\i (00:01:02) FORM textblock 3 photoplot_width 0.10 
+\i (00:01:03) FORM textblock 4 photoplot_width 0.10 
+\i (00:01:04) FORM textblock 5 photoplot_width 0.10 
+\i (00:01:05) FORM textblock 6 photoplot_width 0.10 
+\i (00:01:07) FORM textblock 7 photoplot_width 0.10 
+\i (00:01:08) FORM textblock 8 photoplot_width 0.10 
+\i (00:01:08) FORM textblock 9 photoplot_width 0.10 
+\i (00:01:10) FORM textblock 10 photoplot_width 0.10 
+\i (00:01:11) FORM textblock 11 photoplot_width 0.10 
+\i (00:01:12) FORM textblock 12 photoplot_width 0.10 
+\i (00:01:13) FORM textblock 13 photoplot_width 0.10 
+\i (00:01:14) FORM textblock 14 photoplot_width 0.10 
+\i (00:01:14) FORM textblock 15 photoplot_width 0.10 
+\i (00:01:15) FORM textblock 16 photoplot_width 0.10 
+\i (00:01:20) FORM textblock done  
+\i (00:01:32) setwindow form.prmedit
+\i (00:01:32) FORM prmedit cancel  
+\i (00:01:32) setwindow pcb
+\i (00:01:32) generaledit 
+\i (00:01:34) exit 
+\e (00:01:34) Do you want to save the changes you made to SKASSONA.brd?
+\i (00:01:36) fillin yes 
+\t (00:01:36) Lic Summary:
+[13:39:22.032712] Cdslmd servers:C:\Users\tubbadu\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[13:39:22.562000] Feature usage summary:
+[13:39:22.562000] OrCAD_X_PCB_Professional_Plus
+[13:39:22.562000] OrCAD_X_Professional_Plus
+
+\t (00:01:37)     Journal end - Tue Nov  5 13:39:22 2024
