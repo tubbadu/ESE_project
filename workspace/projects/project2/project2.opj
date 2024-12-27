@@ -112,34 +112,18 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 310 0 493"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 493"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 899 24 511")
-        (Scroll "0 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1290 24 511")
+        (Scroll "-141 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\PROJECTS\PROJECT2\PROJECT2.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 899 24 511"))
-      (Path
-         "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\LIBRARIES\SYMBOLS\PROJECT_LIBRARY1.OLB")
-      (Package "RESISTOR_0_5W")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 899 24 511"))
-      (Path
-         "C:\USERS\TUBBADU\DOCUMENTS\ORCAD\ORCAD_LABORATORIES\WORKSPACE\LIBRARIES\SYMBOLS\PROJECT_LIBRARY1.OLB")
-      (Package "2N7002EQ")
-      (PartType "1")))
+      (Page "PAGE1")))
   (MPSSessionName "tubbadu")
   (ISPCBBASICLICENSE "false"))
