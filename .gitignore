@@ -5,3 +5,7 @@ workspace/log
 workspace/projects
 workspace/upload
 workspace/Template.json
+workspace/libraries/footprints/*.log
+workspace/libraries/footprints/*.jrl
+workspace/libraries/footprints/*.log*
+workspace/libraries/footprints/*.jrl*
