@@ -1,1 +1,1 @@
-smd_sot23.dra
+smt_S0D123.dra
