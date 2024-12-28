@@ -1,2 +1,4 @@
-workspace/projects/*
-!workspace/projects/project2
+cdns_internal_workspacedb
+shared_ws
+workspace
+!workspace/libraries
