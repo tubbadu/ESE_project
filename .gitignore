@@ -1,4 +1,7 @@
 cdns_internal_workspacedb
 shared_ws
-workspace
-!workspace/libraries
+workspace/config
+workspace/log
+workspace/projects
+workspace/upload
+workspace/Template.json
